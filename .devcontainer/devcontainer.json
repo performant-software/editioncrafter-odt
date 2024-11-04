@@ -5,6 +5,6 @@
   },
   "waitFor": "onCreateCommand",
   "updateContentCommand": "npm install",
-  "postCreateCommand": "npm i @cu-mkp/editioncrafter-cli",
+  "postCreateCommand": "npm install -g @cu-mkp/editioncrafter-cli",
   "forwardPorts": [3000]
 }
