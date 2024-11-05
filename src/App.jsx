@@ -4,7 +4,8 @@ import config from '../data/config.json'
 
 const configProps = {
   ...config,
-  id: 'ec'
+  id: 'ec',
+  iiifManifest: '/data/iiif/manifest.json'
 }
 
 const App = () => {
