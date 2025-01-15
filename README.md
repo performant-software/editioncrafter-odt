@@ -18,8 +18,14 @@ In the examples folder.. TODO
 
 ## Upgrading EditionCrafter
 
-This repository currently contains EditionCrafter **1.1.0**. If a newer version exists, you can upgrade by running the following command:
+This repository contains the latest version of EditionCrafter. To upgrade to a newer version in the future, run the following command:
 
 ```
 npm install @cu-mkp/editioncrafter@latest
+```
+
+You can also upgrade the EditionCrafter CLI using this command:
+
+```
+npm install @cu-mkp/editioncrafter-cli@latest
 ```
