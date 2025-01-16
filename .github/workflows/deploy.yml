@@ -19,6 +19,9 @@ jobs:
         run: |
           npm i
           npm run build
+      # see https://www.seanmcp.com/articles/fix-missing-astro-files-on-github-pages/
+      - name: Add Jekyll ignore
+        run: touch ./dist/.nojekyll
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
