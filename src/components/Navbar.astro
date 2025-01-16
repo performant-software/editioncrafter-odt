@@ -3,12 +3,12 @@
 ---
 
 <div class="navbar">
-  <a href="/" class="logo">
-    <img alt="EditionCrafter logo" src="/ec_logo.svg" />
-    <img alt="EditionCrafter" src="/ec_name.svg" />
+  <a href={import.meta.env.BASE_URL} class="logo">
+    <img alt="EditionCrafter logo" src=`${import.meta.env.BASE_URL}/ec_logo.svg` />
+    <img alt="EditionCrafter" src=`${import.meta.env.BASE_URL}/ec_name.svg` />
   </a>
-  <a href="/records">Record List</a>
-  <a href="/about">About</a>
+  <a href=`${import.meta.env.BASE_URL}/records`>Record List</a>
+  <a href=`${import.meta.env.BASE_URL}/about`>About</a>
 </div>
 <style>
   .navbar {
