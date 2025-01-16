@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Ms. Fr. 640",
-  "iiifManifest": "/fr640-record-list/iiif/manifest.json",
+  "iiifManifest": "/editioncrafter-project-react/fr640-record-list/iiif/manifest.json",
   "transcriptionTypes": {
     "tl": "Translation (EN)"
   },
