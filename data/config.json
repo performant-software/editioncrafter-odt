@@ -5,7 +5,7 @@
   "transcriptionTypes": {
     "tl": "Translation (EN)"
   },
-  "dbUrl": "/fr640-record-list/db.sqlite",
+  "dbUrl": "/editioncrafter-project-react/fr640-record-list/db.sqlite",
   "recordLabel": "Entries",
-  "viewerUrl": "/"
+  "viewerUrl": "/editioncrafter-project-react"
 }
