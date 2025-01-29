@@ -1,0 +1,12 @@
+{
+    "id": "ec",
+    "documentName": "Ms. Fr. 640",
+    "iiifManifest": "/editioncrafter-project-react/fr640-record-list/iiif/manifest.json",
+    "transcriptionTypes": {
+      "tl": "Translation (EN)"
+    },
+    "dbUrl": "/editioncrafter-project-react/fr640-record-list/db.sqlite",
+    "recordLabel": "Entries",
+    "viewerUrl": "/editioncrafter-project-react"
+  }
+  

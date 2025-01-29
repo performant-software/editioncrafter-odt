@@ -1,11 +1,9 @@
 {
   "id": "ec",
-  "documentName": "Ms. Fr. 640",
-  "iiifManifest": "/editioncrafter-project-react/fr640-record-list/iiif/manifest.json",
+  "documentName": "<DOCUMENT_NAME>",
+  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
   "transcriptionTypes": {
-    "tl": "Translation (EN)"
+    "transcription": "Transcription"
   },
-  "dbUrl": "/editioncrafter-project-react/fr640-record-list/db.sqlite",
-  "recordLabel": "Entries",
-  "viewerUrl": "/editioncrafter-project-react"
+  "viewerUrl": "/<BASE_DIR>"
 }
