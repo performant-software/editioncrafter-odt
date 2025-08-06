@@ -1,4 +1,5 @@
 # EditionCrafter Project React Template
+[![DOI](https://zenodo.org/badge/883392542.svg)](https://doi.org/10.5281/zenodo.16755979)
 
 This repository provides a starting point for creating an [Astro](https://astro.build/) website using EditionCrafter. It comes with a number of pre-configured examples and step-by-step instructions for configuring your own edition. If you are familiar with web software development, follow the installation instructions to set up your development environment. If you want to get started without setting up a local development environment, this repo is configured to work with GitHub CodeSpaces. The code space comes with the latest EditionCrafter Command Line Interface (CLI) and other dependencies pre-installed. Simply fork this repo and then click on the CodeSpaces button.
 
