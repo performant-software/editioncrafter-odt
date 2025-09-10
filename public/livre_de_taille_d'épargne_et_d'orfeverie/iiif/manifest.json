@@ -20,14 +20,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/057e/62be52c22d38b026ba057e5b/files/RP-P-2006-55.jpg",
+								"id": "https://iiif.micr.io/OsRKH",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 800,
 								"width": 1000,
 								"service": [
 									{
-										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/057e/62be52c22d38b026ba057e5b/files/RP-P-2006-55.jpg",
+										"id": "https://iiif.micr.io/OsRKH",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -105,6 +105,129 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/x",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/x",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0002"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Livre de taille d'é… (2)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/QmCiF",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/QmCiF",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0003"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Livre de taille d'é… (3)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/UzliE",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/UzliE",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/livre_de_taille_d'épargne_et_d'orfeverie/iiif/canvas/f0004"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Livre de taille d'é… (4)"
+				]
+			},
+			"annotations": []
 		}
 	],
 	"label": {

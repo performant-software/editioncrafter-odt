@@ -45,7 +45,40 @@
 					"Volatilium varii ge… (Title Page)"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/iiif/canvas/f0001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/tei/transcription/f0001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/iiif/canvas/f0001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/html/transcription/f0001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/volatilium_varii_generisa/iiif/canvas/f0001"
+						}
+					]
+				}
+			]
 		}
 	],
 	"label": {
