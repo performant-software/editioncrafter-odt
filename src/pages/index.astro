@@ -1,6 +1,6 @@
 ---
 import config from "../../data/config.json";
-import EditionCrafter from "@cu-mkp/editioncrafter";
+import EditionCrafter, { TagExplore } from "@cu-mkp/editioncrafter";
 import Navbar from "../components/Navbar.astro";
 import { getUrl } from "../util/path";
 ---
@@ -10,7 +10,13 @@ import { getUrl } from "../util/path";
   <title>EditionCrafter</title>
   <body>
     <Navbar />
-    <EditionCrafter {...config} client:only="react" />
+    {
+      config.tagExplorer === "true" ? (
+        <TagExplore {...config} client:only="react" />
+      ) : (
+        <EditionCrafter {...config} client:only="react" />
+      )
+    }
   </body>
 </html>
 <style>

@@ -1,9 +1,12 @@
 {
   "id": "ec",
   "documentName": "<DOCUMENT_NAME>",
+  "dbUrl": "<DATABASE URL>",
   "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "Transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/<BASE_DIR>",
+  "tagExplorer": "false",
+  "baseURL": "/<BASE_URL>"
 }
