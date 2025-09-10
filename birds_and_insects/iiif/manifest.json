@@ -20,14 +20,14 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/c10b/62cdd988d239c61723c10b25/files/IMG_5011.jpg",
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 800,
 								"width": 1000,
 								"service": [
 									{
-										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/c10b/62cdd988d239c61723c10b25/files/IMG_5011.jpg",
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
@@ -79,6 +79,293 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0002"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (2)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0003"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (3)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0004"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (4)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0005"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (5)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0006"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (6)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0007"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (7)"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/414271/778070/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/414271/778070/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/odt-editioncrafter/birds_and_insects/iiif/canvas/f0008"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Birds and Insects (8)"
+				]
+			},
+			"annotations": []
 		}
 	],
 	"label": {

@@ -1,55 +1,9 @@
-<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription">
-		<body>
-			<pb facs="#f000"/>
-			<div>
-				<p facs="#f000_z044">
-					<foreign xml:lang="la">PASSIO VERBIGENAE QVAE NOSTRA REDEPTIO CHRISTI<lb/> NOS
-						DVCIT AD SVMMI TECTA PATERNA POLI.<lb/></foreign>
-				</p>
-			</div>
-			<div>
-				<p facs="#f000_z045">
-					<name type="addressee">
-						<foreign xml:lang="la">AD SPECTATOREM</foreign>
-					</name>
-					<foreign xml:lang="la">.<lb/> Aspice </foreign>
-					<name type="addressee">
-						<foreign xml:lang="la">Sadleri Spectator</foreign>
-					</name>
-					<foreign xml:lang="la">prouides quae sit<lb/> Docta manus, nulla quae peritura
-						die<lb/></foreign>
-					<distinct type="utility">
-						<foreign xml:lang="la">Utile </foreign>
-					</distinct>
-					<name type="profession">
-						<distinct type="utility">
-							<foreign xml:lang="la">Pictori</foreign>
-						</distinct>
-					</name>
-					<distinct type="utility">
-						<foreign xml:lang="la">monumentum est, vtile passim<lb/></foreign>
-					</distinct>
-					<name type="profession">
-						<distinct type="utility">
-							<foreign xml:lang="la">Sculptori</foreign>
-						</distinct>
-					</name>
-					<distinct type="utility">
-						<foreign xml:lang="la">, </foreign>
-					</distinct>
-					<distinct type="support">
-						<foreign xml:lang="la">auleis vtile purpureis</foreign>
-					</distinct>
-					<foreign xml:lang="la"><lb/> Utile si nitido </foreign>
-					<distinct type="support">
-						<foreign xml:lang="la">argentum</foreign>
-					</distinct>
-					<foreign xml:lang="la">perfuderis auro,<lb/> Vtile si vestes Purpura </foreign>
-					<distinct type="support">
-						<foreign xml:lang="la">rubra</foreign>
-					</distinct>
-					<foreign xml:lang="la">notet.<lb/> D. Favol canebat</foreign>
-				</p>
-			</div>
-		</body>
-	</text>
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><pb facs="#f0001"/><div facs="#f0001"><p>PASSIO VERBIGENAE QVAE NOSTRA REDEPTIO CHRISTI NOS DVCIT AD SVMMI TECTA PATERNA POLI. 
+
+AD SPECTATOREM.
+
+Aspice Sadleri Spectator prouides quae sit Docta manus, nulla quae peritura die Utile Pictori monumentum est, vtile passim Sculptori, auleis vtile purpureis Utile si nitido argentum perfuderis auro, Vtile si vestes Purpura rubra notet. 
+
+D. Favol canebat
+
+</p></div><pb facs="#f0002"/><div facs="#f0002"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0003"/><div facs="#f0003"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0004"/><div facs="#f0004"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0005"/><div facs="#f0005"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0006"/><div facs="#f0006"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0007"/><div facs="#f0007"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0008"/><div facs="#f0008"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0009"/><div facs="#f0009"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0010"/><div facs="#f0010"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0011"/><div facs="#f0011"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0012"/><div facs="#f0012"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0013"/><div facs="#f0013"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div><pb facs="#f0014"/><div facs="#f0014"><p>IOAN: SADLER EXCVD: MARC: GERAERD: FIGVR:</p></div></body></text>
