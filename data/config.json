@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Ornament : Design : Translation",
-  "dbUrl": "/odt-fcc2.sqlite",
+  "dbUrl": "/editioncrafter-odt/odt-fcc2.sqlite",
   "transcriptionTypes": {
     "translation": "Translation",
     "transcription": "Transcription"
