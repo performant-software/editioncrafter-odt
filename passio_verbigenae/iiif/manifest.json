@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,76 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +133,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -147,50 +147,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0002.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0002.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0002"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -207,7 +207,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -221,50 +221,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0003.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0003.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0003.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0003.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0003"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -281,7 +281,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -295,50 +295,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0004.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0004.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0004.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0004.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0004"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -355,7 +355,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -369,50 +369,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0005.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0005.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0005.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0005.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0005"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -429,7 +429,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -443,50 +443,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0006.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0006.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0006.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0006.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0006"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -503,7 +503,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -517,50 +517,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0007.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0007.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0007.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0007.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0007"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -577,7 +577,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -591,50 +591,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0008.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0008.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0008.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0008.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0008"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -651,7 +651,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -665,50 +665,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0009.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0009.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0009.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0009.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0009"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -725,7 +725,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -739,50 +739,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0010.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0010.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0010.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0010.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0010"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -799,7 +799,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -813,50 +813,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0011.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0011.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0011.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0011.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0011"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -873,7 +873,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -887,50 +887,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0012.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0012.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0012.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0012.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0012"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -947,7 +947,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -961,50 +961,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0013.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0013.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0013.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0013.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0013"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1021,7 +1021,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -1035,34 +1035,34 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/tei/transcription/f0014.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/tei/transcription/f0014.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/html/transcription/f0014.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/html/transcription/f0014.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/passio_verbigenae/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt/passio_verbigenae/iiif/canvas/f0014"
 						}
 					]
 				}

@@ -3,7 +3,7 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/odt-editioncrafter/kunstbüchlein_(1572_edition)/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/kunstbüchlein_(1572_edition)/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [],
 	"label": {

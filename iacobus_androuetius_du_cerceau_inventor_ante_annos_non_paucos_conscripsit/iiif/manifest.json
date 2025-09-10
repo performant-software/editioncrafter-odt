@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,50 +47,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -107,7 +107,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -122,16 +122,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -148,7 +148,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -163,16 +163,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -189,7 +189,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -204,16 +204,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -230,7 +230,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -245,16 +245,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -271,7 +271,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -286,16 +286,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -312,7 +312,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -327,16 +327,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -353,7 +353,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -368,16 +368,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -394,7 +394,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -409,16 +409,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -435,7 +435,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -450,16 +450,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -476,7 +476,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -491,16 +491,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -517,7 +517,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -532,16 +532,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -558,7 +558,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -573,16 +573,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -599,7 +599,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -614,16 +614,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -640,7 +640,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -655,16 +655,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -681,7 +681,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -696,16 +696,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -722,7 +722,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -737,16 +737,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -763,7 +763,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -778,16 +778,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -804,7 +804,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -819,16 +819,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -845,7 +845,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -860,16 +860,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -886,7 +886,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -901,16 +901,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -927,7 +927,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -942,16 +942,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -968,7 +968,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -983,16 +983,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1009,7 +1009,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -1024,16 +1024,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1050,7 +1050,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -1065,16 +1065,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1091,7 +1091,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -1106,16 +1106,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1132,7 +1132,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027"
 						}
 					]
 				}
@@ -1147,16 +1147,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1173,7 +1173,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028"
 						}
 					]
 				}
@@ -1188,16 +1188,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1214,7 +1214,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029"
 						}
 					]
 				}
@@ -1229,16 +1229,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1255,7 +1255,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030"
 						}
 					]
 				}
@@ -1270,16 +1270,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1296,7 +1296,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031"
 						}
 					]
 				}
@@ -1311,16 +1311,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1337,7 +1337,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032"
 						}
 					]
 				}
@@ -1352,16 +1352,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1378,7 +1378,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033"
 						}
 					]
 				}
@@ -1393,16 +1393,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1419,7 +1419,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034"
 						}
 					]
 				}
@@ -1434,16 +1434,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1460,7 +1460,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035"
 						}
 					]
 				}
@@ -1475,16 +1475,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1501,7 +1501,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036"
 						}
 					]
 				}
@@ -1516,16 +1516,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1542,7 +1542,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037"
 						}
 					]
 				}
@@ -1557,16 +1557,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1583,7 +1583,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038"
 						}
 					]
 				}
@@ -1598,16 +1598,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1624,7 +1624,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039"
 						}
 					]
 				}
@@ -1639,16 +1639,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1665,7 +1665,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040"
 						}
 					]
 				}
@@ -1680,16 +1680,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1706,7 +1706,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041"
 						}
 					]
 				}
@@ -1721,16 +1721,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1747,7 +1747,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/odt-editioncrafter/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042"
 						}
 					]
 				}
