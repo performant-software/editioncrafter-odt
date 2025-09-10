@@ -1,12 +1,13 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "dbUrl": "<DATABASE URL>",
+  "documentName": "Ornament : Design : Translation",
+  "dbUrl": "/editioncrafter-odt/odt.sqlite",
   "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "text-1": "Text 1",
+    "text-2": "Text 2"
   },
-  "viewerUrl": "/<BASE_DIR>",
-  "tagExplorer": "false",
-  "baseURL": "/<BASE_URL>"
+  "viewerUrl": "/editioncrafter-odt",
+  "tagExplorer": "true",
+  "baseURL": "/editioncrafter-odt"
 }
