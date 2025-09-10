@@ -1,12 +1,13 @@
 {
   "id": "ec",
   "documentName": "Ornament : Design : Translation",
-  "dbUrl": "/editioncrafter-odt/odt-fcc2.sqlite",
+  "dbUrl": "editioncrafter-odt/odt-fcc2.sqlite",
   "transcriptionTypes": {
     "translation": "Translation",
     "transcription": "Transcription"
   },
   "viewerUrl": "/editioncrafter-odt",
   "tagExplorer": "true",
-  "baseURL": "/editioncrafter-odt"
+  "manifestPath": "/iiif",
+  "baseURL": "https://beta-api.faircopy.cloud/public/12/tei_documents"
 }
