@@ -1,6 +1,4 @@
-<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription">
-		<body>
-			<pb facs="#f000"/>
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><pb facs="#f000"/>
 			<div facs="#f000_z085">
 				<p><foreign xml:lang="fr"><objectType>Mansches de<lb/> Coutiaus</objectType>,
 					aveques<lb/> <objectType>les feremens de la gaine</objectType>,<lb/> de </foreign><distinct type="variety">
