@@ -1,8 +1,8 @@
 export const URI_PREFIX = "https://corpora.dh.tamu.edu";
 
-export const OUTPUT_PATH = "/data/processing_output";
+export const OUTPUT_PATH = "data/processing_output";
 
-export const INPUT_PATH = "/data/for_processing";
+export const INPUT_PATH = "data/for_processing";
 
 export const BASE_API_URL =
   "https://corpora.dh.tamu.edu/api/corpus/6285564874d5f7a229b60520";

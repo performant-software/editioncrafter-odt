@@ -5,9 +5,7 @@ import {
   INPUT_PATH,
   BASE_API_URL,
   BASE_IIIF_URL,
-  argOptions,
 } from "./constants.mjs";
-import { exit } from "process";
 
 const getData = async (dataType) => {
   let lastPage = false;
@@ -61,7 +59,7 @@ const getMotifs = (motifs) => {
 const getHeaderData = (data, context) => {
   const { agents, people, holdings, languages, images, motifs } = context;
 
-  let fileDesc = `<fileDesc sameAs="${URI_PREFIX}${data.uri}><titleStmt><title>${data.title}</title>`;
+  let fileDesc = `<fileDesc sameAs="${URI_PREFIX}${data.uri}"><titleStmt><title>${data.title}</title>`;
   let publicationStmt = "<publicationStmt>";
   let profileDesc = "<profileDesc><textClass><keywords>";
   let sourceDesc = "<sourceDesc>";
@@ -257,14 +255,15 @@ const writeHeader = (data, filePath) => {
   fs.writeFileSync(path, newString);
 };
 
-const writeMotifs = (motifString, filePath) => {
+const writeMotifs = (motifString, inputPath, outputPath) => {
   const path =
-    filePath ||
+    inputPath ||
     `${OUTPUT_PATH}/${data.title
       .toLowerCase()
       .replaceAll(" ", "_")
       .replaceAll("\n", "")
       .replaceAll(".", "")}.xml`;
+  const output = outputPath || path;
   const teiString = fs.readFileSync(path, { encoding: "utf-8" });
   const newString =
     teiString.split("</profileDesc>")[0] +
@@ -272,7 +271,7 @@ const writeMotifs = (motifString, filePath) => {
     motifString +
     "\n</teiHeader>" +
     teiString.split("</teiHeader>")[1];
-  fs.writeFileSync(path, newString);
+  fs.writeFileSync(output, newString);
 };
 
 const main = async () => {
@@ -326,11 +325,12 @@ export const updateMotifsAll = async (
   outputPath = OUTPUT_PATH
 ) => {
   if (!fs.existsSync(inputPath)) {
+    console.log(inputPath);
     console.error("The specified folder does not exist.");
     process.exit(1);
   }
   const files = fs.readdirSync(inputPath);
-  for (const file of files) {
+  for (const file of files.filter((f) => f !== ".keep")) {
     await updateMotifs(`${inputPath}/${file}`, outputPath);
   }
 };
@@ -341,11 +341,12 @@ export const updateMotifs = async (filePath, outputPath = OUTPUT_PATH) => {
     process.exit(1);
   }
   if (!filePath.toLowerCase().endsWith(".xml")) {
-    console.error(`File ${file} is not an XML file.`);
+    console.error(`File ${filePath} is not an XML file.`);
     process.exit(1);
   }
   const motifs = await getData("Motif");
   const file = filePath.split("/").slice(-1)[0];
+  console.log(`Processing file ${file}`);
   const motifStr = getMotifs(motifs);
-  writeMotifs(motifStr, `${outputPath}/${file}`);
+  writeMotifs(motifStr, filePath, `${outputPath}/${file}`);
 };

@@ -2,7 +2,7 @@
   "name": "editioncrafter-codespace",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/tei.js",
   "type": "module",
   "scripts": {
     "start": "astro build && http-server ./dist --port 3000",
@@ -27,6 +27,7 @@
     "vite": "^6.0.9"
   },
   "bin": {
-    "update_motifs": "./bin/tei.js"
+    "update_motifs": "./bin/tei.js",
+    "generate_tei": "./bin/corpora.js"
   }
 }
