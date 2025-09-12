@@ -225,17 +225,22 @@ const getSurfaceData = async (series, allImages) => {
   return transcription + translation + facs;
 };
 
-const writeFullTEI = async (data, context, outputPath = OUTPUT_PATH) => {
-  const header = getHeaderData(data, context);
-  const surfaces = await getSurfaceData(data.uri, context.images);
-  const teiString =
-    '<TEI xmlns="http://www.tei-c.org/ns/1.0">' + header + surfaces + "</TEI>";
-  const fileNameRaw = data.title
+export const createFilenameFromTitle = (title) => {
+  const fileNameRaw = title
     .toLowerCase()
     .replaceAll(" ", "_")
     .replaceAll("\n", "")
     .replaceAll(".", "");
   const fileName = fileNameRaw[0] == "_" ? fileNameRaw.slice(1) : fileNameRaw;
+  return fileName;
+};
+
+const writeFullTEI = async (data, context, outputPath = OUTPUT_PATH) => {
+  const header = getHeaderData(data, context);
+  const surfaces = await getSurfaceData(data.uri, context.images);
+  const teiString =
+    '<TEI xmlns="http://www.tei-c.org/ns/1.0">' + header + surfaces + "</TEI>";
+  const fileName = createFilenameFromTitle(data.title);
   fs.writeFileSync(`${outputPath}/${fileName}.xml`, teiString);
 };
 
@@ -295,14 +300,19 @@ const main = async () => {
   }
 };
 
-export const pullData = async (outputPath = OUTPUT_PATH) => {
-  const series = await getData("Series");
+export const pullData = async (outputPath = OUTPUT_PATH, inputSeries) => {
+  let series = await getData("Series");
   const agents = await getData("Agent");
   const people = await getData("Person");
   const holdings = await getData("Holding");
   const languages = await getData("Language");
   const images = await getData("Image");
   const motifs = await getData("Motif");
+  if (inputSeries) {
+    series = series.filter((ser) =>
+      inputSeries.includes(createFilenameFromTitle(ser.title))
+    );
+  }
   for (const ser of series) {
     console.log(`Processing ${ser.title}...`);
     await writeFullTEI(

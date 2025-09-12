@@ -23,5 +23,13 @@ export const argOptions = {
       type: "string",
       short: "o",
     },
+    mode: {
+      type: "string",
+      short: "m",
+    },
+    series: {
+      type: "string",
+      short: "s",
+    },
   },
 };
