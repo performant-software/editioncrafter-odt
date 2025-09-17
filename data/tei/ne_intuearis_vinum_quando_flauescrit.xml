@@ -5,7 +5,8 @@
                         <idno>RP-P-BI-2660</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-BI-2660)</p>
-                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d332fe8e045569ddf40b3">Italian</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68387439b575bda8eeb31041">Cups/Goblets/Bowls/Jugs</term></keywords></textClass><langUsage><language ident="NL">Dutch</language></langUsage></profileDesc><encodingDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d332fe8e045569ddf40b3">Italian</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68387439b575bda8eeb31041">Cups/Goblets/Bowls/Jugs</term></keywords></textClass><langUsage><language ident="NL">Dutch</language></langUsage></profileDesc>
+<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -167,7 +168,7 @@
 <catDesc>angel</catDesc>
 </category><category n="pegasus" xml:id="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6">
 <catDesc>pegasus</catDesc>
-</category><category n="angel" xml:id="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
+</category><category n="angel" xml:id="angel_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
 <catDesc>angel</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 <catDesc>vegetal</catDesc>
@@ -451,7 +452,7 @@
 <catDesc>lantern</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 <catDesc>instrument</catDesc>
-<category n="horn" xml:id="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+<category n="horn" xml:id="horn_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
 <catDesc>horn</catDesc>
 </category></category><category n="drinking_vessel" xml:id="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0">
 <catDesc>drinking_vessel</catDesc>
@@ -468,7 +469,8 @@
 </category></category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Ne intuearis vinum quando flauescit, cum splenduerit in vitro
+</encodingDesc>
+</teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Ne intuearis vinum quando flauescit, cum splenduerit in vitro
 color eius: ingeditur blande sed in nouifsimo mordebit ut
 coluber, et sicut regulus uenena diffundet. 
 

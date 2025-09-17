@@ -5,7 +5,8 @@
                         <idno>20.82.1(a)</idno>
                     </msIdentifier>
                     <p>The Metropolitan Museum of Art (20.82.1(a))</p>
-                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9ac29f7c9926faf53175">Lovers of Antiquity</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d4d86ec44106814725c83">French</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc><encodingDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9ac29f7c9926faf53175">Lovers of Antiquity</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d4d86ec44106814725c83">French</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc>
+<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -167,7 +168,7 @@
 <catDesc>angel</catDesc>
 </category><category n="pegasus" xml:id="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6">
 <catDesc>pegasus</catDesc>
-</category><category n="angel" xml:id="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
+</category><category n="angel" xml:id="angel_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
 <catDesc>angel</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 <catDesc>vegetal</catDesc>
@@ -451,7 +452,7 @@
 <catDesc>lantern</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 <catDesc>instrument</catDesc>
-<category n="horn" xml:id="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+<category n="horn" xml:id="horn_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
 <catDesc>horn</catDesc>
 </category></category><category n="drinking_vessel" xml:id="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0">
 <catDesc>drinking_vessel</catDesc>
@@ -468,7 +469,8 @@
 </category></category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>IACOBVS ANDROVETIVS DV CERCEAV / LECTORIBVS.S. 
+</encodingDesc>
+</teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>IACOBVS ANDROVETIVS DV CERCEAV / LECTORIBVS.S. 
 CUM NACTUS ESSEM DUODECIM FRAGMENTA STRUCTURÆ VETERIS COMMENDATA MONUMENTIS A LEONARDO THEODORICO HOMINE ARTIS PERSPECTIVÆ PERITISSIMO, QUI NUPER OBIIT ANTVERPIÆ, MIHI VISUS SUM OPERÆ PRECIUM FACTURUS, SI EA IN LUCEM EMITTEREM, TUM PROPTER MEUM ARTIS ILLUSTRANDÆ STUDIUM, TUM QUOD EJUSMODI VIDERENTUR ESSE, UT OMNIBUS STUDIOSIS ANTIQUITATIS NON MEDIOCREM UTILITATEM CUM VOLUPTATE CONJUNCTAM AFFERRE POSSENT. QUANDO VERO NON EST MEUM INVENTUM, NOLUI QUICQUAM ADDERE AUT DETRAHERE AUTHORIS DESCRIPTIONI, NE HOMINEM DEBITA LAUDE MERITAQUE FRAUREM, NEVE ALIENAM VIDERER INDUSTRIAM VENDICARE VELLE. QUARE SI QUEM FRUCTUM
 HINC VOS PERCEPISSE SENTIETIS, IPSI LEONARDO ACCEPTUM FERTE. SOLUM A VOBIS POSTULO, UT BONI CONSULATIS MEAM DILIGENTIAM IN IIS EDENDIS, QUÆ USUI VOBIS ESSE POSSUNT. VALETE. AURELIÆ, 1550.
 </p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Jacques Androuet du Cerceau, to his readers, Salut.

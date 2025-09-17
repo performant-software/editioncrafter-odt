@@ -187,7 +187,8 @@
                         <idno>BI-1897-969-26</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (BI-1897-969-26)</p>
-                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a275a00d6762beafb3b62b">Painter</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9f2a9f7c9926faf5317b">Statuary</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9a439f7c9926faf53173">Architects</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a311d657a0e849137e6f5b">Stonemason</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675">Netherlandish</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68387136b575bda8eeb31029">Tombs</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc><encodingDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a275a00d6762beafb3b62b">Painter</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9f2a9f7c9926faf5317b">Statuary</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9a439f7c9926faf53173">Architects</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a311d657a0e849137e6f5b">Stonemason</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675">Netherlandish</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68387136b575bda8eeb31029">Tombs</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc>
+<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -349,7 +350,7 @@
 <catDesc>angel</catDesc>
 </category><category n="pegasus" xml:id="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6">
 <catDesc>pegasus</catDesc>
-</category><category n="angel" xml:id="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
+</category><category n="angel" xml:id="angel_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
 <catDesc>angel</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 <catDesc>vegetal</catDesc>
@@ -633,7 +634,7 @@
 <catDesc>lantern</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 <catDesc>instrument</catDesc>
-<category n="horn" xml:id="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+<category n="horn" xml:id="horn_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
 <catDesc>horn</catDesc>
 </category></category><category n="drinking_vessel" xml:id="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0">
 <catDesc>drinking_vessel</catDesc>
@@ -650,7 +651,8 @@
 </category></category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>HIERONIMUS COCK EXCUDEBAT
+</encodingDesc>
+</teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>HIERONIMUS COCK EXCUDEBAT
 
 PICTORES, STATUARII, ARCHITECTI, LATOMI, ET QUICUNQUE PRINCIPUM MAGNIFICORUM que virorum memoriae aternae infervitis, adeste: &amp; hunc libellum varias coenotaphiorum, tumulorum &amp; mortuorum monumentorum formas typis elegantissimis in aere exaratas comprehendentem inspicitote, emite, utimini. &amp; ingeniosae manui IOANNI VREDEMANNI FRISII, quae has excogitavit &amp; liberalitati Hieronimi Cock, cuius impensis haec vobis exhibentur. Bene favete. Valete. 1563
 

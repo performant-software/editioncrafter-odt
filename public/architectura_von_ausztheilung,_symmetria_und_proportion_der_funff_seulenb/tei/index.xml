@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc><titleStmt><title>Architectura. Von Ausztheilung, Symmetria und Proportion der funff Seulen.B</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835baa0b575bda8eeb30e81"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835ba81b575bda8eeb30e7f" ref="http://vocab.getty.edu/page/ulan/500025227">Dietterlin, Wendel de Oude</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835bcfcb575bda8eeb30e86">Caimox, Balthasar</publisher><date>1560-1598</date></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/62855b05678b183c0ce47c4f">German</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6838701ab575bda8eeb3101f">Architecture </term></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc><titleStmt><title>Architectura. Von Ausztheilung, Symmetria und Proportion der funff Seulen.B</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835baa0b575bda8eeb30e81"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835ba81b575bda8eeb30e7f" ref="http://vocab.getty.edu/page/ulan/500025227">Dietterlin, Wendel de Oude</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835bcfcb575bda8eeb30e86">Caimox, Balthasar</publisher><date>1560-1598</date></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/62855b05678b183c0ce47c4f">German</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6838701ab575bda8eeb3101f">Architecture </term></keywords></textClass><langUsage></langUsage></profileDesc>
+<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -160,7 +161,7 @@
 <catDesc>angel</catDesc>
 </category><category n="pegasus" xml:id="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6">
 <catDesc>pegasus</catDesc>
-</category><category n="angel" xml:id="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
+</category><category n="angel" xml:id="angel_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
 <catDesc>angel</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 <catDesc>vegetal</catDesc>
@@ -444,7 +445,7 @@
 <catDesc>lantern</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 <catDesc>instrument</catDesc>
-<category n="horn" xml:id="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+<category n="horn" xml:id="horn_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
 <catDesc>horn</catDesc>
 </category></category><category n="drinking_vessel" xml:id="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0">
 <catDesc>drinking_vessel</catDesc>
@@ -461,4 +462,5 @@
 </category></category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><div></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f525fb575bda8eeb3137f"><label>Architectura. Von A… (Title Page)</label><graphic mimeType="application/json" url="" /></surface></facsimile></TEI>
+</encodingDesc>
+</teiHeader><text xml:id="transcription"><body><div></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f525fb575bda8eeb3137f"><label>Architectura. Von A… (Title Page)</label><graphic mimeType="application/json" url="" /></surface></facsimile></TEI>

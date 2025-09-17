@@ -33,7 +33,8 @@
                         <idno>RP-P-1906-359</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-1906-359)</p>
-                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855bc06e6e14a1c81bf9c8">Engraving</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/62855b05678b183c0ce47c4f">German</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6835dcc6b575bda8eeb30ee9">Pendants</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6838c9a5b575bda8eeb3114a">Pins</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683efdf5b575bda8eeb312ba">Designs for Goldsmithing</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc><encodingDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855bc06e6e14a1c81bf9c8">Engraving</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/62855b05678b183c0ce47c4f">German</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6835dcc6b575bda8eeb30ee9">Pendants</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6838c9a5b575bda8eeb3114a">Pins</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683efdf5b575bda8eeb312ba">Designs for Goldsmithing</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc>
+<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -195,7 +196,7 @@
 <catDesc>angel</catDesc>
 </category><category n="pegasus" xml:id="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6">
 <catDesc>pegasus</catDesc>
-</category><category n="angel" xml:id="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
+</category><category n="angel" xml:id="angel_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
 <catDesc>angel</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 <catDesc>vegetal</catDesc>
@@ -479,7 +480,7 @@
 <catDesc>lantern</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 <catDesc>instrument</catDesc>
-<category n="horn" xml:id="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+<category n="horn" xml:id="horn_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
 <catDesc>horn</catDesc>
 </category></category><category n="drinking_vessel" xml:id="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0">
 <catDesc>drinking_vessel</catDesc>
@@ -496,6 +497,7 @@
 </category></category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>ARS HIS MYRONIS NOBILIS EFFINGITUR PAGELLULIS. PAULUS BIRCKENHULTZ. Invent: </p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>The art of the noble Myron [i.e., sculpture, esp. bronze, and by extension, goldsmithing], depicted on these little pages.
+</encodingDesc>
+</teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>ARS HIS MYRONIS NOBILIS EFFINGITUR PAGELLULIS. PAULUS BIRCKENHULTZ. Invent: </p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>The art of the noble Myron [i.e., sculpture, esp. bronze, and by extension, goldsmithing], depicted on these little pages.
 
 Invented by Paul Birckenhultz.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62be5d9c2d38b026ba057e5c"><label>Ars his myronis nob… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/057e/62be5d9c2d38b026ba057e5c/files/RP-P-1907-5314.jpg" /></surface><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b20a3da12d491d55da4"><label>Ars his myronis nob… (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/zOFMe" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b20a3da12d491d55da6"><label>Ars his myronis nob… (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/JALYA" /></surface></facsimile></TEI>

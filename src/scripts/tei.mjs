@@ -24,6 +24,7 @@ const getData = async (dataType) => {
 
 const getMotifs = (motifs) => {
   let children = {};
+  let xmlIds = {} //we'll keep a running list of XML IDs so we make sure to avoid duplicates
   for (const tag of motifs) {
     const tagChildren = motifs.filter(
       (t) => t.parent && t.parent.uri === tag.uri
@@ -33,15 +34,24 @@ const getMotifs = (motifs) => {
 
   const parents = motifs.filter((t) => !t.parent);
 
-  const getChildrenString = (tag) => {
-    let str = `<category ${
-      !children[tag.id]?.length ? `n="${tag.label}" xml:id="${tag.label}" ` : ""
-    }sameAs="${URI_PREFIX}${tag.uri}">\n<catDesc>${tag.name}</catDesc>\n`;
+  const getChildrenString = (tag, xmlIds) => {
+    let xmlId = tag.label;
+    //we're only going to give it an xml:id if it's a leaf
+    if (!children[tag.id]?.length) {
+      if (xmlIds[tag.label]) {
+        xmlId += `_${xmlIds[tag.label].toString().padStart(2, '0')}`
+        console.warn(`Motif ${tag.label} already exists; assigning xml:id ${xmlId} to ${URI_PREFIX}${tag.uri}`)
+      }
+      xmlIds[tag.label] ||= 0;
+      xmlIds[tag.label] += 1;
+    }
+    let str = `<category ${!children[tag.id]?.length ? `n="${tag.label}" xml:id="${xmlId}" ` : ""
+      }sameAs="${URI_PREFIX}${tag.uri}">\n<catDesc>${tag.name}</catDesc>\n`;
     if (!children[tag.id]?.length) {
       return str + "</category>";
     }
     for (const child of children[tag.id]) {
-      str += getChildrenString(child);
+      str += getChildrenString(child, xmlIds);
     }
     return str + "</category>";
   };
@@ -49,7 +59,7 @@ const getMotifs = (motifs) => {
   let encodingDesc =
     '<encodingDesc>\n<classDecl>\n<taxonomy xml:id="motifs">\n<bibl>Tags</bibl>\n';
   parents.forEach((tag) => {
-    encodingDesc += getChildrenString(tag);
+    encodingDesc += getChildrenString(tag, xmlIds);
   });
 
   encodingDesc += "\n</taxonomy>\n</classDecl>\n</encodingDesc>";
@@ -73,30 +83,25 @@ const getHeaderData = (data, context) => {
     const personFull = people.find((p) => p.uri === person.uri);
     const role = agentData.role;
     if (role.label === "Author") {
-      fileDesc += `<author sameAs="${URI_PREFIX}${person.uri}"${
-        personFull.authoritative_uri &&
+      fileDesc += `<author sameAs="${URI_PREFIX}${person.uri}"${personFull.authoritative_uri &&
         !personFull.authoritative_uri.includes("role=")
-          ? ` ref="${personFull.authoritative_uri}"`
-          : ""
-      }>${person.label}</author>`;
+        ? ` ref="${personFull.authoritative_uri}"`
+        : ""
+        }>${person.label}</author>`;
     } else if (role.label === "Publisher") {
-      publicationStmt += `<publisher sameAs="${URI_PREFIX}${person.uri}"${
-        personFull.authoritative_uri &&
+      publicationStmt += `<publisher sameAs="${URI_PREFIX}${person.uri}"${personFull.authoritative_uri &&
         !personFull.authoritative_uri.includes("role=")
-          ? ` ref="${personFull.authoritative_uri}"`
-          : ""
-      }>${person.label}</publisher>`;
+        ? ` ref="${personFull.authoritative_uri}"`
+        : ""
+        }>${person.label}</publisher>`;
     } else if (role.label === "Designer" || role.label === "Printmaker") {
-      fileDesc += `<respStmt sameAs="${URI_PREFIX}${
-        agent.uri
-      }"><resp sameAs="${URI_PREFIX}${role.uri}">${
-        role.label
-      }</resp><name sameAs="${URI_PREFIX}${person.uri}"${
-        personFull.authoritative_uri &&
-        !personFull.authoritative_uri.includes("role=")
+      fileDesc += `<respStmt sameAs="${URI_PREFIX}${agent.uri
+        }"><resp sameAs="${URI_PREFIX}${role.uri}">${role.label
+        }</resp><name sameAs="${URI_PREFIX}${person.uri}"${personFull.authoritative_uri &&
+          !personFull.authoritative_uri.includes("role=")
           ? ` ref="${personFull.authoritative_uri}"`
           : ""
-      }>${person.label}</name></respStmt>`;
+        }>${person.label}</name></respStmt>`;
     } else {
       profileDesc += `<term type="${role.label}" sameAs="${URI_PREFIX}${agent.uri}">${person.label}</term>`;
     }
@@ -191,13 +196,11 @@ const getSurfaceData = async (series, allImages) => {
     const iiif = fullImg.external_iiif_url
       ? fullImg.external_iiif_url
       : fullImg.image
-      ? `${BASE_IIIF_URL}${fullImg.image?.path}`
-      : undefined;
-    facs += `<surface xml:id="${xmlId}" ulx="0" uly="0" lrx="1000" lry="800" sameAs="${
-      img.uri
-    }"><label>${img.label}</label><graphic mimeType="application/json" url="${
-      iiif || ""
-    }" /></surface>`;
+        ? `${BASE_IIIF_URL}${fullImg.image?.path}`
+        : undefined;
+    facs += `<surface xml:id="${xmlId}" ulx="0" uly="0" lrx="1000" lry="800" sameAs="${img.uri
+      }"><label>${img.label}</label><graphic mimeType="application/json" url="${iiif || ""
+      }" /></surface>`;
     if (img.transcription) {
       transcription += `<pb facs="#${xmlId}" /><div facs="#${xmlId}"><p>${img.transcription.replaceAll(
         "&",

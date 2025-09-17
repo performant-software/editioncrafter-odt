@@ -5,7 +5,8 @@
                         <idno>E.4645-1906</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.4645-1906)</p>
-                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9a439f7c9926faf53173">Architects</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d4d86ec44106814725c83">French</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc><encodingDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686c9a439f7c9926faf53173">Architects</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/628e7d39c932a51b480a831c">Etching</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d4d86ec44106814725c83">French</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc>
+<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -167,7 +168,7 @@
 <catDesc>angel</catDesc>
 </category><category n="pegasus" xml:id="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6">
 <catDesc>pegasus</catDesc>
-</category><category n="angel" xml:id="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
+</category><category n="angel" xml:id="angel_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc">
 <catDesc>angel</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
 <catDesc>vegetal</catDesc>
@@ -451,7 +452,7 @@
 <catDesc>lantern</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
 <catDesc>instrument</catDesc>
-<category n="horn" xml:id="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
+<category n="horn" xml:id="horn_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014">
 <catDesc>horn</catDesc>
 </category></category><category n="drinking_vessel" xml:id="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0">
 <catDesc>drinking_vessel</catDesc>
@@ -468,5 +469,6 @@
 </category></category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>IACOBUS AANDROUETIUS DU CERCEAU. LECTORIBUS S 
+</encodingDesc>
+</teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>IACOBUS AANDROUETIUS DU CERCEAU. LECTORIBUS S 
 EN VOBIS CANDIDI LECTORES ET ARCHITECTURÆ STUDIOSI QUINQUE ET VIGINTI EXEMPLA ARCUUM PARTIM A ME INVENTA, PARTIM EX VETERUM SUMPTA MONUMENTIS TUM ROMÆ TUM ALIBI ETIAMNUM EXTANTIBUS : UT INSCRIPTIO SUA CUJUSQUE ARCUS INDICABIT. ET QUEMADMODUM IN ANTIQUIS ARCUBUS EASDEM COLUMNAS, EASDEM CORONAS, EADEM EPISTYLIA, EUNDEMQUE ORNATUM SECUTUS SUM : ITA A ME EXCOGITATOS QUAM PROXIME AD ANTIQUORUM RATIONEM ET SIMMETRIAM JUXTA SUUM CUJUSQUE GENUS EXPRESSI. QUO FIT UT OMNES ÆDIFICANDI STUDIOSI NULLUM IN HOC LIBRO GENUS ARCUUM DESIDERENT. HUNC NOSTRUM LABOREM ET INDUSTRIAM ADJUVANDIS VESTRIS INGENIIS DEDICATAM QUÆSO BONI CONSULITE. AURELIAE 1549</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>For you, faithful readers and studious architects, twenty-five arches, partly of my invention, partly taken from the ancient monuments still in existence today, both in Rome and elsewhere, as will be indicated by the title inscribed on each arch. And just as I have preserved on the antique arches the same columns, the same cornices, the same architraves, and the same ornamentation, I have likewise followed as closely as possible the order and ancient proportions in all of my imagined arches, each according to its type. This makes all the amateurs who devote themselves to the art of building will have to regret in this book the lack of any kind of arch. Please look favorably at the grief and ingenuity we have devoted to second your own talents. Orleans, 1549.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c73f3c7fefb97c92ccc335"><label>Exempla arcuum (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/ccc3/62c73f3c7fefb97c92ccc335/files/VandA_002.png" /></surface></facsimile></TEI>
