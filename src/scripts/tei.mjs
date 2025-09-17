@@ -274,8 +274,7 @@ const writeMotifs = (motifString, inputPath, outputPath) => {
   const output = outputPath || path;
   const teiString = fs.readFileSync(path, { encoding: "utf-8" });
   const newString =
-    teiString.split("</profileDesc>")[0] +
-    "</profileDesc>\n" +
+    teiString.split("</teiHeader>")[0] +
     motifString +
     "\n</teiHeader>" +
     teiString.split("</teiHeader>")[1];
@@ -343,12 +342,14 @@ export const updateMotifsAll = async (
     process.exit(1);
   }
   const files = fs.readdirSync(inputPath);
+  const motifs = await getData("Motif");
+  const motifStr = getMotifs(motifs);
   for (const file of files.filter((f) => f !== ".keep")) {
-    await updateMotifs(`${inputPath}/${file}`, outputPath);
+    await updateMotifs(`${inputPath}/${file}`, outputPath, motifStr);
   }
 };
 
-export const updateMotifs = async (filePath, outputPath = OUTPUT_PATH) => {
+export const updateMotifs = async (filePath, outputPath = OUTPUT_PATH, motifStr) => {
   if (!fs.existsSync(filePath)) {
     console.error(`File ${filePath} does not exist.`);
     process.exit(1);
@@ -357,9 +358,12 @@ export const updateMotifs = async (filePath, outputPath = OUTPUT_PATH) => {
     console.error(`File ${filePath} is not an XML file.`);
     process.exit(1);
   }
-  const motifs = await getData("Motif");
   const file = filePath.split("/").slice(-1)[0];
   console.log(`Processing file ${file}`);
-  const motifStr = getMotifs(motifs);
-  writeMotifs(motifStr, filePath, `${outputPath}/${file}`);
+  let str = motifStr
+  if (!str) {
+    const motifs = await getData("Motif");
+    str = getMotifs(motifs);
+  }
+  writeMotifs(str, filePath, `${outputPath}/${file}`);
 };
