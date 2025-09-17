@@ -1,8 +1,30 @@
+# EditionCrafter O:D:T Project 
+
+This repo is based on the "EditionCrafter Project React Template" and works the same way except we have added a couple of O:D:T specific scripts for integration with Corpora. These scripts are described below and then the original README follows after that.
+
+## O:D:T Scripts
+
+The following scripts are included to pull in data from the O:D:T Corpora database as needed.
+
+Notes:
+* npm link command
+* how to run the database command
+
+### `update_motifs`
+
+Running `update_motifs` will update the TEI header of any XML files in the `data/for_processing` folder to include the most recent motifs list from Corpora. The processed files will be written to `data/processing_output` and can be downloaded and re-imported to FairCopy from there.
+
+### `generate_tei`
+
+Running `generate_tei` will pull all the most recent data from Corpora and generate fresh (un-annotated) TEI files in `data/processing_output` corresponding to any files in `data/processing_input`. To generate fresh TEI files for all series in Corpora, run `generate_tei --mode all`. To generate a fresh TEI file only for one specified series, run `generate_tei -s "<series title>"`.
+
+
 # EditionCrafter Project React Template
 
 [![DOI](https://zenodo.org/badge/883392542.svg)](https://doi.org/10.5281/zenodo.16755979)
 
 This repository provides a starting point for creating an [Astro](https://astro.build/) website using EditionCrafter. It comes with a number of pre-configured examples and step-by-step instructions for configuring your own edition. If you are familiar with web software development, follow the installation instructions to set up your development environment. If you want to get started without setting up a local development environment, this repo is configured to work with GitHub CodeSpaces. The code space comes with the latest EditionCrafter Command Line Interface (CLI) and other dependencies pre-installed. Simply fork this repo and then click on the CodeSpaces button.
+
 
 ## Installation
 
@@ -35,18 +57,6 @@ This project comes with a number of pre-built example documents for you to try o
 ## Getting Started with EditionCrafter CLI
 
 To learn how to use the EditionCrafter CLI to create your own project, please see the ["Getting Started"](https://editioncrafter.org/getting-started/) section of the EditionCrafter website. Note that the props passed into the components are configurable via the `data/config.json` file.
-
-## Corpora Scripts
-
-The following scripts are included to pull in data from the ODT Corpora database as needed.
-
-### `update_motifs`
-
-Running `update_motifs` in the command line of the associated GitHub codespace will update the TEI header of any XML files in the `data/for_processing` folder to include the most recent motifs list from Corpora. The processed files will be written to `data/processing_output` and can be downloaded and re-imported to FairCopy from there.
-
-### `generate_tei`
-
-Running `generate_tei` will pull all the most recent data from Corpora and generate fresh (un-annotated) TEI files in `data/processing_output` corresponding to any files in `data/processing_input`. To generate fresh TEI files for all series in Corpora, run `generate_tei --mode all`. To generate a fresh TEI file only for one specified series, run `generate_tei -s "<series title>"`.
 
 ## Running this Project Locally
 
