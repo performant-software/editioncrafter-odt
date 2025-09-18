@@ -67,13 +67,13 @@ const getMotifs = (motifs) => {
 };
 
 const getHeaderData = (data, context) => {
-  const { agents, people, holdings, languages, images, motifs } = context;
+  const { agents, people, holdings, languages, images, motifStr } = context;
 
   let fileDesc = `<fileDesc sameAs="${URI_PREFIX}${data.uri}"><titleStmt><title>${data.title}</title>`;
   let publicationStmt = "<publicationStmt>";
   let profileDesc = "<profileDesc><textClass><keywords>";
   let sourceDesc = "<sourceDesc>";
-  const encodingDesc = getMotifs(motifs);
+  const encodingDesc = motifStr;
 
   //for each agent associated to the series, find the person and role IDs
 
@@ -289,6 +289,7 @@ const main = async () => {
   const languages = await getData("Language");
   const images = await getData("Image");
   const motifs = await getData("Motif");
+  const motifStr = getMotifs(motifs)
   for (const ser of series) {
     console.log(ser.title);
     await writeFullTEI(ser, {
@@ -297,7 +298,7 @@ const main = async () => {
       holdings,
       languages,
       images,
-      motifs,
+      motifStr,
     });
   }
 };
@@ -310,6 +311,7 @@ export const pullData = async (outputPath = OUTPUT_PATH, inputSeries) => {
   const languages = await getData("Language");
   const images = await getData("Image");
   const motifs = await getData("Motif");
+  const motifStr = getMotifs(motifs)
   if (inputSeries) {
     series = series.filter((ser) =>
       inputSeries.includes(createFilenameFromTitle(ser.title))
@@ -325,7 +327,7 @@ export const pullData = async (outputPath = OUTPUT_PATH, inputSeries) => {
         holdings,
         languages,
         images,
-        motifs,
+        motifStr,
       },
       outputPath
     );
