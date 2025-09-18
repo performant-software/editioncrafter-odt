@@ -132,7 +132,7 @@ const getHeaderData = (data, context) => {
 
   //deal with languages and holdings
 
-  const seriesImages = images.filter((img) => img.series.uri === data.uri);
+  const seriesImages = images.filter((img) => img.series?.uri === data.uri);
 
   const seriesHoldings = [];
   const seriesLangs = [];
@@ -186,7 +186,7 @@ const getSurfaceData = async (series, allImages) => {
   let facs = '<facsimile xml:id="prints">';
 
   const seriesImages = allImages
-    .filter((i) => i.series.uri === series)
+    .filter((i) => i.series?.uri === series)
     .sort((a, b) => a.seq_no - b.seq_no);
   for (const img of seriesImages) {
     const fullImg = await fetch(`${BASE_API_URL}/Image/${img.id}`).then((res) =>
