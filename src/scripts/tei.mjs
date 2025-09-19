@@ -272,7 +272,11 @@ const writeMotifs = (motifString, inputPath, outputPath) => {
       .replaceAll("\n", "")
       .replaceAll(".", "")}.xml`;
   const output = outputPath || path;
-  const teiString = fs.readFileSync(path, { encoding: "utf-8" });
+  let teiString = fs.readFileSync(path, { encoding: "utf-8" });
+  //if there's an existing encodingDesc, excise it
+  if (teiString.includes('<encodingDesc')) {
+    teiString = teiString.split('<encodingDesc')[0] + teiString.split('</encodingDesc>')[1]
+  }
   const newString =
     teiString.split("</teiHeader>")[0] +
     motifString +
