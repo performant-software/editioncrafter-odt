@@ -3,37 +3,37 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/09f0/62d044a9ae2442b53e09f029/files/IMG_5038.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 800,
 								"width": 1000,
 								"service": [
 									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/09f0/62d044a9ae2442b53e09f029/files/IMG_5038.jpg",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,802 +47,64 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//modern_and_ancient_triumphal_arches/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0002",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0002/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0002/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0002"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (2)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0003",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0003/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0003/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0003"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (3)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0004",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0004/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0004/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0004"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (4)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0005",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0005/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0005/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0005"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (5)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0006",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0006/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0006/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0006"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (6)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0007",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0007/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0007/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0007"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (7)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0008",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0008/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0008/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0008"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (8)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0009",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0009/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0009/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0009"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (9)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0010",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0010/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0010/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0010"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (10)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0011",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0011/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0011/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0011"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (11)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0012",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0012/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0012/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0012"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (12)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0013",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0013/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0013/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0013"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (13)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0014",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0014/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0014/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0014"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (14)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0015",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0015/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0015/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0015"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (15)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0016",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0016/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0016/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0016"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (16)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0017",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0017/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0017/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0017"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (17)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0018",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0018/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0018/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0018"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (18)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0019",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0019/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0019/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/modern_and_ancient_triumphal_arches/iiif/canvas/f0019"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Modern and Ancient … (19)"
-				]
-			},
-			"annotations": []
 		}
 	],
 	"label": {

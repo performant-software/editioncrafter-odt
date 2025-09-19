@@ -1,173 +1,230 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc><titleStmt><title>Veelderley Veranderinghe van grotissen ende</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d31764afc6c8cf96e212b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628557f674d5f7a229b60522" ref="http://vocab.getty.edu/page/ulan/500011287">Floris, Cornelis, II (ca. 1513-1514-1575)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1556</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d6233c932a51b480a8314">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
-                        <idno type="URI">https://collections.vam.ac.uk/item/O977190/veelderley-veranderinghe-van-grotissen-ende-print-floris-cornelis-ii/</idno>
-                        <idno>29170:1</idno>
-                    </msIdentifier>
-                    <p>The Victoria and Albert Museum+ (29170:1)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d626de8e045569ddf40b9">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
-                        <idno type="URI">https://collections.vam.ac.uk/item/O974124/veelderley-veranderinghe-van-grotissen-ende-print-floris-cornelis-ii/</idno>
-                        <idno>29370B</idno>
-                    </msIdentifier>
-                    <p>The Victoria and Albert Museum (29370B)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62b533a84feb69a37c6c0e99">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855df999dbcdc74b40b639">The British Museum</institution>
-                        <idno type="URI">https://www.britishmuseum.org/collection/object/P_1872-0511-1079</idno>
-                        <idno>1872,0511.1079</idno>
-                    </msIdentifier>
-                    <p>The British Museum (1872,0511.1079)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62be561f5e4f5846848f8c52">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">http://hdl.handle.net/10934/RM0001.COLLECT.432689</idno>
-                        <idno>RP-P-OB-6158</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6158)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62be55f70da08f9604573754">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">http://hdl.handle.net/10934/RM0001.COLLECT.432688</idno>
-                        <idno>RP-P-OB-6065</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6065)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b14a3da12d491d55bf9">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200473239</idno>
-                        <idno>RP-P-OB-6065</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6065)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b14a3da12d491d55bfa">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200473240</idno>
-                        <idno>RP-P-OB-6158</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6158)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55bfc">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200480389</idno>
-                        <idno>RP-P-OB-6067</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6067)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55bfd">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484318</idno>
-                        <idno>RP-P-OB-6066</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6066)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55bff">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200419087</idno>
-                        <idno>RP-P-OB-6068</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6068)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c01">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484327</idno>
-                        <idno>RP-P-OB-6069</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6069)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c02">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200472818</idno>
-                        <idno>RP-P-OB-6060</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6060)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c04">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200473242</idno>
-                        <idno>RP-P-OB-6071</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6071)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c05">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200473243</idno>
-                        <idno>RP-P-OB-6072</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6072)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c07">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200435404</idno>
-                        <idno>RP-P-1908-2045</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-1908-2045)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c08">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200473241</idno>
-                        <idno>RP-P-OB-6073</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6073)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0a">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200473244</idno>
-                        <idno>RP-P-OB-6074</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6074)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0c">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200435405</idno>
-                        <idno>RP-P-1908-2046</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-1908-2046)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0d">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484336</idno>
-                        <idno>RP-P-OB-6075</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-OB-6075)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0f">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484337</idno>
-                        <idno>RP-P-OB-6076</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6076)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c11">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484339</idno>
-                        <idno>RP-P-OB-6077</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6077)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c12">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200454958</idno>
-                        <idno>RP-P-1952-242</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum (RP-P-1952-242)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c14">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484340</idno>
-                        <idno>RP-P-OB-6078</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6078)</p>
-                </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c16">
-                    <msIdentifier>
-                        <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
-                        <idno type="URI">https://id.rijksmuseum.nl/200484341</idno>
-                        <idno>RP-P-OB-6079</idno>
-                    </msIdentifier>
-                    <p>Rijksmuseum+ (RP-P-OB-6079)</p>
-                </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a36d5387e3c90b3171490a">All Artists</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a30f6c7befa317ac606b71">Lovers of Art</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855bc06e6e14a1c81bf9c8">Engraving</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675">Netherlandish</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683864b3b575bda8eeb30fac">Cartouche</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683863c2b575bda8eeb30faa">Strapwork</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68388eafb575bda8eeb310e2">Children</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68386bd5b575bda8eeb30fe9">Fruit</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68386bddb575bda8eeb30fea">Garlands</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683889c8b575bda8eeb310be">Figurative representations</term></keywords></textClass><langUsage><language ident="NL">Dutch</language></langUsage></profileDesc>
-<encodingDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>Veelderley Veranderinghe van grotissen ende</title>
+				<respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d31764afc6c8cf96e212b">
+					<resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp>
+					<name ref="http://vocab.getty.edu/page/ulan/500011287" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628557f674d5f7a229b60522">Floris, Cornelis, II (ca. 1513-1514-1575)</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<ab>
+					<bibl>
+						<pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace>
+						<date>1556</date>
+					</bibl>
+				</ab>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d6233c932a51b480a8314">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
+						<idno type="URI">https://collections.vam.ac.uk/item/O977190/veelderley-veranderinghe-van-grotissen-ende-print-floris-cornelis-ii/</idno>
+						<idno>29170:1</idno>
+					</msIdentifier>
+					<p>The Victoria and Albert Museum+ (29170:1)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d626de8e045569ddf40b9">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
+						<idno type="URI">https://collections.vam.ac.uk/item/O974124/veelderley-veranderinghe-van-grotissen-ende-print-floris-cornelis-ii/</idno>
+						<idno>29370B</idno>
+					</msIdentifier>
+					<p>The Victoria and Albert Museum (29370B)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62b533a84feb69a37c6c0e99">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855df999dbcdc74b40b639">The British Museum</institution>
+						<idno type="URI">https://www.britishmuseum.org/collection/object/P_1872-0511-1079</idno>
+						<idno>1872,0511.1079</idno>
+					</msIdentifier>
+					<p>The British Museum (1872,0511.1079)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62be561f5e4f5846848f8c52">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">http://hdl.handle.net/10934/RM0001.COLLECT.432689</idno>
+						<idno>RP-P-OB-6158</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6158)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62be55f70da08f9604573754">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">http://hdl.handle.net/10934/RM0001.COLLECT.432688</idno>
+						<idno>RP-P-OB-6065</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6065)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b14a3da12d491d55bf9">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200473239</idno>
+						<idno>RP-P-OB-6065</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6065)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b14a3da12d491d55bfa">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200473240</idno>
+						<idno>RP-P-OB-6158</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6158)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55bfc">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200480389</idno>
+						<idno>RP-P-OB-6067</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6067)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55bfd">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484318</idno>
+						<idno>RP-P-OB-6066</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6066)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55bff">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200419087</idno>
+						<idno>RP-P-OB-6068</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6068)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c01">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484327</idno>
+						<idno>RP-P-OB-6069</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6069)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c02">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200472818</idno>
+						<idno>RP-P-OB-6060</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6060)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c04">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200473242</idno>
+						<idno>RP-P-OB-6071</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6071)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c05">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200473243</idno>
+						<idno>RP-P-OB-6072</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6072)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c07">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200435404</idno>
+						<idno>RP-P-1908-2045</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-1908-2045)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c08">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200473241</idno>
+						<idno>RP-P-OB-6073</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6073)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0a">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200473244</idno>
+						<idno>RP-P-OB-6074</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6074)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0c">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200435405</idno>
+						<idno>RP-P-1908-2046</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-1908-2046)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0d">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484336</idno>
+						<idno>RP-P-OB-6075</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-OB-6075)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c0f">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484337</idno>
+						<idno>RP-P-OB-6076</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6076)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c11">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484339</idno>
+						<idno>RP-P-OB-6077</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6077)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c12">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200454958</idno>
+						<idno>RP-P-1952-242</idno>
+					</msIdentifier>
+					<p>Rijksmuseum (RP-P-1952-242)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c14">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484340</idno>
+						<idno>RP-P-OB-6078</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6078)</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b15a3da12d491d55c16">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
+						<idno type="URI">https://id.rijksmuseum.nl/200484341</idno>
+						<idno>RP-P-OB-6079</idno>
+					</msIdentifier>
+					<p>Rijksmuseum+ (RP-P-OB-6079)</p>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item><term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a36d5387e3c90b3171490a" type="Addressee">All Artists</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a30f6c7befa317ac606b71" type="Addressee">Lovers of Art</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855bc06e6e14a1c81bf9c8" type="media">Engraving</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675" type="school">Netherlandish</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683864b3b575bda8eeb30fac" type="themes">Cartouche</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683863c2b575bda8eeb30faa" type="themes">Strapwork</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68388eafb575bda8eeb310e2" type="themes">Children</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68386bd5b575bda8eeb30fe9" type="themes">Fruit</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68386bddb575bda8eeb30fea" type="themes">Garlands</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/683889c8b575bda8eeb310be" type="themes">Figurative representations</term></item>
+					</list>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="NL">Dutch</language>
+			</langUsage>
+		</profileDesc>
+		
+	<encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Tags</bibl>
@@ -361,6 +418,8 @@
 <catDesc>reed</catDesc>
 </category><category n="garland" xml:id="garland" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69481">
 <catDesc>garland</catDesc>
+</category><category n="furled_frond" xml:id="furled_frond" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd960f5b2e05341c26f351">
+<catDesc>furled_frond</catDesc>
 </category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
 <catDesc>inorganic</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">
@@ -369,51 +428,93 @@
 <catDesc>pedestal</catDesc>
 </category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69485">
 <catDesc>column</catDesc>
-<category n="square_column" xml:id="square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69486">
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69486">
 <catDesc>square_column</catDesc>
-</category><category n="anthropomorphic_column" xml:id="anthropomorphic_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69488">
-<catDesc>anthropomorphic_column</catDesc>
-</category><category n="caryatid" xml:id="caryatid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69489">
+<category n="doric_square_column" xml:id="doric_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92005b2e05341c26f348">
+<catDesc>doric_square_column</catDesc>
+</category><category n="ionic_square_column" xml:id="ionic_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92095b2e05341c26f349">
+<catDesc>ionic_square_column</catDesc>
+</category><category n="corinthian_square_column" xml:id="corinthian_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92175b2e05341c26f34a">
+<catDesc>corinthian_square_column</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949a">
+<catDesc>pilaster</catDesc>
+<category n="doric_pilaster" xml:id="doric_pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92f25b2e05341c26f34e">
+<catDesc>doric_pilaster</catDesc>
+</category><category n="ionic_pilaster" xml:id="ionic_pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd93005b2e05341c26f34f">
+<catDesc>ionic_pilaster</catDesc>
+</category><category n="corinthian_pilaster" xml:id="corinthian_pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd930a5b2e05341c26f350">
+<catDesc>corinthian_pilaster</catDesc>
+</category></category><category n="doric_column" xml:id="doric_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcebf17f659532e55c00d">
+<catDesc>doric_column</catDesc>
+</category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd66765b2e05341c26f328">
+<catDesc>engaged_column</catDesc>
+<category n="doric_engaged_column" xml:id="doric_engaged_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92465b2e05341c26f34b">
+<catDesc>doric_engaged_column</catDesc>
+</category><category n="ionic_engaged_column" xml:id="ionic_engaged_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92555b2e05341c26f34c">
+<catDesc>ionic_engaged_column</catDesc>
+</category><category n="corinthian_engaged_column" xml:id="corinthian_engaged_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92625b2e05341c26f34d">
+<catDesc>corinthian_engaged_column</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd6f725b2e05341c26f32e">
+<catDesc>figural</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd6f8e5b2e05341c26f32f">
+<catDesc>full_body</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7d965b2e05341c26f333">
+<catDesc>anthropomorphic</catDesc>
+<category n="caryatid" xml:id="caryatid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7e3d5b2e05341c26f336">
 <catDesc>caryatid</catDesc>
-</category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948a">
+</category><category n="atlantid" xml:id="atlantid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7e4a5b2e05341c26f337">
 <catDesc>atlantid</catDesc>
-<category n="satyr_atlantid" xml:id="satyr_atlantid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948b">
-<catDesc>satyr_atlantid</catDesc>
-</category><category n="atlantid" xml:id="atlantid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcee017f659532e55c00f">
-<catDesc>atlantid</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948c">
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7ecc5b2e05341c26f33b">
+<catDesc>animal</catDesc>
+<category n="lion_column" xml:id="lion_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f1e5b2e05341c26f33d">
+<catDesc>lion_column</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f4d5b2e05341c26f33e">
+<catDesc>monster</catDesc>
+<category n="satyr_column" xml:id="satyr_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948b">
+<catDesc>satyr_column</catDesc>
+</category><category n="monster_column" xml:id="monster_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd69385b2e05341c26f32c">
+<catDesc>monster_column</catDesc>
+</category><category n="sphynx_column" xml:id="sphynx_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd695b5b2e05341c26f32d">
+<catDesc>sphynx_column</catDesc>
+</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd6fc75b2e05341c26f330">
 <catDesc>term</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948c">
+<catDesc>monster</catDesc>
+<category n="monster_term" xml:id="monster_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69491">
+<catDesc>monster_term</catDesc>
+</category><category n="satyr_term" xml:id="satyr_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69492">
+<catDesc>satyr_term</catDesc>
+</category><category n="harpy_term" xml:id="harpy_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69493">
+<catDesc>harpy_term</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd8e4e5b2e05341c26f33f">
+<catDesc>anthropomorphic</catDesc>
 <category n="female_term" xml:id="female_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948d">
 <catDesc>female_term</catDesc>
 </category><category n="male_term" xml:id="male_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948e">
 <catDesc>male_term</catDesc>
-</category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69491">
-<catDesc>monster_term</catDesc>
-<category n="satyr_term" xml:id="satyr_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69492">
-<catDesc>satyr_term</catDesc>
-</category><category n="harpy_term" xml:id="harpy_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69493">
-<catDesc>harpy_term</catDesc>
-</category></category><category n="putto_term" xml:id="putto_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add3a517f659532e55c02b">
+</category><category n="putto_term" xml:id="putto_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add3a517f659532e55c02b">
 <catDesc>putto_term</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69494">
+</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd70375b2e05341c26f331">
 <catDesc>herm</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69494">
+<catDesc>anthropomorphic</catDesc>
 <category n="male_herm" xml:id="male_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69495">
 <catDesc>male_herm</catDesc>
 </category><category n="female_herm" xml:id="female_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69496">
 <catDesc>female_herm</catDesc>
-</category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69498">
-<catDesc>monster_herm</catDesc>
-<category n="griffin_herm" xml:id="griffin_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69499">
-<catDesc>griffin_herm</catDesc>
-</category><category n="monster_herm" xml:id="monster_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf2f17f659532e55c010">
-<catDesc>monster_herm</catDesc>
-</category></category><category n="putto_herm" xml:id="putto_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add38f17f659532e55c02a">
+</category><category n="putto_herm" xml:id="putto_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add38f17f659532e55c02a">
 <catDesc>putto_herm</catDesc>
-</category></category><category n="column" xml:id="column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcebf17f659532e55c00d">
-<catDesc>column</catDesc>
-</category></category><category n="pilaster" xml:id="pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949a">
-<catDesc>pilaster</catDesc>
-</category><category n="console" xml:id="console" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949b">
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd8fef5b2e05341c26f340">
+<catDesc>monster</catDesc>
+<category n="monster_herm" xml:id="monster_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69498">
+<catDesc>monster_herm</catDesc>
+</category><category n="griffin_herm" xml:id="griffin_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69499">
+<catDesc>griffin_herm</catDesc>
+</category></category></category></category><category n="ionic_column" xml:id="ionic_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91495b2e05341c26f342">
+<catDesc>ionic_column</catDesc>
+</category><category n="corinthian_column" xml:id="corinthian_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91575b2e05341c26f343">
+<catDesc>corinthian_column</catDesc>
+</category></category><category n="console" xml:id="console" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949b">
 <catDesc>console</catDesc>
 </category><category n="entablature" xml:id="entablature" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949c">
 <catDesc>entablature</catDesc>
@@ -447,7 +548,15 @@
 <catDesc>rivet_hole</catDesc>
 </category><category n="platform" xml:id="platform" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694af">
 <catDesc>platform</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b0">
+</category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91915b2e05341c26f344">
+<catDesc>capital</catDesc>
+<category n="doric_capital" xml:id="doric_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91a25b2e05341c26f345">
+<catDesc>doric_capital</catDesc>
+</category><category n="ionic_capital" xml:id="ionic_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91aa5b2e05341c26f346">
+<catDesc>ionic_capital</catDesc>
+</category><category n="corinthian_capital" xml:id="corinthian_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91b85b2e05341c26f347">
+<catDesc>corinthian_capital</catDesc>
+</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b0">
 <catDesc>mask</catDesc>
 <category n="human_mask" xml:id="human_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b1">
 <catDesc>human_mask</catDesc>
@@ -493,6 +602,8 @@
 <catDesc>twisting</catDesc>
 </category><category n="stippling" xml:id="stippling" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ce">
 <catDesc>stippling</catDesc>
+</category><category n="interlace" xml:id="interlace" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd98105b2e05341c26f352">
+<catDesc>interlace</catDesc>
 </category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d0">
 <catDesc>object</catDesc>
 <category n="cartouche" xml:id="cartouche" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d1">
@@ -561,8 +672,8 @@
 <catDesc>pelt</catDesc>
 </category><category n="pitcher" xml:id="pitcher" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f1">
 <catDesc>pitcher</catDesc>
-</category><category n="sarcophagi" xml:id="sarcophagi" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f2">
-<catDesc>sarcophagi</catDesc>
+</category><category n="sarcophagus" xml:id="sarcophagus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f2">
+<catDesc>sarcophagus</catDesc>
 </category><category n="torch" xml:id="torch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f3">
 <catDesc>torch</catDesc>
 </category><category n="ring" xml:id="ring" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f5">
@@ -627,20 +738,83 @@
 <catDesc>problem</catDesc>
 <category n="ponyo" xml:id="ponyo" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69511">
 <catDesc>ponyo</catDesc>
-</category></category>
+</category></category><category n="atlantid" xml:id="atlantid_01" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcee017f659532e55c00f">
+<catDesc>atlantid</catDesc>
+</category><category n="dog_column" xml:id="dog_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f0c5b2e05341c26f33c">
+<catDesc>dog_column</catDesc>
+</category>
 </taxonomy>
 </classDecl>
 </encodingDesc>
-</teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Veelderley Veranderinghe van grotissen ende Compertimenten ghemaeckt tot dienste ban alle die de conste beminne ende ghebruiken ghedruckt by Hieronimus Cock. 1556. Cornelis Floris Inuetor. Libro primo. 
-
-Cum. G. Et privilegio. 
-
-</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Many variations of grotesques and compartments made for the use of all those who love and use art. Printed by Hieronymus Cock
-
-1556. 
-
-Cornelis Floris invented. 
-
-First book.
-
-With grace and privilege</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d627be18a0a798d49965e"><label>Veelderley Verander… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/4996/628d627be18a0a798d49965e/files/2011FB1568.jpg" /></surface><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b14a3da12d491d55bfb"><label>Veelderley Verander… (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/FtaCh" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55bfe"><label>Veelderley Verander… (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/XMtku" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c00"><label>Veelderley Verander… (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/vQIqH" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c03"><label>Veelderley Verander… (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/xQYuj" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c06"><label>Veelderley Verander… (5)</label><graphic mimeType="application/json" url="https://iiif.micr.io/nctRk" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c09"><label>Veelderley Verander… (6)</label><graphic mimeType="application/json" url="https://iiif.micr.io/UOWva" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0b"><label>Veelderley Verander… (7)</label><graphic mimeType="application/json" url="https://iiif.micr.io/PSzKA" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0e"><label>Veelderley Verander… (8)</label><graphic mimeType="application/json" url="https://iiif.micr.io/trvOT" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c10"><label>Veelderley Verander… (9)</label><graphic mimeType="application/json" url="https://iiif.micr.io/haRAg" /></surface><surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c13"><label>Veelderley Verander… (10)</label><graphic mimeType="application/json" url="https://iiif.micr.io/frOog" /></surface><surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c15"><label>Veelderley Verander… (11)</label><graphic mimeType="application/json" url="https://iiif.micr.io/sxQgB" /></surface><surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c17"><label>Veelderley Verander… (12)</label><graphic mimeType="application/json" url="https://iiif.micr.io/CoaMB" /></surface></facsimile></TEI>
+</teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d627be18a0a798d49965e">
+			<label>Veelderley Verander… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/4996/628d627be18a0a798d49965e/files/2011FB1568.jpg"/>
+		</surface>
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b14a3da12d491d55bfb">
+			<label>Veelderley Verander… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/FtaCh"/>
+		</surface>
+		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55bfe">
+			<label>Veelderley Verander… (2)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/XMtku"/>
+		</surface>
+		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c00">
+			<label>Veelderley Verander… (3)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/vQIqH"/>
+		</surface>
+		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c03">
+			<label>Veelderley Verander… (4)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/xQYuj"/>
+		</surface>
+		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c06">
+			<label>Veelderley Verander… (5)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/nctRk"/>
+		</surface>
+		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c09">
+			<label>Veelderley Verander… (6)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/UOWva"/>
+		</surface>
+		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0b">
+			<label>Veelderley Verander… (7)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/PSzKA"/>
+		</surface>
+		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0e">
+			<label>Veelderley Verander… (8)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/trvOT"/>
+		</surface>
+		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c10">
+			<label>Veelderley Verander… (9)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/haRAg"/>
+		</surface>
+		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c13">
+			<label>Veelderley Verander… (10)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/frOog"/>
+		</surface>
+		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c15">
+			<label>Veelderley Verander… (11)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/sxQgB"/>
+		</surface>
+		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c17">
+			<label>Veelderley Verander… (12)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/CoaMB"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>Veelderley Veranderinghe van grotissen ende Compertimenten ghemaeckt tot dienste ban alle die de conste beminne ende ghebruiken ghedruckt by Hieronimus Cock. 1556. Cornelis Floris Inuetor. Libro primo. Cum. G. Et privilegio.</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>Many variations of grotesques and compartments made for the use of all those who love and use art. Printed by Hieronymus Cock 1556. Cornelis Floris invented. First book. With grace and privilege</p>
+			</div>
+		</body>
+	</text>
+</TEI>
