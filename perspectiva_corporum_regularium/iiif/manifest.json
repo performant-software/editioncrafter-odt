@@ -3,37 +3,37 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874115/main-image",
+								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7779/62bf71736b5b4f1fa977791f/files/BI-1969-205-1.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 800,
 								"width": 1000,
 								"service": [
 									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874115/main-image",
+										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7779/62bf71736b5b4f1fa977791f/files/BI-1969-205-1.jpg",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,583 +47,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0002/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874116/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874116/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0002"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (2)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0003",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0003/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0003/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874117/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874117/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0003"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (3)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0004",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0004/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0004/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874118/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874118/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0004"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (4)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0005",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0005/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0005/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874119/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874119/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0005"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (5)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0006",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0006/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0006/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874120/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874120/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0006"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (6)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0007",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0007/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0007/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874121/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874121/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0007"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (7)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0008",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0008/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0008/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874122/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874122/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0008"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (8)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0009",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0009/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0009/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874123/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1874123/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0009"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (9)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0010",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0010/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0010/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/758449/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/758449/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0010"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (Title Page)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0011",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0011/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0011/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/761139/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/761139/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0011"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (11)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0012",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0012/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0012/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/761140/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/761140/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0012"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (12)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0013",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0013/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0013/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/769022/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/769022/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0013"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (13)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0014",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0014/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0014/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1674546/main-image",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/339008/1674546/main-image",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0014"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Perspectiva corporu… (14)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -640,7 +107,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -654,34 +121,34 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/tei/transcription/f0017.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/tei/transcription/f0017.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/html/transcription/f0017.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/html/transcription/f0017.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/perspectiva_corporum_regularium/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//perspectiva_corporum_regularium/iiif/canvas/f0017"
 						}
 					]
 				}

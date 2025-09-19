@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,76 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +133,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -148,16 +148,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -174,7 +174,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -189,16 +189,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -215,7 +215,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -227,19 +227,55 @@
 					"Hic liber avrifecib… (4)"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0004_z000",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pearl",
+							"motivation": "classifying"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#ponyo",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1757.7183837890625,3399.952880859375 1740.6866455078125,3399.952880859375 1738.5576171875,3519.175048828125 1708.752197265625,3574.528076171875 1689.5914306640625,3634.13916015625 1687.4625244140625,3695.879150390625 1717.26806640625,3738.45849609375 1734.2996826171875,3761.877197265625 1747.073486328125,3793.8115234375 1766.2342529296875,3795.940673828125 1776.8790283203125,3761.877197265625 1787.52392578125,3734.200439453125 1823.71630859375,3715.039794921875 1836.4901123046875,3670.33154296875 1830.1031494140625,3595.81787109375 1804.5556640625,3548.98046875 1779.008056640625,3517.046142578125 1776.8790283203125,3402.081787109375 1774.7501220703125,3402.081787109375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				}
+			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -256,7 +292,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -271,16 +307,16 @@
 			"annotations": []
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -297,7 +333,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006"
 						}
 					]
 				}

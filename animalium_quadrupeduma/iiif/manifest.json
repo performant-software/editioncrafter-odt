@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//animalium_quadrupeduma/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//animalium_quadrupeduma/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//animalium_quadrupeduma/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//animalium_quadrupeduma/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//animalium_quadrupeduma/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,36 +47,32 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001/annotationPage/1",
-					"type": "AnnotationPage",
-					"items": [
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0001_z000",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
 						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001/annotationPage/1/annotation/0",
-							"type": "Annotation",
-							"motivation": "supplementing",
-							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/tei/transcription/f0001.xml",
-								"format": "text/xml",
-								"type": "TextPartial",
-								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001"
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
 						},
 						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001/annotationPage/1/annotation/1",
-							"type": "Annotation",
-							"motivation": "supplementing",
-							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/html/transcription/f0001.html",
-								"format": "text/html",
-								"type": "TextPartial",
-								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/animalium_quadrupeduma/iiif/canvas/f0001"
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#monkey",
+							"motivation": "classifying"
 						}
-					]
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2951.396728515625,585.7559814453125 3033.861572265625,605.7473754882812 2916.411865234375,603.2484741210938 2916.411865234375,628.23779296875 3061.349609375,660.723876953125 3148.812255859375,678.2163696289062 3201.289794921875,633.235595703125 3271.259765625,645.7302856445312 3418.69677734375,533.2784423828125 3713.5703125,668.2206420898438 3783.54052734375,1025.567626953125 3958.465576171875,883.1286010742188 3958.465576171875,775.6746215820312 3928.478271484375,513.2869873046875 4212.55419921875,384.8656311035156 4212.55419921875,273.91314697265625 3288.949951171875,189.9490966796875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
 				}
 			]
 		}

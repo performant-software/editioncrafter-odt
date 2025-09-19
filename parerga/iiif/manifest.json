@@ -3,37 +3,37 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/69b5ca50_194e_418a_8314_a3b700d44e95/00063720_001.ptif",
+								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/dca6/62c72533df978e1dafdca641/files/63720001.jpg",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 800,
 								"width": 1000,
 								"service": [
 									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/69b5ca50_194e_418a_8314_a3b700d44e95/00063720_001.ptif",
+										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/dca6/62c72533df978e1dafdca641/files/63720001.jpg",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,571 +47,38 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/parerga/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//parerga/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/parerga/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//parerga/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//parerga/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0002",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0002/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0002/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/b2f0b17c_2996_4e55_8b60_a3b700d450a6/00063721_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/b2f0b17c_2996_4e55_8b60_a3b700d450a6/00063721_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0002"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (2)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0003",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0003/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0003/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/1883a6cb_0428_4642_ab6d_a3b700d453bd/00063723_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/1883a6cb_0428_4642_ab6d_a3b700d453bd/00063723_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0003"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (3)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0004",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0004/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0004/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/f7efc013_a2f2_4735_bab7_a3b700d45541/00063724_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/f7efc013_a2f2_4735_bab7_a3b700d45541/00063724_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0004"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (4)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0005",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0005/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0005/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/131d38a1_fafb_4d17_aa0c_a3b700d456e2/00063725_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/131d38a1_fafb_4d17_aa0c_a3b700d456e2/00063725_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0005"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (5)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0006",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0006/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0006/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/fc3274b1_92f8_4478_8e09_a3b700d458a3/00063726_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/fc3274b1_92f8_4478_8e09_a3b700d458a3/00063726_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0006"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (6)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0007",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0007/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0007/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/4a7cba7d_7e2a_4e05_997d_a3b700d45be9/00063728_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/4a7cba7d_7e2a_4e05_997d_a3b700d45be9/00063728_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0007"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (7)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0008",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0008/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0008/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/f3007619_31e4_4fcd_9161_a3b700d45a3a/00063727_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/f3007619_31e4_4fcd_9161_a3b700d45a3a/00063727_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0008"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (8)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0009",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0009/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0009/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/444b56e2_c046_4c63_8d88_a3b700d45db8/00063729_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/444b56e2_c046_4c63_8d88_a3b700d45db8/00063729_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0009"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (9)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0010",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0010/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0010/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/c063b3da_a3f4_4560_b389_a3b700d4618a/00063731_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/c063b3da_a3f4_4560_b389_a3b700d4618a/00063731_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0010"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (10)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0011",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0011/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0011/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/eb4f5d17_6d4f_4b7a_b882_a3b700d45fa3/00063730_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/eb4f5d17_6d4f_4b7a_b882_a3b700d45fa3/00063730_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0011"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (11)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0012",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0012/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0012/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/d98c49ba_8870_4b62_b38d_a3b700d46376/00063732_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/d98c49ba_8870_4b62_b38d_a3b700d46376/00063732_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0012"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (12)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0013",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0013/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0013/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/3417f220_c048_46ea_a1c0_a3b700d465a7/00063733_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/3417f220_c048_46ea_a1c0_a3b700d465a7/00063733_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0013"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (13)"
-				]
-			},
-			"annotations": []
-		},
-		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0014",
-			"type": "Canvas",
-			"items": [
-				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0014/annotationpage/0",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0014/annotationpage/0/annotation/0",
-							"type": "Annotation",
-							"motivation": "painting",
-							"body": {
-								"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/add73693_f96f_4a53_b373_a3b700d45226/00063722_001.ptif",
-								"format": "image/jpeg",
-								"type": "Image",
-								"height": 800,
-								"width": 1000,
-								"service": [
-									{
-										"id": "https://media.britishmuseum.org/iiif/Repository/Documents/2014_10/1_12/add73693_f96f_4a53_b373_a3b700d45226/00063722_001.ptif",
-										"type": "ImageService2",
-										"profile": "http://iiif.io/api/image/2/level2.json"
-									}
-								]
-							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/parerga/iiif/canvas/f0014"
-						}
-					]
-				}
-			],
-			"height": 800,
-			"width": 1000,
-			"label": {
-				"none": [
-					"Parerga (14)"
-				]
-			},
-			"annotations": []
 		}
 	],
 	"label": {
