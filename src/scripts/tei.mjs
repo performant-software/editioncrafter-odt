@@ -57,7 +57,7 @@ const getMotifs = (motifs) => {
   };
 
   let encodingDesc =
-    '<encodingDesc>\n<classDecl>\n<taxonomy xml:id="motifs">\n<bibl>Tags</bibl>\n';
+    '<encodingDesc>\n<classDecl>\n<taxonomy xml:id="motifs">\n<bibl>Ornamental Motifs</bibl>\n';
   parents.forEach((tag) => {
     encodingDesc += getChildrenString(tag, xmlIds);
   });
