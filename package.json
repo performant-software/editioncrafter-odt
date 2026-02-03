@@ -27,7 +27,8 @@
     "vite": "^6.0.9"
   },
   "bin": {
-    "update_motifs": "./bin/tei.js",
+    "update_motifs": "./bin/motifs.js",
+    "update_tei": "./bin/update.js",
     "generate_tei": "./bin/corpora.js"
   }
 }

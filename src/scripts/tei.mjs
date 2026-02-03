@@ -144,7 +144,8 @@ const getHeaderData = (data, context) => {
           const holdingFull = holdings.find((h) => h.uri === holding.uri);
           if (holdingFull) {
             seriesHoldings.push(holdingFull);
-            sourceDesc += `<msDesc sameAs="${URI_PREFIX}${holdingFull.uri}">
+            const xmlId = "f" + String(img.seq_no).padStart(4, "0");
+            sourceDesc += `<msDesc sameAs="${URI_PREFIX}${holdingFull.uri}" ref="#${xmlId}">
                     <msIdentifier>
                         <institution sameAs="${URI_PREFIX}${holdingFull.institution?.uri}">${holdingFull.institution?.label}</institution>
                         <idno type="URI">${holdingFull.url}</idno>
@@ -238,11 +239,18 @@ export const createFilenameFromTitle = (title) => {
   return fileName;
 };
 
-const writeFullTEI = async (data, context, outputPath = OUTPUT_PATH) => {
+const writeFullTEI = async (data, context, outputPath = OUTPUT_PATH, inputPath = null) => {
   const header = getHeaderData(data, context);
-  const surfaces = await getSurfaceData(data.uri, context.images);
-  const teiString =
-    '<TEI xmlns="http://www.tei-c.org/ns/1.0">' + header + surfaces + "</TEI>";
+  let teiString = '';
+  if (!inputPath || !fs.existsSync(inputPath)) {
+    const surfaces = await getSurfaceData(data.uri, context.images);
+    teiString =
+      '<TEI xmlns="http://www.tei-c.org/ns/1.0">' + header + surfaces + "</TEI>";
+  } else {
+    const oldTeiString = fs.readFileSync(inputPath, { encoding: "utf-8" });
+    teiString = oldTeiString.split("<teiHeader")[0] + header + oldTeiString.split("</teiHeader>")[1];
+  }
+
   const fileName = createFilenameFromTitle(data.title);
   fs.writeFileSync(`${outputPath}/${fileName}.xml`, teiString);
 };
@@ -373,3 +381,40 @@ export const updateMotifs = async (filePath, outputPath = OUTPUT_PATH, motifStr)
   }
   writeMotifs(str, filePath, `${outputPath}/${file}`);
 };
+
+export const updateTEI = async (
+  inputPath = INPUT_PATH,
+  outputPath = OUTPUT_PATH
+) => {
+  if (!fs.existsSync(inputPath)) {
+    console.log(inputPath);
+    console.error("The specified folder does not exist.");
+    process.exit(1);
+  }
+  const series = await getData("Series");
+  const agents = await getData("Agent");
+  const people = await getData("Person");
+  const holdings = await getData("Holding");
+  const languages = await getData("Language");
+  const images = await getData("Image");
+  const motifs = await getData("Motif");
+  const motifStr = getMotifs(motifs);
+
+  for (const ser of series) {
+    const filename = `${inputPath}/${createFilenameFromTitle(ser.title)}.xml`;
+    console.log(`Updating ${ser.title}...`);
+    await writeFullTEI(
+      ser,
+      {
+        agents,
+        people,
+        holdings,
+        languages,
+        images,
+        motifStr,
+      },
+      outputPath,
+      filename
+    );
+  }
+}
