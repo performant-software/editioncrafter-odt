@@ -1,5 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="translation">
 		<body>
-			<div/>
+			<div>
+				<p>
+					This is a translation!!!!
+				</p>
+			</div>
 		</body>
 	</text>

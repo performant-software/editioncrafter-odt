@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,81 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0001"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "E.877-1912",
+				"URI": "https://collections.vam.ac.uk/item/O720385/monilium-bullarum-inauriumque-artificiocissimae-icones-print-hans-collaert/"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +138,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -145,19 +150,24 @@
 					"Monilium Bullarum I… (3)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1939-65",
+				"URI": "https://id.rijksmuseum.nl/200450344"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -174,7 +184,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -186,19 +196,24 @@
 					"Monilium Bullarum I… (4)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1939-66",
+				"URI": "https://id.rijksmuseum.nl/200450345"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -215,7 +230,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -227,19 +242,24 @@
 					"Monilium Bullarum I… (5)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1939-67",
+				"URI": "https://id.rijksmuseum.nl/200450346"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -256,7 +276,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -268,19 +288,24 @@
 					"Monilium Bullarum I… (6)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1939-68",
+				"URI": "https://id.rijksmuseum.nl/200450347"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -297,7 +322,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -309,19 +334,24 @@
 					"Monilium Bullarum I… (7)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1893-A-17800",
+				"URI": "https://id.rijksmuseum.nl/200431090"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -338,7 +368,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -350,19 +380,24 @@
 					"Monilium Bullarum I… (8)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1939-70",
+				"URI": "https://id.rijksmuseum.nl/200450349"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -379,7 +414,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -391,19 +426,24 @@
 					"Monilium Bullarum I… (9)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1939-71",
+				"URI": "https://id.rijksmuseum.nl/200450350"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -420,7 +460,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/monilium_bullarum_inauriumque_artificiocissimae_icones/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -432,7 +472,12 @@
 					"Monilium Bullarum I… (10)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1893-A-17796",
+				"URI": "https://id.rijksmuseum.nl/200167485"
+			}
 		}
 	],
 	"label": {

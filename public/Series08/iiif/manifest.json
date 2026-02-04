@@ -1,0 +1,228 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F001.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F001.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"p. 1"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F002.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F002.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"p. 2"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F003.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F003.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"p. 3"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F004.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F004.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"p. 4"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F005.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.dh.tamu.edu/iiif/2/ODT%2Fseries_008%2F005.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/Series08/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"p. 5"
+				]
+			},
+			"annotations": []
+		}
+	],
+	"label": {
+		"en": [
+			"Series08"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}

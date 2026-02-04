@@ -1,0 +1,608 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/pDDMm",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/pDDMm",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (Title Page)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/tei/transcription/f0001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/html/transcription/f0001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0001"
+						}
+					]
+				}
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16566",
+				"URI": "https://id.rijksmuseum.nl/200430751"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2012FP3971",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2012FP3971",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0002"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (2)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16567",
+				"URI": "https://id.rijksmuseum.nl/200430752"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2012FP3972",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2012FP3972",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0003"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (3)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16568",
+				"URI": "https://id.rijksmuseum.nl/200430753"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2012FP3973",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2012FP3973",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0004"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (4)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16569",
+				"URI": "https://id.rijksmuseum.nl/200430754"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2012FP3974",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2012FP3974",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0005"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (5)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16570",
+				"URI": "https://id.rijksmuseum.nl/200430755"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2012FP3975",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2012FP3975",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0006"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (6)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16571",
+				"URI": "https://id.rijksmuseum.nl/200430756"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/heYOb",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/heYOb",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0007"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (7)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16572",
+				"URI": "https://id.rijksmuseum.nl/200430757"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/EnOCo",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/EnOCo",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0008"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (8)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16573",
+				"URI": "https://id.rijksmuseum.nl/200430758"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/hnHLQ",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/hnHLQ",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0009"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (9)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16574",
+				"URI": "https://id.rijksmuseum.nl/200430759"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/OLcWS",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/OLcWS",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0010"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (10)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16575",
+				"URI": "https://id.rijksmuseum.nl/200430760"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/oWMUb",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/oWMUb",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0011"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (11)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16576",
+				"URI": "https://id.rijksmuseum.nl/200430761"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0012",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0012/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/PneUQ",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/PneUQ",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_friezes_with_birds/iiif/canvas/f0012"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Friezes with Birds (12)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16577",
+				"URI": "https://id.rijksmuseum.nl/200430762"
+			}
+		}
+	],
+	"label": {
+		"en": [
+			"thu_friezes_with_birds"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}

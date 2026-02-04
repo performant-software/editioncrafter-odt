@@ -1,4 +1,4 @@
-# EditionCrafter O:D:T Project 
+# EditionCrafter O:D:T Project
 
 This repo is based on the "EditionCrafter Project React Template" and works the same way except we have added a couple of O:D:T specific scripts for integration with Corpora. These scripts are described below and then the original README follows after that.
 
@@ -7,24 +7,27 @@ This repo is based on the "EditionCrafter Project React Template" and works the 
 The following scripts are included to pull in data from the O:D:T Corpora database as needed.
 
 Notes:
-* npm link command
-* how to run the database command
+
+- npm link command
+- how to run the database command
 
 ### `update_motifs`
 
 Running `update_motifs` will update the TEI header of any XML files in the `data/for_processing` folder to include the most recent motifs list from Corpora. The processed files will be written to `data/processing_output` and can be downloaded and re-imported to FairCopy from there.
 
+### `update_tei`
+
+Running `update_tei` will update the TEI header of any XML files in the `data/for_processing` folder with the most recent data from Corpora, including motifs as well as information on holding and other metadata. Any series in Corpora that do not already have a TEI document in `data/for_processing` will have a fresh one generated. The processed files will be written to `data/processing_output` and can be downloaded and re-imported to FairCopy from there.
+
 ### `generate_tei`
 
 Running `generate_tei` will pull all the most recent data from Corpora and generate fresh (un-annotated) TEI files in `data/processing_output` corresponding to any files in `data/processing_input`. To generate fresh TEI files for all series in Corpora, run `generate_tei --mode all`. To generate a fresh TEI file only for one specified series, run `generate_tei -s "<series title>"`.
-
 
 # EditionCrafter Project React Template
 
 [![DOI](https://zenodo.org/badge/883392542.svg)](https://doi.org/10.5281/zenodo.16755979)
 
 This repository provides a starting point for creating an [Astro](https://astro.build/) website using EditionCrafter. It comes with a number of pre-configured examples and step-by-step instructions for configuring your own edition. If you are familiar with web software development, follow the installation instructions to set up your development environment. If you want to get started without setting up a local development environment, this repo is configured to work with GitHub CodeSpaces. The code space comes with the latest EditionCrafter Command Line Interface (CLI) and other dependencies pre-installed. Simply fork this repo and then click on the CodeSpaces button.
-
 
 ## Installation
 
