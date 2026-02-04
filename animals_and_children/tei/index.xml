@@ -13,6 +13,12 @@
                         <idno>19.52.12</idno>
                     </msIdentifier>
                     <p>The Metropolitan Museum of Art (19.52.12)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>CC0 1.0 Universal</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b88" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -20,6 +26,12 @@
                         <idno>RP-P-1893-A-18179</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-1893-A-18179)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b89">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -27,6 +39,12 @@
                         <idno>RP-P-OB-77.470</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-OB-77.470)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b8a">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -34,6 +52,12 @@
                         <idno>RP-P-1944-410(R)</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-1944-410(R))</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b8c" ref="#f0002">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -41,6 +65,12 @@
                         <idno>RP-P-1893-A-18180</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-1893-A-18180)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b8d">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -48,6 +78,12 @@
                         <idno>RP-P-OB-77.471</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-OB-77.471)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b8e">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -62,6 +98,12 @@
                         <idno>RP-P-BI-5096</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-BI-5096)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b91">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -69,6 +111,12 @@
                         <idno>RP-P-OB-77.472</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-OB-77.472)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b93" ref="#f0004">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -76,6 +124,12 @@
                         <idno>RP-P-1893-A-18181</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-1893-A-18181)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b94">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -83,6 +137,12 @@
                         <idno>RP-P-OB-77.473</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-OB-77.473)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b96" ref="#f0005">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -90,6 +150,12 @@
                         <idno>RP-P-1893-A-18182</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-1893-A-18182)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b97">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -97,6 +163,12 @@
                         <idno>RP-P-OB-77.474</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-OB-77.474)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b98">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -104,6 +176,12 @@
                         <idno>RP-P-1965-918</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-1965-918)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b9a" ref="#f0006">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -111,6 +189,12 @@
                         <idno>RP-P-1893-A-18183</idno>
                     </msIdentifier>
                     <p>Rijksmuseum+ (RP-P-1893-A-18183)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/686c6b12a3da12d491d55b9b">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
@@ -118,6 +202,12 @@
                         <idno>RP-P-OB-77.475</idno>
                     </msIdentifier>
                     <p>Rijksmuseum (RP-P-OB-77.475)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>(PDM 1.0)</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855bc06e6e14a1c81bf9c8">Engraving</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675">Netherlandish</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68386ca7b575bda8eeb30ffb">Frieze</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/68388eafb575bda8eeb310e2">Children</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6835de70b575bda8eeb30ef1">Animals</term><term type="themes" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Theme/6838adc8b575bda8eeb31130">Angels</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc><encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
@@ -128,7 +218,27 @@
 <catDesc>animal</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942d">
 <catDesc>mammal</catDesc>
-<category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
+<catDesc>human</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
+<catDesc>child</catDesc>
+<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
+<catDesc>nude_child</catDesc>
+</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
+<catDesc>clothed_child</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
+<catDesc>man</catDesc>
+<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
+<catDesc>nude_man</catDesc>
+</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
+<catDesc>clothed_man</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
+<catDesc>woman</catDesc>
+<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
+<catDesc>nude_woman</catDesc>
+</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
+<catDesc>clothed_woman</catDesc>
+</category></category></category><category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
 <catDesc>monkey</catDesc>
 </category><category n="squirrel" xml:id="squirrel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69438">
 <catDesc>squirrel</catDesc>
@@ -342,26 +452,6 @@
 <catDesc>vegetal_crown</catDesc>
 </category><category n="stalk" xml:id="stalk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9505c5b2e05341c26f4bb">
 <catDesc>stalk</catDesc>
-</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
-<catDesc>human</catDesc>
-<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
-<catDesc>child</catDesc>
-<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
-<catDesc>nude_child</catDesc>
-</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
-<catDesc>clothed_child</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
-<catDesc>man</catDesc>
-<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
-<catDesc>nude_man</catDesc>
-</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
-<catDesc>clothed_man</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
-<catDesc>woman</catDesc>
-<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
-<catDesc>nude_woman</catDesc>
-</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
-<catDesc>clothed_woman</catDesc>
 </category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
 <catDesc>inorganic</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">

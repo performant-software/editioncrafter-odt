@@ -108,7 +108,7 @@
 			"metadata": {
 				"Institution": "The British Museum",
 				"Identifier": "1928,1212.83",
-				"URI": "https://www.britishmuseum.org/collection/object/P_1928-1212-83"
+				"Link": "https://www.britishmuseum.org/collection/object/P_1928-1212-83"
 			}
 		},
 		{
@@ -154,7 +154,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1898-A-20106",
-				"URI": "https://id.rijksmuseum.nl/200431790"
+				"Link": "https://id.rijksmuseum.nl/200431790",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -200,7 +201,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1898-A-20104",
-				"URI": "https://id.rijksmuseum.nl/200431788"
+				"Link": "https://id.rijksmuseum.nl/200431788",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -246,7 +248,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1954-443",
-				"URI": "https://id.rijksmuseum.nl/200455296"
+				"Link": "https://id.rijksmuseum.nl/200455296",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -292,7 +295,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1954-440",
-				"URI": "https://id.rijksmuseum.nl/200455293"
+				"Link": "https://id.rijksmuseum.nl/200455293",
+				"Permissions": "(PDM 1.0)"
 			}
 		}
 	],

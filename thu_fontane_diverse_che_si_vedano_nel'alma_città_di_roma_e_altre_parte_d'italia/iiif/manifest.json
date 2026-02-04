@@ -82,7 +82,7 @@
 			"metadata": {
 				"Institution": "The British Museum",
 				"Identifier": "1941,1213.677.1",
-				"URI": "https://www.britishmuseum.org/collection/object/P_1941-1213-677-1"
+				"Link": "https://www.britishmuseum.org/collection/object/P_1941-1213-677-1"
 			}
 		},
 		{
@@ -128,7 +128,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:5",
-				"URI": "https://collections.vam.ac.uk/item/O675288"
+				"Link": "https://collections.vam.ac.uk/item/O675288",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -174,7 +175,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:21",
-				"URI": "https://collections.vam.ac.uk/item/O675272"
+				"Link": "https://collections.vam.ac.uk/item/O675272",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -220,7 +222,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:16",
-				"URI": "https://collections.vam.ac.uk/item/O675277"
+				"Link": "https://collections.vam.ac.uk/item/O675277",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -266,7 +269,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:6",
-				"URI": "https://collections.vam.ac.uk/item/O675287"
+				"Link": "https://collections.vam.ac.uk/item/O675287",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -312,7 +316,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:2",
-				"URI": "https://collections.vam.ac.uk/item/O675291"
+				"Link": "https://collections.vam.ac.uk/item/O675291",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -358,7 +363,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:20",
-				"URI": "https://collections.vam.ac.uk/item/O675273"
+				"Link": "https://collections.vam.ac.uk/item/O675273",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -404,7 +410,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "28278:9",
-				"URI": "https://collections.vam.ac.uk/item/O619193"
+				"Link": "https://collections.vam.ac.uk/item/O619193",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -450,7 +457,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "17393",
-				"URI": "https://collections.vam.ac.uk/item/O655860"
+				"Link": "https://collections.vam.ac.uk/item/O655860",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -496,7 +504,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:19",
-				"URI": "https://collections.vam.ac.uk/item/O675274"
+				"Link": "https://collections.vam.ac.uk/item/O675274",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -542,7 +551,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:13",
-				"URI": "https://collections.vam.ac.uk/item/O675280"
+				"Link": "https://collections.vam.ac.uk/item/O675280",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -588,7 +598,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "28278:8",
-				"URI": "https://collections.vam.ac.uk/item/O619194"
+				"Link": "https://collections.vam.ac.uk/item/O619194",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -634,7 +645,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:17",
-				"URI": "https://collections.vam.ac.uk/item/O675276"
+				"Link": "https://collections.vam.ac.uk/item/O675276",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -680,7 +692,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:11",
-				"URI": "https://collections.vam.ac.uk/item/O675282"
+				"Link": "https://collections.vam.ac.uk/item/O675282",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -726,7 +739,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:8",
-				"URI": "https://collections.vam.ac.uk/item/O675285"
+				"Link": "https://collections.vam.ac.uk/item/O675285",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -772,7 +786,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:1",
-				"URI": "https://collections.vam.ac.uk/item/O675292"
+				"Link": "https://collections.vam.ac.uk/item/O675292",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -818,7 +833,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:14",
-				"URI": "https://collections.vam.ac.uk/item/O675279"
+				"Link": "https://collections.vam.ac.uk/item/O675279",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -864,7 +880,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:12",
-				"URI": "https://collections.vam.ac.uk/item/O675281"
+				"Link": "https://collections.vam.ac.uk/item/O675281",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -910,7 +927,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:9",
-				"URI": "https://collections.vam.ac.uk/item/O675284"
+				"Link": "https://collections.vam.ac.uk/item/O675284",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -956,7 +974,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:4",
-				"URI": "https://collections.vam.ac.uk/item/O675289"
+				"Link": "https://collections.vam.ac.uk/item/O675289",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -1002,7 +1021,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:15",
-				"URI": "https://collections.vam.ac.uk/item/O675278"
+				"Link": "https://collections.vam.ac.uk/item/O675278",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		},
 		{
@@ -1048,7 +1068,8 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:10",
-				"URI": "https://collections.vam.ac.uk/item/O675283"
+				"Link": "https://collections.vam.ac.uk/item/O675283",
+				"Permissions": "© Victoria and Albert Museum, London"
 			}
 		}
 	],

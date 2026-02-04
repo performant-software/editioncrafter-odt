@@ -108,7 +108,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1907-5314",
-				"URI": "https://id.rijksmuseum.nl/200485181"
+				"Link": "https://id.rijksmuseum.nl/200485181",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -154,7 +155,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1906-359",
-				"URI": "https://id.rijksmuseum.nl/200434624"
+				"Link": "https://id.rijksmuseum.nl/200434624",
+				"Permissions": "(PDM 1.0)"
 			}
 		}
 	],

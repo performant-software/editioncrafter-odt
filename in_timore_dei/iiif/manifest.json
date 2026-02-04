@@ -49,7 +49,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-2022-3615-1",
-				"URI": "https://id.rijksmuseum.nl/200829136"
+				"Link": "https://id.rijksmuseum.nl/200829136",
+				"Permissions": "(PDM 1.0)"
 			}
 		}
 	],

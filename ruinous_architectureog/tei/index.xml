@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835d070b575bda8eeb30eaf"><titleStmt><title>Ruinous Architecture.OG</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62d03f08d572c071592053af"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62d03efa3eaeb7518519e626">Thiry, Leonard (unknown-1550)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/68adfd2e17f659532e55c046"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7d0d1dbdf14e1b9d1682" ref="http://vocab.getty.edu/page/ulan/500008202">Du Cerceau, Jacques Androuet, the elder (ca.1515-after  1584)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628e7c8ff66fec9e00edcb9b">Orléans</pubPlace><date>1550</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f554bb575bda8eeb31388">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835d070b575bda8eeb30eaf"><titleStmt><title>Ruinous Architecture.OG</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62d03f08d572c071592053af"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62d03efa3eaeb7518519e626">Thiry, Leonard (unknown-1550)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/68adfd2e17f659532e55c046"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7d0d1dbdf14e1b9d1682" ref="http://vocab.getty.edu/page/ulan/500008202">Du Cerceau, Jacques Androuet, the elder (ca.1515-after  1584)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628e7c8ff66fec9e00edcb9b">Orléans</pubPlace><date>1550</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f554bb575bda8eeb31388">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">https://id.rijksmuseum.nl/200458378</idno>
@@ -15,7 +16,27 @@
 <catDesc>animal</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942d">
 <catDesc>mammal</catDesc>
-<category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
+<catDesc>human</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
+<catDesc>child</catDesc>
+<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
+<catDesc>nude_child</catDesc>
+</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
+<catDesc>clothed_child</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
+<catDesc>man</catDesc>
+<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
+<catDesc>nude_man</catDesc>
+</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
+<catDesc>clothed_man</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
+<catDesc>woman</catDesc>
+<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
+<catDesc>nude_woman</catDesc>
+</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
+<catDesc>clothed_woman</catDesc>
+</category></category></category><category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
 <catDesc>monkey</catDesc>
 </category><category n="squirrel" xml:id="squirrel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69438">
 <catDesc>squirrel</catDesc>
@@ -229,26 +250,6 @@
 <catDesc>vegetal_crown</catDesc>
 </category><category n="stalk" xml:id="stalk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9505c5b2e05341c26f4bb">
 <catDesc>stalk</catDesc>
-</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
-<catDesc>human</catDesc>
-<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
-<catDesc>child</catDesc>
-<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
-<catDesc>nude_child</catDesc>
-</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
-<catDesc>clothed_child</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
-<catDesc>man</catDesc>
-<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
-<catDesc>nude_man</catDesc>
-</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
-<catDesc>clothed_man</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
-<catDesc>woman</catDesc>
-<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
-<catDesc>nude_woman</catDesc>
-</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
-<catDesc>clothed_woman</catDesc>
 </category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
 <catDesc>inorganic</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">
@@ -696,28 +697,24 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>IACOBVS ANDROVETIVS DVCERCEAV
-IECTORIBVS S 
-
-CVM NACTVS ESSEM DVODECIM FRAGMEN
-TA STRVCTVRAE VETERIS COMMENDATA MO 
-NVMENTIS A LEONARDO THEODORICO HOMI 
-NE ARTIS PERSPECTIVAE PERITISSIMO, QVI NV 
-PER OBUT ANTVERPIAE, MIHIVISVS SVM OPERAE 
-PRECIVM FACTVRVS SI EA IN LVCEM EMITTEREM, 
-TVM PROPTER MEVM ARTIS ILLVSTRANDAE STVDI
-VM, TVM QVOD EIYSMODI VIDERENTVR ESSE, 
-VT OMNIBVS STVDIOSIS ANTIQVITATIS NON 
-MEDIOCREM VTILITATEM CVM VOLVPTATE
-CONIVNCTAM AFFERRE POSSENT. QVANDO 
-VERO NON EST MEVM INVENTVM, NOLVI
-QVICQVAM ADDERE AVT DETRAHERE AVTHO
-RIS DESCRIPTIONI: NE HOMINEM DEBITA 
-LAVDE MERITA QVE FRAVDAREM: NEVE A(?)E
-NAM VIDERER INDVSTRIAM VENDICARE VEL 
-LE. QVARE SI QVEM FRVCTVM HINC VOS 
-PERCEPISSE SENTIETIS, IPSI LEONARDO AC
-CEPTVM FERTE. SOLVM A VOBIS POSTVLO, 
-VT BONI CONSVLATIS MEAM DILIGENTIAM
-IN IIS EDENDIS, QVAE VSVI VOBIS ESSE 
-POSSVNT. VALETE. AVRELLAE. 1550. </p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f554eb575bda8eeb31389"><label>Ruinous Architectur… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f554eb575bda8eeb31389/files/image/RP-P-1964-1731.jpg" /></surface></facsimile></TEI>
+</encodingDesc></teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f554eb575bda8eeb31389">
+			<label>Iacobvs Androvetivs… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f554eb575bda8eeb31389/files/image/RP-P-1964-1731.jpg"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>IACOBVS ANDROVETIVS DVCERCEAV IECTORIBVS S CVM NACTVS ESSEM DVODECIM FRAGMEN TA STRVCTVRAE VETERIS COMMENDATA MO NVMENTIS A LEONARDO THEODORICO HOMI NE ARTIS PERSPECTIVAE PERITISSIMO, QVI NV PER OBUT ANTVERPIAE, MIHIVISVS SVM OPERAE PRECIVM FACTVRVS SI EA IN LVCEM EMITTEREM, TVM PROPTER MEVM ARTIS ILLVSTRANDAE STVDI VM, TVM QVOD EIYSMODI VIDERENTVR ESSE, VT OMNIBVS STVDIOSIS ANTIQVITATIS NON MEDIOCREM VTILITATEM CVM VOLVPTATE CONIVNCTAM AFFERRE POSSENT. QVANDO VERO NON EST MEVM INVENTVM, NOLVI QVICQVAM ADDERE AVT DETRAHERE AVTHO RIS DESCRIPTIONI: NE HOMINEM DEBITA LAVDE MERITA QVE FRAVDAREM: NEVE A(?)E NAM VIDERER INDVSTRIAM VENDICARE VEL LE. QVARE SI QVEM FRVCTVM HINC VOS PERCEPISSE SENTIETIS, IPSI LEONARDO AC CEPTVM FERTE. SOLVM A VOBIS POSTVLO, VT BONI CONSVLATIS MEAM DILIGENTIAM IN IIS EDENDIS, QVAE VSVI VOBIS ESSE POSSVNT. VALETE. AVRELLAE. 1550.</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>
