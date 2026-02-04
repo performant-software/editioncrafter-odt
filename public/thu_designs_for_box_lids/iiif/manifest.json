@@ -1,0 +1,373 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62cd91a51e1b2d76ae056cc5/files/2011FC8135.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62cd91a51e1b2d76ae056cc5/files/2011FC8135.jpg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (Title Page)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/tei/transcription/f0001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/html/transcription/f0001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0001"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2011FC9740",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2011FC9740",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0002"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (2)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "E.2507-1913",
+				"URI": "https://collections.vam.ac.uk/item/O716379"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2011FC8136",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2011FC8136",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0003"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (3)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "29212:2",
+				"URI": "https://collections.vam.ac.uk/item/O976778"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2011FC8138",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2011FC8138",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0004"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (4)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "29212:4",
+				"URI": "https://collections.vam.ac.uk/item/O976776"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2011FC8137",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2011FC8137",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0005"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (5)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "29212:3",
+				"URI": "https://collections.vam.ac.uk/item/O976777"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2011FC8139",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2011FC8139",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0006"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (6)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "29212:5",
+				"URI": "https://collections.vam.ac.uk/item/O976775"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://framemark.vam.ac.uk/collections/2011FC9739",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://framemark.vam.ac.uk/collections/2011FC9739",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/thu_designs_for_box_lids/iiif/canvas/f0009"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Designs for Box Lids (9)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Victoria and Albert Museum",
+				"Identifier": "E.2506-1913",
+				"URI": "https://collections.vam.ac.uk/item/O716380"
+			}
+		}
+	],
+	"label": {
+		"en": [
+			"thu_designs_for_box_lids"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}

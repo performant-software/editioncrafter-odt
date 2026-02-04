@@ -3,7 +3,7 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//nouveau_livre_ornemens_d’orfevrerie/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/nouveau_livre_ornemens_d’orfevrerie/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [],
 	"label": {

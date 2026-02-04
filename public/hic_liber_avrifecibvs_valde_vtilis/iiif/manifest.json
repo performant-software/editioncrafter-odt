@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,81 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0001"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1966-480",
+				"URI": "https://id.rijksmuseum.nl/200462819"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +138,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -145,19 +150,24 @@
 					"Hic liber avrifecib… (2)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1966-481",
+				"URI": "https://id.rijksmuseum.nl/200462820"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -174,7 +184,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -186,19 +196,24 @@
 					"Hic liber avrifecib… (3)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1966-482",
+				"URI": "https://id.rijksmuseum.nl/200462821"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -215,7 +230,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -263,19 +278,24 @@
 						]
 					}
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1966-483",
+				"URI": "https://id.rijksmuseum.nl/200462822"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -292,7 +312,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -304,19 +324,24 @@
 					"Hic liber avrifecib… (5)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1966-484",
+				"URI": "https://id.rijksmuseum.nl/200462823"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -333,7 +358,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/hic_liber_avrifecibvs_valde_vtilis/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -345,7 +370,12 @@
 					"Hic liber avrifecib… (6)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1966-485",
+				"URI": "https://id.rijksmuseum.nl/200462824"
+			}
 		}
 	],
 	"label": {

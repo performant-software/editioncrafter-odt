@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,81 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0001"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16327",
+				"URI": "https://id.rijksmuseum.nl/200167454"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +138,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -145,19 +150,24 @@
 					"Friezes with Animals (2)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16328",
+				"URI": "https://id.rijksmuseum.nl/200167455"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -174,7 +184,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -186,19 +196,24 @@
 					"Friezes with Animals (3)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16338",
+				"URI": "https://id.rijksmuseum.nl/200167456"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -215,7 +230,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -227,19 +242,24 @@
 					"Friezes with Animals (4)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16333",
+				"URI": "https://id.rijksmuseum.nl/200167457"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -256,7 +276,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -268,19 +288,24 @@
 					"Friezes with Animals (5)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16332",
+				"URI": "https://id.rijksmuseum.nl/200167458"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -297,7 +322,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -309,19 +334,24 @@
 					"Friezes with Animals (6)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16329",
+				"URI": "https://id.rijksmuseum.nl/200167459"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -338,7 +368,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -350,19 +380,24 @@
 					"Friezes with Animals (7)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16331",
+				"URI": "https://id.rijksmuseum.nl/200167460"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -379,7 +414,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -391,19 +426,24 @@
 					"Friezes with Animals (8)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16337",
+				"URI": "https://id.rijksmuseum.nl/200167461"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -420,7 +460,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -432,19 +472,24 @@
 					"Friezes with Animals (9)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16336",
+				"URI": "https://id.rijksmuseum.nl/200167462"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -461,7 +506,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -473,19 +518,24 @@
 					"Friezes with Animals (10)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16334",
+				"URI": "https://id.rijksmuseum.nl/200167463"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -502,7 +552,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -514,19 +564,24 @@
 					"Friezes with Animals (11)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1891-A-16335",
+				"URI": "https://id.rijksmuseum.nl/200167464"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -543,7 +598,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//friezes_with_animals/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/friezes_with_animals/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -555,7 +610,12 @@
 					"Friezes with Animals (12)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1892-A-17396",
+				"URI": "https://id.rijksmuseum.nl/200167466"
+			}
 		}
 	],
 	"label": {
