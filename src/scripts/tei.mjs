@@ -145,7 +145,7 @@ const getHeaderData = (data, context) => {
           if (holdingFull) {
             seriesHoldings.push(holdingFull);
             const xmlId = "f" + String(img.seq_no).padStart(4, "0");
-            sourceDesc += `<msDesc sameAs="${URI_PREFIX}${holdingFull.uri}" ref="#${xmlId}">
+            sourceDesc += `<msDesc sameAs="${URI_PREFIX}${holdingFull.uri}"${holdingFull.featured ? ` ref="#${xmlId}"` : ''}>
                     <msIdentifier>
                         <institution sameAs="${URI_PREFIX}${holdingFull.institution?.uri}">${holdingFull.institution?.label}</institution>
                         <idno type="URI">${holdingFull.url}</idno>

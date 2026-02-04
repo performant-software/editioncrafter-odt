@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,81 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0001"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-128",
+				"URI": "https://id.rijksmuseum.nl/200463931"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +138,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -145,19 +150,24 @@
 					"Das Neuw Grottesken… (2)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-111",
+				"URI": "https://id.rijksmuseum.nl/200455114"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -174,7 +184,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -186,19 +196,24 @@
 					"Das Neuw Grottesken… (3)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-129",
+				"URI": "https://id.rijksmuseum.nl/200463932"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -215,7 +230,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -227,19 +242,24 @@
 					"Das Neuw Grottesken… (4)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-112",
+				"URI": "https://id.rijksmuseum.nl/200455115"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -256,7 +276,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -268,19 +288,24 @@
 					"Das Neuw Grottesken… (5)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-130",
+				"URI": "https://id.rijksmuseum.nl/200463933"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -297,7 +322,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -309,19 +334,24 @@
 					"Das Neuw Grottesken… (6)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-113",
+				"URI": "https://id.rijksmuseum.nl/200455116"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -338,7 +368,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -350,19 +380,24 @@
 					"Das Neuw Grottesken… (7)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-131",
+				"URI": "https://id.rijksmuseum.nl/200463934"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -379,7 +414,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -391,19 +426,24 @@
 					"Das Neuw Grottesken… (8)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-132",
+				"URI": "https://id.rijksmuseum.nl/200463935"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -420,7 +460,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -432,19 +472,24 @@
 					"Das Neuw Grottesken… (9)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-133",
+				"URI": "https://id.rijksmuseum.nl/200463936"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -461,7 +506,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -473,19 +518,24 @@
 					"Das Neuw Grottesken… (10)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-114",
+				"URI": "https://id.rijksmuseum.nl/200455117"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -502,7 +552,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -514,19 +564,24 @@
 					"Das Neuw Grottesken… (11)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-134",
+				"URI": "https://id.rijksmuseum.nl/200463937"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -543,7 +598,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -555,19 +610,24 @@
 					"Das Neuw Grottesken… (12)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-135",
+				"URI": "https://id.rijksmuseum.nl/200463938"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -584,7 +644,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -596,19 +656,24 @@
 					"Das Neuw Grottesken… (13)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-136",
+				"URI": "https://id.rijksmuseum.nl/200463939"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -625,7 +690,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -637,19 +702,24 @@
 					"Das Neuw Grottesken… (14)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-137",
+				"URI": "https://id.rijksmuseum.nl/200463940"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -666,7 +736,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -678,19 +748,24 @@
 					"Das Neuw Grottesken… (15)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-115",
+				"URI": "https://id.rijksmuseum.nl/200455118"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -707,7 +782,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -719,19 +794,24 @@
 					"Das Neuw Grottesken… (16)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-116",
+				"URI": "https://id.rijksmuseum.nl/200455119"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -748,7 +828,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -760,19 +840,24 @@
 					"Das Neuw Grottesken… (17)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8131",
+				"URI": "https://id.rijksmuseum.nl/200485667"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -789,7 +874,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -801,19 +886,24 @@
 					"Das Neuw Grottesken… (18)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-138",
+				"URI": "https://id.rijksmuseum.nl/200463941"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -830,7 +920,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -842,19 +932,24 @@
 					"Das Neuw Grottesken… (19)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-140",
+				"URI": "https://id.rijksmuseum.nl/200194582"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -871,7 +966,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -883,19 +978,24 @@
 					"Das Neuw Grottesken… (20)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-139",
+				"URI": "https://id.rijksmuseum.nl/200463942"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -912,7 +1012,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -924,19 +1024,24 @@
 					"Das Neuw Grottesken… (21)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-118",
+				"URI": "https://id.rijksmuseum.nl/200283786"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -953,7 +1058,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -965,19 +1070,24 @@
 					"Das Neuw Grottesken… (22)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-119",
+				"URI": "https://id.rijksmuseum.nl/200455121"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -994,7 +1104,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -1006,19 +1116,24 @@
 					"Das Neuw Grottesken… (23)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-141",
+				"URI": "https://id.rijksmuseum.nl/200463943"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1035,7 +1150,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -1047,19 +1162,24 @@
 					"Das Neuw Grottesken… (24)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-120",
+				"URI": "https://id.rijksmuseum.nl/200455122"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1076,7 +1196,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -1088,19 +1208,24 @@
 					"Das Neuw Grottesken… (25)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-121",
+				"URI": "https://id.rijksmuseum.nl/200455123"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1117,7 +1242,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -1131,50 +1256,55 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/tei/transcription/f0026.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/tei/transcription/f0026.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/html/transcription/f0026.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/html/transcription/f0026.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0026"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-111",
+				"URI": "http://hdl.handle.net/10934/RM0001.COLLECT.409652"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1191,7 +1321,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0027"
 						}
 					]
 				}
@@ -1203,19 +1333,24 @@
 					"Das Neuw Grottesken… (27)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-122",
+				"URI": "https://id.rijksmuseum.nl/200455124"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1232,7 +1367,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0028"
 						}
 					]
 				}
@@ -1244,19 +1379,24 @@
 					"Das Neuw Grottesken… (28)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-143",
+				"URI": "https://id.rijksmuseum.nl/200463945"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1273,7 +1413,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0029"
 						}
 					]
 				}
@@ -1285,19 +1425,24 @@
 					"Das Neuw Grottesken… (29)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-144",
+				"URI": "https://id.rijksmuseum.nl/200463946"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1314,7 +1459,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0030"
 						}
 					]
 				}
@@ -1326,19 +1471,24 @@
 					"Das Neuw Grottesken… (30)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-123",
+				"URI": "https://id.rijksmuseum.nl/200455125"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1355,7 +1505,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0031"
 						}
 					]
 				}
@@ -1367,19 +1517,24 @@
 					"Das Neuw Grottesken… (31)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8132",
+				"URI": "https://id.rijksmuseum.nl/200485684"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1396,7 +1551,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0032"
 						}
 					]
 				}
@@ -1408,19 +1563,24 @@
 					"Das Neuw Grottesken… (32)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-145",
+				"URI": "https://id.rijksmuseum.nl/200463947"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1437,7 +1597,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0033"
 						}
 					]
 				}
@@ -1449,19 +1609,24 @@
 					"Das Neuw Grottesken… (33)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-124",
+				"URI": "https://id.rijksmuseum.nl/200455126"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1478,7 +1643,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0034"
 						}
 					]
 				}
@@ -1490,19 +1655,24 @@
 					"Das Neuw Grottesken… (34)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-146",
+				"URI": "https://id.rijksmuseum.nl/200463948"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1519,7 +1689,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0035"
 						}
 					]
 				}
@@ -1531,19 +1701,24 @@
 					"Das Neuw Grottesken… (35)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-147",
+				"URI": "https://id.rijksmuseum.nl/200463949"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1560,7 +1735,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0036"
 						}
 					]
 				}
@@ -1572,19 +1747,24 @@
 					"Das Neuw Grottesken… (36)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-125",
+				"URI": "https://id.rijksmuseum.nl/200455127"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1601,7 +1781,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0037"
 						}
 					]
 				}
@@ -1613,19 +1793,24 @@
 					"Das Neuw Grottesken… (37)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-126",
+				"URI": "https://id.rijksmuseum.nl/200455128"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1642,7 +1827,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0038"
 						}
 					]
 				}
@@ -1654,19 +1839,24 @@
 					"Das Neuw Grottesken… (38)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-148",
+				"URI": "https://id.rijksmuseum.nl/200463950"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1683,7 +1873,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0039"
 						}
 					]
 				}
@@ -1695,19 +1885,24 @@
 					"Das Neuw Grottesken… (39)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-127",
+				"URI": "https://id.rijksmuseum.nl/200455129"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1724,7 +1919,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0040"
 						}
 					]
 				}
@@ -1736,19 +1931,24 @@
 					"Das Neuw Grottesken… (40)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-128",
+				"URI": "https://id.rijksmuseum.nl/200455130"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1765,7 +1965,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0041"
 						}
 					]
 				}
@@ -1777,19 +1977,24 @@
 					"Das Neuw Grottesken… (41)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-129",
+				"URI": "https://id.rijksmuseum.nl/200455131"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1806,7 +2011,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0042"
 						}
 					]
 				}
@@ -1818,19 +2023,24 @@
 					"Das Neuw Grottesken… (42)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-149",
+				"URI": "https://id.rijksmuseum.nl/200463951"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1847,7 +2057,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0043"
 						}
 					]
 				}
@@ -1859,19 +2069,24 @@
 					"Das Neuw Grottesken… (43)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-150",
+				"URI": "https://id.rijksmuseum.nl/200463952"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1888,7 +2103,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0044"
 						}
 					]
 				}
@@ -1900,19 +2115,24 @@
 					"Das Neuw Grottesken… (44)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-151",
+				"URI": "https://id.rijksmuseum.nl/200463953"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1929,7 +2149,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0045"
 						}
 					]
 				}
@@ -1941,19 +2161,24 @@
 					"Das Neuw Grottesken… (45)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-130",
+				"URI": "https://id.rijksmuseum.nl/200455132"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1970,7 +2195,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0046"
 						}
 					]
 				}
@@ -1982,19 +2207,24 @@
 					"Das Neuw Grottesken… (46)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-152",
+				"URI": "https://id.rijksmuseum.nl/200463954"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2011,7 +2241,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0047"
 						}
 					]
 				}
@@ -2023,19 +2253,24 @@
 					"Das Neuw Grottesken… (47)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-153",
+				"URI": "https://id.rijksmuseum.nl/200463955"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2052,7 +2287,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0049"
 						}
 					]
 				}
@@ -2064,19 +2299,24 @@
 					"Das Neuw Grottesken… (49)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-131",
+				"URI": "https://id.rijksmuseum.nl/200455133"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2093,7 +2333,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0050"
 						}
 					]
 				}
@@ -2105,19 +2345,24 @@
 					"Das Neuw Grottesken… (50)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-132",
+				"URI": "https://id.rijksmuseum.nl/200455134"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2134,7 +2379,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051"
 						}
 					]
 				}
@@ -2148,50 +2393,55 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/tei/transcription/f0051.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/tei/transcription/f0051.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/html/transcription/f0051.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/html/transcription/f0051.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0051"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-129",
+				"URI": "http://hdl.handle.net/10934/RM0001.COLLECT.418635"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2208,7 +2458,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0052"
 						}
 					]
 				}
@@ -2220,19 +2470,24 @@
 					"Das Neuw Grottesken… (52)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-156",
+				"URI": "https://id.rijksmuseum.nl/200463958"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2249,7 +2504,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0053"
 						}
 					]
 				}
@@ -2261,19 +2516,24 @@
 					"Das Neuw Grottesken… (53)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-157",
+				"URI": "https://id.rijksmuseum.nl/200463959"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2290,7 +2550,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0054"
 						}
 					]
 				}
@@ -2302,19 +2562,24 @@
 					"Das Neuw Grottesken… (54)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-133A",
+				"URI": "https://id.rijksmuseum.nl/200455135"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2331,7 +2596,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0055"
 						}
 					]
 				}
@@ -2343,19 +2608,24 @@
 					"Das Neuw Grottesken… (55)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-159",
+				"URI": "https://id.rijksmuseum.nl/200463961"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2372,7 +2642,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0056"
 						}
 					]
 				}
@@ -2384,19 +2654,24 @@
 					"Das Neuw Grottesken… (56)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-160",
+				"URI": "https://id.rijksmuseum.nl/200463962"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2413,7 +2688,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0057"
 						}
 					]
 				}
@@ -2425,19 +2700,24 @@
 					"Das Neuw Grottesken… (57)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-161",
+				"URI": "https://id.rijksmuseum.nl/200463963"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2454,7 +2734,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0058"
 						}
 					]
 				}
@@ -2466,19 +2746,24 @@
 					"Das Neuw Grottesken… (58)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-163",
+				"URI": "https://id.rijksmuseum.nl/200463965"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2495,7 +2780,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0059"
 						}
 					]
 				}
@@ -2507,19 +2792,24 @@
 					"Das Neuw Grottesken… (59)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1973-162",
+				"URI": "https://id.rijksmuseum.nl/200463964"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060",
+			"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2536,7 +2826,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060"
+							"target": "https://performant-software.github.io/editioncrafter-odt/das_neuw_grottesken_buch_nürnberg_1610/iiif/canvas/f0060"
 						}
 					]
 				}
@@ -2548,7 +2838,12 @@
 					"Das Neuw Grottesken… (60)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1953-134B",
+				"URI": "https://id.rijksmuseum.nl/200485581"
+			}
 		}
 	],
 	"label": {

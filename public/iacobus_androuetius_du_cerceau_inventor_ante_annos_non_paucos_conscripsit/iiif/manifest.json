@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,50 +47,55 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0001"
 						}
 					]
 				}
-			]
+			],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8385",
+				"URI": "https://id.rijksmuseum.nl/200415695"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -107,7 +112,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -119,19 +124,24 @@
 					"Iacobus Androuetius… (2)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8386",
+				"URI": "https://id.rijksmuseum.nl/200415696"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -148,7 +158,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -160,19 +170,24 @@
 					"Iacobus Androuetius… (3)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8387",
+				"URI": "https://id.rijksmuseum.nl/200415697"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -189,7 +204,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -201,19 +216,24 @@
 					"Iacobus Androuetius… (4)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8388",
+				"URI": "https://id.rijksmuseum.nl/200415698"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -230,7 +250,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -242,19 +262,24 @@
 					"Iacobus Androuetius… (5)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8389",
+				"URI": "https://id.rijksmuseum.nl/200415699"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -271,7 +296,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -283,19 +308,24 @@
 					"Iacobus Androuetius… (6)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8390",
+				"URI": "https://id.rijksmuseum.nl/200415700"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -312,7 +342,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -324,19 +354,24 @@
 					"Iacobus Androuetius… (7)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8391",
+				"URI": "https://id.rijksmuseum.nl/200415707"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -353,7 +388,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -365,19 +400,24 @@
 					"Iacobus Androuetius… (8)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8392",
+				"URI": "https://id.rijksmuseum.nl/200415708"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -394,7 +434,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -406,19 +446,24 @@
 					"Iacobus Androuetius… (9)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8393",
+				"URI": "https://id.rijksmuseum.nl/200415709"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -435,7 +480,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -447,19 +492,24 @@
 					"Iacobus Androuetius… (10)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8394",
+				"URI": "https://id.rijksmuseum.nl/200415710"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -476,7 +526,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -488,19 +538,24 @@
 					"Iacobus Androuetius… (11)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8395",
+				"URI": "https://id.rijksmuseum.nl/200415711"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -517,7 +572,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -529,19 +584,24 @@
 					"Iacobus Androuetius… (12)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8396",
+				"URI": "https://id.rijksmuseum.nl/200415712"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -558,7 +618,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -570,19 +630,24 @@
 					"Iacobus Androuetius… (13)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8397",
+				"URI": "https://id.rijksmuseum.nl/200415713"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -599,7 +664,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -611,19 +676,24 @@
 					"Iacobus Androuetius… (14)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1955-326",
+				"URI": "https://id.rijksmuseum.nl/200455527"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -640,7 +710,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -652,19 +722,24 @@
 					"Iacobus Androuetius… (15)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8399",
+				"URI": "https://id.rijksmuseum.nl/200415715"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -681,7 +756,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -693,19 +768,24 @@
 					"Iacobus Androuetius… (16)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-1955-322",
+				"URI": "https://id.rijksmuseum.nl/200455523"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -722,7 +802,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -734,19 +814,24 @@
 					"Iacobus Androuetius… (17)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8401",
+				"URI": "https://id.rijksmuseum.nl/200415717"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -763,7 +848,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -775,19 +860,24 @@
 					"Iacobus Androuetius… (18)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8402",
+				"URI": "https://id.rijksmuseum.nl/200415718"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -804,7 +894,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -816,19 +906,24 @@
 					"Iacobus Androuetius… (19)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8403",
+				"URI": "https://id.rijksmuseum.nl/200415719"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -845,7 +940,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -857,19 +952,24 @@
 					"Iacobus Androuetius… (20)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8404",
+				"URI": "https://id.rijksmuseum.nl/200415720"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -886,7 +986,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -898,19 +998,24 @@
 					"Iacobus Androuetius… (21)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8405",
+				"URI": "https://id.rijksmuseum.nl/200415721"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -927,7 +1032,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -939,19 +1044,24 @@
 					"Iacobus Androuetius… (22)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8406",
+				"URI": "https://id.rijksmuseum.nl/200415722"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -968,7 +1078,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -980,19 +1090,24 @@
 					"Iacobus Androuetius… (23)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8407",
+				"URI": "https://id.rijksmuseum.nl/200415723"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1009,7 +1124,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -1021,19 +1136,24 @@
 					"Iacobus Androuetius… (24)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8408",
+				"URI": "https://id.rijksmuseum.nl/200415724"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1050,7 +1170,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -1062,19 +1182,24 @@
 					"Iacobus Androuetius… (25)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8409",
+				"URI": "https://id.rijksmuseum.nl/200415725"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1091,7 +1216,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -1103,19 +1228,24 @@
 					"Iacobus Androuetius… (26)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8410",
+				"URI": "https://id.rijksmuseum.nl/200415726"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1132,7 +1262,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0027"
 						}
 					]
 				}
@@ -1144,19 +1274,24 @@
 					"Iacobus Androuetius… (27)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8411",
+				"URI": "https://id.rijksmuseum.nl/200415727"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1173,7 +1308,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0028"
 						}
 					]
 				}
@@ -1185,19 +1320,24 @@
 					"Iacobus Androuetius… (28)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8412",
+				"URI": "https://id.rijksmuseum.nl/200415728"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1214,7 +1354,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0029"
 						}
 					]
 				}
@@ -1226,19 +1366,24 @@
 					"Iacobus Androuetius… (29)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8413",
+				"URI": "https://id.rijksmuseum.nl/200415729"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1255,7 +1400,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0030"
 						}
 					]
 				}
@@ -1267,19 +1412,24 @@
 					"Iacobus Androuetius… (30)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8414",
+				"URI": "https://id.rijksmuseum.nl/200415730"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1296,7 +1446,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0031"
 						}
 					]
 				}
@@ -1308,19 +1458,24 @@
 					"Iacobus Androuetius… (31)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8415",
+				"URI": "https://id.rijksmuseum.nl/200415731"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1337,7 +1492,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0032"
 						}
 					]
 				}
@@ -1349,19 +1504,24 @@
 					"Iacobus Androuetius… (32)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8416",
+				"URI": "https://id.rijksmuseum.nl/200415732"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1378,7 +1538,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0033"
 						}
 					]
 				}
@@ -1390,19 +1550,24 @@
 					"Iacobus Androuetius… (33)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8417",
+				"URI": "https://id.rijksmuseum.nl/200415733"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1419,7 +1584,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0034"
 						}
 					]
 				}
@@ -1431,19 +1596,24 @@
 					"Iacobus Androuetius… (34)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8418",
+				"URI": "https://id.rijksmuseum.nl/200415734"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1460,7 +1630,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0035"
 						}
 					]
 				}
@@ -1472,19 +1642,24 @@
 					"Iacobus Androuetius… (35)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8419",
+				"URI": "https://id.rijksmuseum.nl/200415735"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1501,7 +1676,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0036"
 						}
 					]
 				}
@@ -1513,19 +1688,24 @@
 					"Iacobus Androuetius… (36)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8420",
+				"URI": "https://id.rijksmuseum.nl/200415736"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1542,7 +1722,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0037"
 						}
 					]
 				}
@@ -1554,19 +1734,24 @@
 					"Iacobus Androuetius… (37)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8421",
+				"URI": "https://id.rijksmuseum.nl/200415701"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1583,7 +1768,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0038"
 						}
 					]
 				}
@@ -1595,19 +1780,24 @@
 					"Iacobus Androuetius… (38)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8422",
+				"URI": "https://id.rijksmuseum.nl/200415702"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1624,7 +1814,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0039"
 						}
 					]
 				}
@@ -1636,19 +1826,24 @@
 					"Iacobus Androuetius… (39)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8423",
+				"URI": "https://id.rijksmuseum.nl/200415703"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1665,7 +1860,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0040"
 						}
 					]
 				}
@@ -1677,19 +1872,24 @@
 					"Iacobus Androuetius… (40)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8424",
+				"URI": "https://id.rijksmuseum.nl/200415704"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1706,7 +1906,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0041"
 						}
 					]
 				}
@@ -1718,19 +1918,24 @@
 					"Iacobus Androuetius… (41)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8425",
+				"URI": "https://id.rijksmuseum.nl/200415705"
+			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042",
+			"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1747,7 +1952,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042"
+							"target": "https://performant-software.github.io/editioncrafter-odt/iacobus_androuetius_du_cerceau_inventor_ante_annos_non_paucos_conscripsit/iiif/canvas/f0042"
 						}
 					]
 				}
@@ -1759,7 +1964,12 @@
 					"Iacobus Androuetius… (42)"
 				]
 			},
-			"annotations": []
+			"annotations": [],
+			"metadata": {
+				"Institution": "Rijksmuseum",
+				"Identifier": "RP-P-OB-8426",
+				"URI": "https://id.rijksmuseum.nl/200415706"
+			}
 		}
 	],
 	"label": {
