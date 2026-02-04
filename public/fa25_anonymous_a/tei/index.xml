@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68cc25e39df9aa20e9eb3c0e"><titleStmt><title>FA25 Anonymous A</title></titleStmt><publicationStmt></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68cc25e39df9aa20e9eb3c0e"><titleStmt><title>FA25 Anonymous A</title></titleStmt><publicationStmt></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Ornamental Motifs</bibl>
@@ -8,7 +9,27 @@
 <catDesc>animal</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942d">
 <catDesc>mammal</catDesc>
-<category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
+<catDesc>human</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
+<catDesc>child</catDesc>
+<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
+<catDesc>nude_child</catDesc>
+</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
+<catDesc>clothed_child</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
+<catDesc>man</catDesc>
+<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
+<catDesc>nude_man</catDesc>
+</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
+<catDesc>clothed_man</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
+<catDesc>woman</catDesc>
+<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
+<catDesc>nude_woman</catDesc>
+</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
+<catDesc>clothed_woman</catDesc>
+</category></category></category><category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
 <catDesc>monkey</catDesc>
 </category><category n="squirrel" xml:id="squirrel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69438">
 <catDesc>squirrel</catDesc>
@@ -222,26 +243,6 @@
 <catDesc>vegetal_crown</catDesc>
 </category><category n="stalk" xml:id="stalk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9505c5b2e05341c26f4bb">
 <catDesc>stalk</catDesc>
-</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
-<catDesc>human</catDesc>
-<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
-<catDesc>child</catDesc>
-<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
-<catDesc>nude_child</catDesc>
-</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
-<catDesc>clothed_child</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
-<catDesc>man</catDesc>
-<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
-<catDesc>nude_man</catDesc>
-</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
-<catDesc>clothed_man</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
-<catDesc>woman</catDesc>
-<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
-<catDesc>nude_woman</catDesc>
-</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
-<catDesc>clothed_woman</catDesc>
 </category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
 <catDesc>inorganic</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">
@@ -689,4 +690,65 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><div></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"></facsimile></TEI>
+</encodingDesc></teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b13a3da12d491d55bc5">
+			<label>Designs for Pendants (5)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/WViwX"/>
+		</surface>
+		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b14a3da12d491d55bee">
+			<label>Bullarum Inaurium e… (7)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/pxrSz"/>
+			<zone xml:id="f0007_z001" ulx="655.9927978515625" uly="1589.1229248046875" lrx="960.756103515625" lry="2002.730224609375" ana=""/>
+			<zone xml:id="f0007_z002" ulx="3551.244140625" uly="1643.544921875" lrx="3997.504638671875" lry="1839.4642333984375" ana=""/>
+			<zone xml:id="f0007_z000" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z007" ulx="1644.055908203125" uly="2222.291259765625" lrx="1908.607421875" lry="2441.490966796875" ana=""/>
+			<zone xml:id="f0007_z009" ulx="2158.04150390625" uly="2751.394287109375" lrx="2415.034423828125" lry="2970.593994140625" ana=""/>
+			<zone xml:id="f0007_z010" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z019" ulx="1394.6217041015625" uly="4187.53076171875" lrx="1613.821533203125" lry="4346.26171875" ana=""/>
+			<zone xml:id="f0007_z029" ulx="1319.0355224609375" uly="4429.40625" lrx="1621.380126953125" lry="4807.3369140625" ana=""/>
+			<zone xml:id="f0007_z030" ulx="2067.33837890625" uly="4830.0126953125" lrx="2347.007080078125" lry="5328.88134765625" ana=""/>
+			<zone xml:id="f0007_z031" ulx="2845.87548828125" uly="4421.84765625" lrx="3034.8408203125" lry="4799.7783203125" ana=""/>
+			<zone xml:id="f0007_z003" ulx="2114.5029296875" uly="1295.2440185546875" lrx="2364.84423828125" lry="1872.117431640625" ana=""/>
+			<zone xml:id="f0007_z008" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z006" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z011" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z013" ulx="3125.544189453125" uly="3839.83447265625" lrx="3284.275146484375" lry="4172.41357421875" ana=""/>
+			<zone xml:id="f0007_z016" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z015" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z012" ulx="1137.6287841796875" uly="3922.979248046875" lrx="1326.5941162109375" lry="4149.73779296875" ana=""/>
+			<zone xml:id="f0007_z033" ulx="2104.82763671875" uly="669.6384887695312" lrx="2336.625" lry="780.4981079101562" ana=""/>
+			<zone xml:id="f0007_z034" ulx="2084.67138671875" uly="1193.7022705078125" lrx="2387.01611328125" lry="1294.4837646484375" ana=""/>
+			<zone xml:id="f0007_z035" ulx="2165.296875" uly="830.8888549804688" lrx="2306.390869140625" lry="1113.0770263671875" ana=""/>
+			<zone xml:id="f0007_z017" ulx="1576.0284423828125" uly="3915.420654296875" lrx="1742.31787109375" lry="4134.62060546875" ana=""/>
+			<zone xml:id="f0007_z032" ulx="2158.041748046875" uly="4104.3857421875" lrx="2263.8623046875" lry="4179.97216796875" ana=""/>
+			<zone xml:id="f0007_z023" ulx="2029.545166015625" uly="4104.3857421875" lrx="2120.24853515625" lry="4285.79248046875" ana=""/>
+			<zone xml:id="f0007_z024" ulx="2294.0966796875" uly="4089.268798828125" lrx="2467.94482421875" lry="4278.23388671875" ana=""/>
+			<zone xml:id="f0007_z021" ulx="2823.19970703125" uly="4202.64794921875" lrx="3065.0751953125" lry="4338.703125" ana=""/>
+			<zone xml:id="f0007_z020" ulx="2105.13134765625" uly="4648.60595703125" lrx="2331.8896484375" lry="4754.4267578125" ana=""/>
+			<zone xml:id="f0007_z014" ulx="2150.48291015625" uly="4391.61328125" lrx="2278.9794921875" lry="4618.37158203125" ana=""/>
+			<zone xml:id="f0007_z038" ulx="1423.0206298828125" uly="4040.9931640625" lrx="1568.1522216796875" lry="4125.3720703125" ana=""/>
+			<zone xml:id="f0007_z039" ulx="2843.959716796875" uly="4027.49267578125" lrx="2999.216796875" lry="4118.62158203125" ana=""/>
+			<zone xml:id="f0007_z040" ulx="2128.427490234375" uly="4186.125" lrx="2276.934326171875" lry="4284.00439453125" ana=""/>
+			<zone xml:id="f0007_z018" ulx="2672.02734375" uly="3907.862060546875" lrx="2808.08251953125" lry="4111.9443359375" ana=""/>
+			<zone xml:id="f0007_z036" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z005" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z041" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+			<zone xml:id="f0007_z037" ulx="undefined" uly="undefined" lrx="undefined" lry="undefined" ana=""/>
+		</surface>
+		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10803d63806345fadaa24">
+			<label>Designs for Pendant… (4)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FB9293"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<div/>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>

@@ -108,7 +108,8 @@
 			"metadata": {
 				"Institution": "The Metropolitan Museum of Art",
 				"Identifier": "26.71.8(1)",
-				"URI": "https://www.metmuseum.org/art/collection/search/665042"
+				"Link": "https://www.metmuseum.org/art/collection/search/665042",
+				"Permissions": "CC0 1.0 Universal"
 			}
 		},
 		{

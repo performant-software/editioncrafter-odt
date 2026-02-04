@@ -108,7 +108,8 @@
 			"metadata": {
 				"Institution": "The Metropolitan Museum of Art",
 				"Identifier": "39.95.1(a)",
-				"URI": "https://www.metmuseum.org/art/collection/search/734152"
+				"Link": "https://www.metmuseum.org/art/collection/search/734152",
+				"Permissions": "Photo: Tianna Uchacz. Shared with permission of The Metropolitan Museum of Art."
 			}
 		}
 	],

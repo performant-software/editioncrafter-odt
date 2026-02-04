@@ -5,7 +5,192 @@
 	],
 	"id": "https://performant-software.github.io/editioncrafter-odt/fa25_callanan_g/iiif/manifest.json",
 	"type": "Manifest",
-	"items": [],
+	"items": [
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt/fa25_callanan_g/iiif/canvas/f0001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt/fa25_callanan_g/iiif/canvas/f0001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt/fa25_callanan_g/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif.micr.io/vKtsB",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://iiif.micr.io/vKtsB",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt/fa25_callanan_g/iiif/canvas/f0001"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Pear-shaped Blackwo… (Title Page)"
+				]
+			},
+			"annotations": [
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0001_z000",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#monster_mask",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:2350.519287109375,2346.5654296875,441.111328125,447.897705078125"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0001_z002",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#swag",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1438.63232421875,2255.612060546875,1450.35888671875,1911.626220703125,1524.628662109375,1923.3529052734375,1587.17138671875,2126.616943359375,1727.892822265625,2189.159912109375,1841.251220703125,2107.072265625,1852.978271484375,1978.077880859375,1888.158447265625,1899.8994140625,1958.51904296875,1938.9886474609375,1954.6109619140625,2337.699462890625,1868.6136474609375,2329.88134765625,1829.52490234375,2263.429443359375,1688.803466796875,2314.245849609375,1563.718017578125,2318.155517578125,1501.175048828125,2232.158447265625,1512.90185546875,2310.33642578125,1446.4501953125,2314.245849609375,1434.723388671875,2314.245849609375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0001_z005",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"conformsTo": "http://www.w3.org/TR/media-frags/",
+								"type": "FragmentSelector",
+								"value": "xywh=pixel:754.9817504882812,1733.37890625,676.2875366210938,801.3544921875"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0001_z003",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#harpy_term",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1747.40185546875,2765.803955078125 1814.947998046875,2208.5478515625 1848.72119140625,2039.682373046875 1826.2056884765625,1853.9302978515625 1989.4423828125,1820.1571044921875 2040.10205078125,1713.208984375 2203.338623046875,1690.693603515625 2214.596435546875,1583.7454833984375 2073.875244140625,1510.5703125 1950.0404052734375,1527.4569091796875 1854.3499755859375,1561.22998046875 1854.3499755859375,1634.405029296875 1814.947998046875,1617.5185546875 1814.947998046875,1538.714599609375 1882.4942626953125,1488.054931640625 1865.607666015625,1386.7357177734375 1792.4326171875,1307.9317626953125 1668.597900390625,1285.4163818359375 1578.5362548828125,1324.818359375 1539.1343994140625,1414.8798828125 1460.3304443359375,1443.024169921875 1477.217041015625,1510.5703125 1494.103515625,1538.714599609375 1505.3612060546875,1611.8896484375 1432.1861572265625,1488.054931640625 1223.918701171875,1482.4261474609375 1133.8570556640625,1628.7762451171875 1252.06298828125,1701.9512939453125 1313.9803466796875,1775.1263427734375 1499.732421875,1831.4149169921875 1527.876708984375,1848.3013916015625 1539.1343994140625,1989.022705078125 1589.7940673828125,2292.980712890625 1657.3402099609375,2793.9482421875 1634.8248291015625,2788.319580078125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0001_z004",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#cartouche",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2325.761474609375,3493.697021484375,2670.246826171875,3419.39501953125,2670.246826171875,3405.885498046875,3007.978759765625,3068.155029296875,3102.543212890625,2426.465576171875,2832.359130859375,2014.433837890625,2541.910400390625,1791.5313720703125,2386.553466796875,1278.18017578125,2291.988037109375,818.8659057617188,2048.822509765625,568.9448852539062,1717.845458984375,487.889404296875,1339.586669921875,521.6625366210938,1042.38330078125,744.5650634765625,941.06396484375,1122.8238525390625,839.7451171875,1615.9112548828125,718.1617431640625,1818.5499267578125,360.1668701171875,2183.299560546875,238.58331298828125,2737.179443359375,360.1668701171875,3210.002197265625,670.8787841796875,3405.885498046875,914.0455322265625,3500.450927734375,1103.1748046875,3723.353759765625,1346.3416748046875,3892.21923828125,1731.35498046875,3986.7841796875,2069.085205078125,3858.4453125,2291.988037109375,3649.053466796875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
 	"label": {
 		"en": [
 			"fa25_callanan_g"

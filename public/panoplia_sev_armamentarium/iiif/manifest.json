@@ -82,7 +82,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6187",
-				"URI": "https://id.rijksmuseum.nl/200484873"
+				"Link": "https://id.rijksmuseum.nl/200484873",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -128,7 +129,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6213",
-				"URI": "https://id.rijksmuseum.nl/200484881"
+				"Link": "https://id.rijksmuseum.nl/200484881",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -174,7 +176,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6226",
-				"URI": "https://id.rijksmuseum.nl/200484874"
+				"Link": "https://id.rijksmuseum.nl/200484874",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -220,7 +223,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6220",
-				"URI": "https://id.rijksmuseum.nl/200484890"
+				"Link": "https://id.rijksmuseum.nl/200484890",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -266,7 +270,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6222",
-				"URI": "https://id.rijksmuseum.nl/200484895"
+				"Link": "https://id.rijksmuseum.nl/200484895",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -312,7 +317,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6217",
-				"URI": "https://id.rijksmuseum.nl/200484903"
+				"Link": "https://id.rijksmuseum.nl/200484903",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -358,7 +364,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1998-367",
-				"URI": "https://id.rijksmuseum.nl/200411454"
+				"Link": "https://id.rijksmuseum.nl/200411454",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -404,7 +411,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1998-372",
-				"URI": "https://id.rijksmuseum.nl/200411459"
+				"Link": "https://id.rijksmuseum.nl/200411459",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -450,7 +458,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6298",
-				"URI": "https://id.rijksmuseum.nl/200487492"
+				"Link": "https://id.rijksmuseum.nl/200487492",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -496,7 +505,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6209",
-				"URI": "https://id.rijksmuseum.nl/200484935"
+				"Link": "https://id.rijksmuseum.nl/200484935",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -542,7 +552,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6197",
-				"URI": "https://id.rijksmuseum.nl/200484883"
+				"Link": "https://id.rijksmuseum.nl/200484883",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -588,7 +599,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6188",
-				"URI": "https://id.rijksmuseum.nl/200485022"
+				"Link": "https://id.rijksmuseum.nl/200485022",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -634,7 +646,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6190",
-				"URI": "https://id.rijksmuseum.nl/200485033"
+				"Link": "https://id.rijksmuseum.nl/200485033",
+				"Permissions": "(PDM 1.0)"
 			}
 		},
 		{
@@ -680,7 +693,8 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1998-376",
-				"URI": "https://id.rijksmuseum.nl/200411463"
+				"Link": "https://id.rijksmuseum.nl/200411463",
+				"Permissions": "(PDM 1.0)"
 			}
 		}
 	],

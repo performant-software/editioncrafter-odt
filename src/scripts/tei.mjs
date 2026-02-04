@@ -151,7 +151,13 @@ const getHeaderData = (data, context) => {
                         <idno type="URI">${holdingFull.url}</idno>
                         <idno>${holdingFull.identifier}</idno>
                     </msIdentifier>
-                    <p>${holdingFull.label}</p>
+                    <p>${holdingFull.label}</p>${holdingFull.permissions ? `
+                    <additional>
+                      <adminInfo>
+                        <availability>${holdingFull.permissions}</availability>
+                      </adminInfo>
+                    </additional>  
+                  ` : ''}
                 </msDesc>`;
           }
         }

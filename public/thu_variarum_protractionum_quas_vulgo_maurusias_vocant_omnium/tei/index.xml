@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cdc1f99d85a8c6831c5edb"><titleStmt><title>THU_Variarum Protractionum quas vulgo Maurusias vocant omnium</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/683862f4b575bda8eeb30fa7"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62be46fd5e4f5846848f8c4f" ref="http://vocab.getty.edu/page/ulan/500044017">Bos, Balthasar van den (1518)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1554</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cdc2da9a02313326024214">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cdc1f99d85a8c6831c5edb"><titleStmt><title>THU_Variarum Protractionum quas vulgo Maurusias vocant omnium</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/683862f4b575bda8eeb30fa7"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62be46fd5e4f5846848f8c4f" ref="http://vocab.getty.edu/page/ulan/500044017">Bos, Balthasar van den (1518)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1554</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cdc2da9a02313326024214">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62cdc2bf2c166d81c960dca2">Museum of Applied Arts</institution>
                         <idno type="URI">https://sammlung.mak.at/sammlung_online?id=collect-208944</idno>
@@ -12,6 +13,12 @@
                         <idno>E.3365-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3365-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa5f" ref="#f0006">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -19,6 +26,12 @@
                         <idno>E.3366-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3366-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa61" ref="#f0008">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -26,6 +39,12 @@
                         <idno>E.3368-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3368-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa63" ref="#f0009">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -33,6 +52,12 @@
                         <idno>E.3369-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3369-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa65" ref="#f0010">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -40,6 +65,12 @@
                         <idno>E.3370-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3370-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa67" ref="#f0011">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -47,6 +78,12 @@
                         <idno>E.3371-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3371-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa69" ref="#f0012">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -54,6 +91,12 @@
                         <idno>E.3372-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3372-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa6b" ref="#f0013">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -61,6 +104,12 @@
                         <idno>E.3373-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3373-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa6d" ref="#f0014">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -68,6 +117,12 @@
                         <idno>E.3374-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3374-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa6f" ref="#f0015">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -75,6 +130,12 @@
                         <idno>E.3375-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3375-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa71" ref="#f0016">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -82,6 +143,12 @@
                         <idno>E.3376-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3376-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa73" ref="#f0017">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -89,6 +156,12 @@
                         <idno>E.3377-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3377-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa75" ref="#f0018">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -96,6 +169,12 @@
                         <idno>E.3371-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3371-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa77" ref="#f0019">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -103,6 +182,12 @@
                         <idno>E.3372-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3372-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa79" ref="#f0020">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -110,6 +195,12 @@
                         <idno>E.3373-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3373-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa7b" ref="#f0021">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -117,6 +208,12 @@
                         <idno>E.3374-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3374-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa7d" ref="#f0022">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -124,6 +221,12 @@
                         <idno>E.3375-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3375-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa7f" ref="#f0023">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -131,6 +234,12 @@
                         <idno>E.3376-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3376-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68f10804d63806345fadaa81" ref="#f0024">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
@@ -138,6 +247,12 @@
                         <idno>E.3377-1928</idno>
                     </msIdentifier>
                     <p>The Victoria and Albert Museum+ (E.3377-1928)</p>
+                    <additional>
+                      <adminInfo>
+                        <availability>© Victoria and Albert Museum, London</availability>
+                      </adminInfo>
+                    </additional>  
+                  
                 </msDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a275a00d6762beafb3b62b">Painter</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a2751d0d6762beafb3b62a">Goldsmith</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62ce10f95e3b92574f25a7e7">Weaver</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a2750a7befa317ac606b6f">Embroiderer</term><term type="Addressee" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686cae759f7c9926faf53186">Similar Artists</term><term type="media" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855bc06e6e14a1c81bf9c8">Engraving</term><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675">Netherlandish</term></keywords></textClass><langUsage><language ident="LA">Latin</language></langUsage></profileDesc><encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
@@ -148,7 +263,27 @@
 <catDesc>animal</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942d">
 <catDesc>mammal</catDesc>
-<category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
+<catDesc>human</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
+<catDesc>child</catDesc>
+<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
+<catDesc>nude_child</catDesc>
+</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
+<catDesc>clothed_child</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
+<catDesc>man</catDesc>
+<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
+<catDesc>nude_man</catDesc>
+</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
+<catDesc>clothed_man</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
+<catDesc>woman</catDesc>
+<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
+<catDesc>nude_woman</catDesc>
+</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
+<catDesc>clothed_woman</catDesc>
+</category></category></category><category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
 <catDesc>monkey</catDesc>
 </category><category n="squirrel" xml:id="squirrel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69438">
 <catDesc>squirrel</catDesc>
@@ -362,26 +497,6 @@
 <catDesc>vegetal_crown</catDesc>
 </category><category n="stalk" xml:id="stalk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9505c5b2e05341c26f4bb">
 <catDesc>stalk</catDesc>
-</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
-<catDesc>human</catDesc>
-<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
-<catDesc>child</catDesc>
-<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
-<catDesc>nude_child</catDesc>
-</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
-<catDesc>clothed_child</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
-<catDesc>man</catDesc>
-<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
-<catDesc>nude_man</catDesc>
-</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
-<catDesc>clothed_man</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
-<catDesc>woman</catDesc>
-<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
-<catDesc>nude_woman</catDesc>
-</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
-<catDesc>clothed_woman</catDesc>
 </category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
 <catDesc>inorganic</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">
@@ -829,4 +944,103 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>VARIARVM PROTRACTIONVM QVAS VVLGO MAVRVSIAS VOCANT OMNIVM ANTEHAC EXCVSARVM LIBELLVS LONGE COPIOSISSIMVS PICTORIBVS AVRIFABRIS POLYMITARIIS BARBARICARIIS VARIISQVE ID GENVS ARTIFICIBVS ETIAMACV OPERANTIBVS VTILISSIMVS NVNCQVE PRIMVM IN LVCEM AEDITVS ANNO ISS4 BALTAZAR SYLVIVS FECIT</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>[...] It is most useful for painters, goldsmiths, weavers, embroiderers, and various other similar craftsmen, and is now first published in the light of day. 1554. Made by Balthasar van den Bos.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdc2e8044d75c41abe6d5c"><label>Variarum Protractio… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/be6d/62cdc2e8044d75c41abe6d5c/files/15514_KI_7264_1.jpeg" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa5e"><label>Variarum Protractio… (5)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7629" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa60"><label>Variarum Protractio… (6)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7630" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa62"><label>Variarum Protractio… (8)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7631" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa64"><label>Variarum Protractio… (9)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7632" /></surface><surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa66"><label>Variarum Protractio… (10)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7633" /></surface><surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa68"><label>Variarum Protractio… (11)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7634" /></surface><surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa6a"><label>Variarum Protractio… (12)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7635" /></surface><surface xml:id="f0013" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa6c"><label>Variarum Protractio… (13)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7636" /></surface><surface xml:id="f0014" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa6e"><label>Variarum Protractio… (14)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7637" /></surface><surface xml:id="f0015" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa70"><label>Variarum Protractio… (15)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7638" /></surface><surface xml:id="f0016" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa72"><label>Variarum Protractio… (16)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7639" /></surface><surface xml:id="f0017" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa74"><label>Variarum Protractio… (17)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7640" /></surface><surface xml:id="f0018" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa76"><label>Variarum Protractio… (18)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7634" /></surface><surface xml:id="f0019" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa78"><label>Variarum Protractio… (19)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7635" /></surface><surface xml:id="f0020" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa7a"><label>Variarum Protractio… (20)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7636" /></surface><surface xml:id="f0021" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa7c"><label>Variarum Protractio… (21)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7637" /></surface><surface xml:id="f0022" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa7e"><label>Variarum Protractio… (22)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7638" /></surface><surface xml:id="f0023" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa80"><label>Variarum Protractio… (23)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7639" /></surface><surface xml:id="f0024" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa82"><label>Variarum Protractio… (24)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7640" /></surface></facsimile></TEI>
+</encodingDesc></teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdc2e8044d75c41abe6d5c">
+			<label>Variarum Protractio… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/be6d/62cdc2e8044d75c41abe6d5c/files/15514_KI_7264_1.jpeg"/>
+		</surface>
+		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa5e">
+			<label>Variarum Protractio… (5)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7629"/>
+		</surface>
+		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa60">
+			<label>Variarum Protractio… (6)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7630"/>
+		</surface>
+		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa62">
+			<label>Variarum Protractio… (8)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7631"/>
+		</surface>
+		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa64">
+			<label>Variarum Protractio… (9)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7632"/>
+		</surface>
+		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa66">
+			<label>Variarum Protractio… (10)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7633"/>
+		</surface>
+		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa68">
+			<label>Variarum Protractio… (11)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7634"/>
+		</surface>
+		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa6a">
+			<label>Variarum Protractio… (12)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7635"/>
+		</surface>
+		<surface xml:id="f0013" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa6c">
+			<label>Variarum Protractio… (13)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7636"/>
+		</surface>
+		<surface xml:id="f0014" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa6e">
+			<label>Variarum Protractio… (14)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7637"/>
+		</surface>
+		<surface xml:id="f0015" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa70">
+			<label>Variarum Protractio… (15)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7638"/>
+		</surface>
+		<surface xml:id="f0016" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa72">
+			<label>Variarum Protractio… (16)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7639"/>
+		</surface>
+		<surface xml:id="f0017" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa74">
+			<label>Variarum Protractio… (17)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7640"/>
+		</surface>
+		<surface xml:id="f0018" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa76">
+			<label>Variarum Protractio… (18)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7634"/>
+		</surface>
+		<surface xml:id="f0019" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa78">
+			<label>Variarum Protractio… (19)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7635"/>
+		</surface>
+		<surface xml:id="f0020" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa7a">
+			<label>Variarum Protractio… (20)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7636"/>
+		</surface>
+		<surface xml:id="f0021" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa7c">
+			<label>Variarum Protractio… (21)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7637"/>
+		</surface>
+		<surface xml:id="f0022" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa7e">
+			<label>Variarum Protractio… (22)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7638"/>
+		</surface>
+		<surface xml:id="f0023" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa80">
+			<label>Variarum Protractio… (23)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7639"/>
+		</surface>
+		<surface xml:id="f0024" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10804d63806345fadaa82">
+			<label>Variarum Protractio… (24)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC7640"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>VARIARVM PROTRACTIONVM QVAS VVLGO MAVRVSIAS VOCANT OMNIVM ANTEHAC EXCVSARVM LIBELLVS LONGE COPIOSISSIMVS PICTORIBVS AVRIFABRIS POLYMITARIIS BARBARICARIIS VARIISQVE ID GENVS ARTIFICIBVS ETIAMACV OPERANTIBVS VTILISSIMVS NVNCQVE PRIMVM IN LVCEM AEDITVS ANNO ISS4 BALTAZAR SYLVIVS FECIT</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>[...] It is most useful for painters, goldsmiths, weavers, embroiderers, and various other similar craftsmen, and is now first published in the light of day. 1554. Made by Balthasar van den Bos.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

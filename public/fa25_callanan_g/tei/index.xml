@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68cc261c9df9aa20e9eb3c13"><titleStmt><title>FA25 Callanan G</title></titleStmt><publicationStmt></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68cc261c9df9aa20e9eb3c13"><titleStmt><title>FA25 Callanan G</title></titleStmt><publicationStmt></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Ornamental Motifs</bibl>
@@ -8,7 +9,27 @@
 <catDesc>animal</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942d">
 <catDesc>mammal</catDesc>
-<category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
+<catDesc>human</catDesc>
+<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
+<catDesc>child</catDesc>
+<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
+<catDesc>nude_child</catDesc>
+</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
+<catDesc>clothed_child</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
+<catDesc>man</catDesc>
+<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
+<catDesc>nude_man</catDesc>
+</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
+<catDesc>clothed_man</catDesc>
+</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
+<catDesc>woman</catDesc>
+<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
+<catDesc>nude_woman</catDesc>
+</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
+<catDesc>clothed_woman</catDesc>
+</category></category></category><category n="monkey" xml:id="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437">
 <catDesc>monkey</catDesc>
 </category><category n="squirrel" xml:id="squirrel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69438">
 <catDesc>squirrel</catDesc>
@@ -222,26 +243,6 @@
 <catDesc>vegetal_crown</catDesc>
 </category><category n="stalk" xml:id="stalk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68e9505c5b2e05341c26f4bb">
 <catDesc>stalk</catDesc>
-</category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
-<catDesc>human</catDesc>
-<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
-<catDesc>child</catDesc>
-<category n="nude_child" xml:id="nude_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d12ff95b2e05341c26f353">
-<catDesc>nude_child</catDesc>
-</category><category n="clothed_child" xml:id="clothed_child" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68d130035b2e05341c26f354">
-<catDesc>clothed_child</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb007731b24c5e41c938e">
-<catDesc>man</catDesc>
-<category n="nude_man" xml:id="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033">
-<catDesc>nude_man</catDesc>
-</category><category n="clothed_man" xml:id="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034">
-<catDesc>clothed_man</catDesc>
-</category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68ffb025731b24c5e41c938f">
-<catDesc>woman</catDesc>
-<category n="nude_woman" xml:id="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035">
-<catDesc>nude_woman</catDesc>
-</category><category n="clothed_woman" xml:id="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036">
-<catDesc>clothed_woman</catDesc>
 </category></category></category><category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
 <catDesc>inorganic</catDesc>
 <category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">
@@ -689,4 +690,26 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><div></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"></facsimile></TEI>
+</encodingDesc></teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b26a3da12d491d55e98">
+			<label>Pear-shaped Blackwo… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://iiif.micr.io/vKtsB"/>
+			<zone xml:id="f0001_z000" ulx="2350.519287109375" uly="2346.5654296875" lrx="2791.630615234375" lry="2794.463134765625" ana="#monster_mask"/>
+			<zone xml:id="f0001_z002" points="1438.63232421875,2255.612060546875,1450.35888671875,1911.626220703125,1524.628662109375,1923.3529052734375,1587.17138671875,2126.616943359375,1727.892822265625,2189.159912109375,1841.251220703125,2107.072265625,1852.978271484375,1978.077880859375,1888.158447265625,1899.8994140625,1958.51904296875,1938.9886474609375,1954.6109619140625,2337.699462890625,1868.6136474609375,2329.88134765625,1829.52490234375,2263.429443359375,1688.803466796875,2314.245849609375,1563.718017578125,2318.155517578125,1501.175048828125,2232.158447265625,1512.90185546875,2310.33642578125,1446.4501953125,2314.245849609375,1434.723388671875,2314.245849609375" ana="#swag"/>
+			<zone xml:id="f0001_z005" ulx="754.9817504882812" uly="1733.37890625" lrx="1431.269287109375" lry="2534.7333984375" ana="#scrollwork"/>
+			<zone xml:id="f0001_z003" points="1747.40185546875,2765.803955078125 1814.947998046875,2208.5478515625 1848.72119140625,2039.682373046875 1826.2056884765625,1853.9302978515625 1989.4423828125,1820.1571044921875 2040.10205078125,1713.208984375 2203.338623046875,1690.693603515625 2214.596435546875,1583.7454833984375 2073.875244140625,1510.5703125 1950.0404052734375,1527.4569091796875 1854.3499755859375,1561.22998046875 1854.3499755859375,1634.405029296875 1814.947998046875,1617.5185546875 1814.947998046875,1538.714599609375 1882.4942626953125,1488.054931640625 1865.607666015625,1386.7357177734375 1792.4326171875,1307.9317626953125 1668.597900390625,1285.4163818359375 1578.5362548828125,1324.818359375 1539.1343994140625,1414.8798828125 1460.3304443359375,1443.024169921875 1477.217041015625,1510.5703125 1494.103515625,1538.714599609375 1505.3612060546875,1611.8896484375 1432.1861572265625,1488.054931640625 1223.918701171875,1482.4261474609375 1133.8570556640625,1628.7762451171875 1252.06298828125,1701.9512939453125 1313.9803466796875,1775.1263427734375 1499.732421875,1831.4149169921875 1527.876708984375,1848.3013916015625 1539.1343994140625,1989.022705078125 1589.7940673828125,2292.980712890625 1657.3402099609375,2793.9482421875 1634.8248291015625,2788.319580078125" ana="#harpy_term"/>
+			<zone xml:id="f0001_z004" points="2325.761474609375,3493.697021484375,2670.246826171875,3419.39501953125,2670.246826171875,3405.885498046875,3007.978759765625,3068.155029296875,3102.543212890625,2426.465576171875,2832.359130859375,2014.433837890625,2541.910400390625,1791.5313720703125,2386.553466796875,1278.18017578125,2291.988037109375,818.8659057617188,2048.822509765625,568.9448852539062,1717.845458984375,487.889404296875,1339.586669921875,521.6625366210938,1042.38330078125,744.5650634765625,941.06396484375,1122.8238525390625,839.7451171875,1615.9112548828125,718.1617431640625,1818.5499267578125,360.1668701171875,2183.299560546875,238.58331298828125,2737.179443359375,360.1668701171875,3210.002197265625,670.8787841796875,3405.885498046875,914.0455322265625,3500.450927734375,1103.1748046875,3723.353759765625,1346.3416748046875,3892.21923828125,1731.35498046875,3986.7841796875,2069.085205078125,3858.4453125,2291.988037109375,3649.053466796875" ana="#cartouche"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<div/>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<div/>
+		</body>
+	</text>
+</TEI>
