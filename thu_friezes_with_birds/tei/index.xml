@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c7130ddf63f3484362c85c"><titleStmt><title>THU_Friezes with Birds</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d68ad4632573c9702b9d9"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d68774afc6c8cf96e2130" ref="http://vocab.getty.edu/page/ulan/500000822">Collaert, Hans, the elder (ca. 1530-1581)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d1edeec44106814725c7c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d1ec61dbdf14e1b9d1671" ref="http://vocab.getty.edu/page/ulan/500000209">Liefrinck, Hans, I (ca.1518-1573)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1570-1631</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c6fb42e1bf230a69270e18">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c7130ddf63f3484362c85c"><titleStmt><title>THU_Friezes with Birds</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d68ad4632573c9702b9d9"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d68774afc6c8cf96e2130" ref="http://vocab.getty.edu/page/ulan/500000822">Collaert, Hans, the elder (ca. 1530-1581)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d1edeec44106814725c7c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d1ec61dbdf14e1b9d1671" ref="http://vocab.getty.edu/page/ulan/500000209">Liefrinck, Hans, I (ca.1518-1573)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1570-1631</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c6fb42e1bf230a69270e18">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O562249/print-liefrinck/</idno>
@@ -918,88 +917,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c6fb6e8287373cdb5d0929">
-			<label>Friezes with Birds (Title Page)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/pDDMm"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08902">
-			<label>Friezes with Birds (2)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/dXfel"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaa9e">
-			<label>Friezes with Birds (2)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3971"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08904">
-			<label>Friezes with Birds (3)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/LmtEE"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa0">
-			<label>Friezes with Birds (3)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3972"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08906">
-			<label>Friezes with Birds (4)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/HajIW"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa2">
-			<label>Friezes with Birds (4)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3973"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08908">
-			<label>Friezes with Birds (5)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/xxjWd"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa4">
-			<label>Friezes with Birds (5)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3974"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f0890a">
-			<label>Friezes with Birds (6)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/bhuPZ"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa6">
-			<label>Friezes with Birds (6)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3975"/>
-		</surface>
-		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f0890c">
-			<label>Friezes with Birds (7)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/heYOb"/>
-		</surface>
-		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f0890e">
-			<label>Friezes with Birds (8)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/EnOCo"/>
-		</surface>
-		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08910">
-			<label>Friezes with Birds (9)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/hnHLQ"/>
-		</surface>
-		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08912">
-			<label>Friezes with Birds (10)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/OLcWS"/>
-		</surface>
-		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08914">
-			<label>Friezes with Birds (11)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/oWMUb"/>
-		</surface>
-		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08916">
-			<label>Friezes with Birds (12)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/PneUQ"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>'HANS LIEFRINCK INVENT / Hieronymous Porro Formis'</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p> 'HANS LIEFRINCK INVENT / Hieronymous Porro Formis'</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c6fb6e8287373cdb5d0929"><label>Friezes with Birds (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/pDDMm" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08902"><label>Friezes with Birds (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/dXfel" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaa9e"><label>Friezes with Birds (2)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3971" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08904"><label>Friezes with Birds (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/LmtEE" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa0"><label>Friezes with Birds (3)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3972" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08906"><label>Friezes with Birds (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/HajIW" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa2"><label>Friezes with Birds (4)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3973" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08908"><label>Friezes with Birds (5)</label><graphic mimeType="application/json" url="https://iiif.micr.io/xxjWd" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa4"><label>Friezes with Birds (5)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3974" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f0890a"><label>Friezes with Birds (6)</label><graphic mimeType="application/json" url="https://iiif.micr.io/bhuPZ" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10805d63806345fadaaa6"><label>Friezes with Birds (6)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2012FP3975" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f0890c"><label>Friezes with Birds (7)</label><graphic mimeType="application/json" url="https://iiif.micr.io/heYOb" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f0890e"><label>Friezes with Birds (8)</label><graphic mimeType="application/json" url="https://iiif.micr.io/EnOCo" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08910"><label>Friezes with Birds (9)</label><graphic mimeType="application/json" url="https://iiif.micr.io/hnHLQ" /></surface><surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08912"><label>Friezes with Birds (10)</label><graphic mimeType="application/json" url="https://iiif.micr.io/OLcWS" /></surface><surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08914"><label>Friezes with Birds (11)</label><graphic mimeType="application/json" url="https://iiif.micr.io/oWMUb" /></surface><surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab5d142edaff5f08916"><label>Friezes with Birds (12)</label><graphic mimeType="application/json" url="https://iiif.micr.io/PneUQ" /></surface></facsimile></TEI>

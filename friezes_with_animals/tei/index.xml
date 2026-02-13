@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c70c1cdf978e1dafdca63d"><titleStmt><title>Friezes with Animals</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e8d4b575bda8eeb30f2a"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e900b575bda8eeb30f2c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d4375c932a51b480a830c" ref="http://vocab.getty.edu/page/ulan/500154255">Londerseel, Assuerus Van (1572/3?-1635)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1594</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c6fa137fefb97c92ccc329">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c70c1cdf978e1dafdca63d"><titleStmt><title>Friezes with Animals</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e8d4b575bda8eeb30f2a"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e900b575bda8eeb30f2c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d4375c932a51b480a830c" ref="http://vocab.getty.edu/page/ulan/500154255">Londerseel, Assuerus Van (1572/3?-1635)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1594</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c6fa137fefb97c92ccc329">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O637249/print-nicolaes-de-bruyn/</idno>
@@ -866,75 +865,6 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c6fa3a8287373cdb5d0928">
-			<label>Friezes with Animals (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/5d09/62c6fa3a8287373cdb5d0928/files/2011FA7370.jpg"/>
-		</surface>
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b70">
-			<label>Friezes with Animals (Title Page)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/ULLWR"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b72">
-			<label>Friezes with Animals (2)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/FLYRg"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b74">
-			<label>Friezes with Animals (3)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/fZOzb"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b76">
-			<label>Friezes with Animals (4)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/kACFw"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b78">
-			<label>Friezes with Animals (5)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/QeFWZ"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b7a">
-			<label>Friezes with Animals (6)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/YMteI"/>
-		</surface>
-		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b7c">
-			<label>Friezes with Animals (7)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/PPLWw"/>
-		</surface>
-		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b7e">
-			<label>Friezes with Animals (8)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/LSsgW"/>
-		</surface>
-		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b80">
-			<label>Friezes with Animals (9)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/ziyNT"/>
-		</surface>
-		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b82">
-			<label>Friezes with Animals (10)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/IqcqW"/>
-		</surface>
-		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b12a3da12d491d55b84">
-			<label>Friezes with Animals (11)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/JUIKk"/>
-		</surface>
-		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b12a3da12d491d55b87">
-			<label>Friezes with Animals (12)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/vKkJj"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Nicolas de Bruin fecit A van Lo excudit 1594</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Engraved by Nicolaes de Bruyn. Published by Assuerus Van Londerseel. 1594.</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Nicolas de Bruin fecit
+A van Lo excudit
+1594</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Engraved by Nicolaes de Bruyn. Published by Assuerus Van Londerseel. 1594.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c6fa3a8287373cdb5d0928"><label>Friezes with Animals (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/FLYRg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b72"><label>Friezes with Animals (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/FLYRg" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b74"><label>Friezes with Animals (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/fZOzb" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b76"><label>Friezes with Animals (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/kACFw" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b78"><label>Friezes with Animals (5)</label><graphic mimeType="application/json" url="https://iiif.micr.io/QeFWZ" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b7a"><label>Friezes with Animals (6)</label><graphic mimeType="application/json" url="https://iiif.micr.io/YMteI" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b7c"><label>Friezes with Animals (7)</label><graphic mimeType="application/json" url="https://iiif.micr.io/PPLWw" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b7e"><label>Friezes with Animals (8)</label><graphic mimeType="application/json" url="https://iiif.micr.io/LSsgW" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b80"><label>Friezes with Animals (9)</label><graphic mimeType="application/json" url="https://iiif.micr.io/ziyNT" /></surface><surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b11a3da12d491d55b82"><label>Friezes with Animals (10)</label><graphic mimeType="application/json" url="https://iiif.micr.io/IqcqW" /></surface><surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b12a3da12d491d55b84"><label>Friezes with Animals (11)</label><graphic mimeType="application/json" url="https://iiif.micr.io/JUIKk" /></surface><surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b12a3da12d491d55b87"><label>Friezes with Animals (12)</label><graphic mimeType="application/json" url="https://iiif.micr.io/vKkJj" /></surface></facsimile></TEI>

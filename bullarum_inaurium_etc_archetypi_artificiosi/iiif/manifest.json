@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -1681,60 +1681,60 @@
 					}
 				},
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -1742,21 +1742,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6050",
-				"Link": "https://id.rijksmuseum.nl/200472816",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200472816"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1773,7 +1772,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -3011,21 +3010,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1964-4527",
-				"Link": "https://id.rijksmuseum.nl/200460895",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200460895"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -3042,7 +3040,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -3940,21 +3938,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1894-A-18378",
-				"Link": "https://id.rijksmuseum.nl/200431257",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200431257"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -3971,7 +3968,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -4912,21 +4909,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1987-1",
-				"Link": "https://id.rijksmuseum.nl/200484274",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484274"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -4943,7 +4939,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -6013,21 +6009,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1987-2",
-				"Link": "https://id.rijksmuseum.nl/200484270",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484270"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -6044,7 +6039,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -6917,21 +6912,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1894-A-18379",
-				"Link": "https://id.rijksmuseum.nl/200431258",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200431258"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -6948,7 +6942,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -7998,21 +7992,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1894-A-18380",
-				"Link": "https://id.rijksmuseum.nl/200431259",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200431259"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -8029,7 +8022,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -9117,21 +9110,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1893-A-18185",
-				"Link": "https://id.rijksmuseum.nl/200431216",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200431216"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -9148,7 +9140,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -10080,21 +10072,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1894-A-18382",
-				"Link": "https://id.rijksmuseum.nl/200431261",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200431261"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -10111,7 +10102,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//bullarum_inaurium_etc_archetypi_artificiosi/iiif/canvas/f0010"
 						}
 					]
 				}

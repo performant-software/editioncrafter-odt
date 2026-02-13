@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cda8f4f63e83e4d370b0b1"><titleStmt><title>Variarum protractionum forme, quas vulgo Maurusias vocant</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3ec8e8e045569ddf40b5" ref="http://vocab.getty.edu/page/ulan/500005618">Cock, Hieronymus (ca. 1510-1570)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>ca. 1555–1560</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cdb87b044d75c41abe6d59">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cda8f4f63e83e4d370b0b1"><titleStmt><title>Variarum protractionum forme, quas vulgo Maurusias vocant</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3ec8e8e045569ddf40b5" ref="http://vocab.getty.edu/page/ulan/500005618">Cock, Hieronymus (ca. 1510-1570)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>ca. 1555–1560</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cdb87b044d75c41abe6d59">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62cdb7f79d85a8c6831c5eda">Designmuseum Danmark</institution>
                         <idno type="URI">undefined</idno>
@@ -697,27 +696,15 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdb780044d75c41abe6d58">
-			<label>Variarum protractio… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/be6d/62cdb780044d75c41abe6d58/files/Screen_Shot_2022-07-12_at_11.48.49.png"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>[LATIN] Variarum protractionum forme, quas vulgo Maurusias vocant, ad antiquum Persarum, Assyriorum, Arabum, Aegyptiorum, Indorum, Turcarum &amp; Grecorum morem confictae, pictorum, aurifabrorum, statuariorum, polimitariorum, caeterorumque id genus artificum, &amp; eorumqui acu operantur usui perquam accommodae. [ITALIAN] Forme de varie protractioni, lequali quasi pertucto lo mandano Maurusie, facte secondo il costume delli Persi, Assyrij, Arabi, Egyptij, Indi, &amp; Turcki, pictori, orifici, statuarij, polymitarij, ricamatori, tapezieri, &amp; alteri simili artifici, molto allii (alii? Latin?) sanza acccomodate. [FRENCH] Formes de diverses protractions, lesquelles vulgairement sont nommees Maurusie, ou foeulles de lauriers, faictes a la maniere des Perses, Assyriens, Arabes, Aegyptiens, Indoys, Turcz, &amp; Grecz, commodieusement ordonnees au grant bien des painctres, orfebvres, Tailleurs de images, voiriers, tapiciers, brodeurs, &amp; de tous aultres besognant de leguille. [GERMAN] Formen von mancherlay zigen, das man nent das haydnisch werckh, gemacht nach der manier von Persya, Assyria, Arabia, Egypten, India, Turckia, und Grecia, Ser nutz und fruchtbar den malern, goltschmiden, bildhauern, glasmalern, und sydin nadtern, und all andern so mit der nadel arwayten. Imprime en Anvers au Quatre Vens, Hieronymus Cock</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>[ENGLISH from FRENCH] Forms of various protractions, which are commonly called Moresques, or laurel leaves, made in the manner of Persians, Assyrians, Arabs, Egyptions, Indians, Turks, &amp; Greeks, amply arrayed to the great good of painters, goldsmiths, sculptors, glassworkers, tappisers, embroiderers, &amp; all others who work with needles.</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>[LATIN] Variarum protractionum forme, quas vulgo Maurusias vocant, ad antiquum Persarum, Assyriorum, Arabum, Aegyptiorum, Indorum, Turcarum &amp; Grecorum morem confictae, pictorum, aurifabrorum, statuariorum, polimitariorum, caeterorumque id genus artificum, &amp; eorumqui acu operantur usui perquam accommodae.
+
+[ITALIAN] Forme de varie protractioni, lequali quasi pertucto lo mandano Maurusie, facte secondo il costume delli Persi, Assyrij, Arabi, Egyptij, Indi, &amp; Turcki, pictori, orifici, statuarij, polymitarij, ricamatori, tapezieri, &amp; alteri simili artifici, molto allii (alii? Latin?) sanza acccomodate.
+
+[FRENCH] Formes de diverses protractions, lesquelles vulgairement sont nommees Maurusie, ou foeulles de lauriers, faictes a la maniere des Perses, Assyriens, Arabes, Aegyptiens, Indoys, Turcz, &amp; Grecz, commodieusement ordonnees au grant bien des painctres, orfebvres, Tailleurs de images, voiriers, tapiciers, brodeurs, &amp; de tous aultres besognant de leguille.
+
+[GERMAN] Formen von mancherlay zigen, das man nent das haydnisch werckh, gemacht nach der manier von Persya, Assyria, Arabia, Egypten, India, Turckia, und Grecia, Ser nutz und fruchtbar den malern, goltschmiden, bildhauern, glasmalern, und sydin nadtern, und all andern so mit der nadel arwayten.
+
+Imprime en Anvers au Quatre Vens, Hieronymus Cock
+
+</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>[ENGLISH from FRENCH] Forms of various protractions, which are commonly called Moresques, or laurel leaves, made in the manner of Persians, Assyrians, Arabs, Egyptions, Indians, Turks, &amp; Greeks, amply arrayed to the great good of painters, goldsmiths, sculptors, glassworkers, tappisers, embroiderers, &amp; all others who work with needles.
+</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdb780044d75c41abe6d58"><label>Variarum protractio… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/be6d/62cdb780044d75c41abe6d58/files/Screen_Shot_2022-07-12_at_11.48.49.png" /></surface></facsimile></TEI>

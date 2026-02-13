@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628e7d48e8e045569ddf40c3"><titleStmt><title>Petites Arabesques</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628e7c8ff66fec9e00edcb9b">Orléans</pubPlace><date>1550</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628e7ddde18a0a798d499669" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628e7d48e8e045569ddf40c3"><titleStmt><title>Petites Arabesques</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628e7c8ff66fec9e00edcb9b">Orléans</pubPlace><date>1550</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628e7ddde18a0a798d499669" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O644059/petites-arabesques-etching-du-cerceau-jacques/</idno>
@@ -717,27 +716,6 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628e7df50e54c36bfb169b2c">
-			<label>Petites Arabesques (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/169b/628e7df50e54c36bfb169b2c/files/2011EY4168.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>"IACOBVS ANDROVETIVS DV CERCEAV LECTORIBVS S[UOS]. NIHIL ALIVD SEMPER GOCITANI ET MOLIENTI MIHI, QVAM VT PROMISSA EX [S]OLVEREM QVOD TESTANTVR SATIS SVPERIORES NOSTRI LABORES, QVIBVS VOBIS LECTORES CANDIDI, IAM ANTEA FRVI LICVIT, VISVM EST LIBRVM HVNO RECENS AME CONSCRIPTVM DE EO PICTVRAE GENERE QVOD (GROTTESCHE) VOCANT ITALI IN VESTRAM GRATIAM EMITTERE: CVIVS INVENTIONIS PAR TEM SIBI ANTIQVITAS IPSA ASSVMERE, PARTEM MEO IVRE QVODAMMODO VENDICARE POSSVM, VALETE, ET NOSTRA SCRIPTA VESTRIS PONDERIBVS BENEVOLE EXAMINATE AVRELIAE.1550"</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Jacques Androuet du Cerceau to his readers: There is nothing else for me, who is always thinking and planning, than to fulfill the promises to which our previous labors sufficiently testify, which you, dear readers, have already been allowed to enjoy before, it seemed proper that this book, recently written by me, on that kind of painting which the Italians call Grotesques, should be published according to your favor: the invention part of which antiquity itself can assume for itself, and part I can justly claim in a certain way; and kindly examine our writings according to your weight. Orleans, 1550.</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>"IACOBVS ANDROVETIVS DV CERCEAV LECTORIBVS S[UOS]. 
+NIHIL ALIVD SEMPER GOCITANI ET MOLIENTI MIHI, QVAM VT PROMISSA EX [S]OLVEREM QVOD TESTANTVR SATIS SVPERIORES NOSTRI LABORES, QVIBVS VOBIS LECTORES CANDIDI, IAM ANTEA FRVI LICVIT, VISVM EST LIBRVM HVNO RECENS AME CONSCRIPTVM DE EO PICTVRAE GENERE QVOD (GROTTESCHE) VOCANT ITALI IN VESTRAM GRATIAM EMITTERE: CVIVS INVENTIONIS PAR TEM SIBI ANTIQVITAS IPSA ASSVMERE, PARTEM MEO IVRE QVODAMMODO VENDICARE POSSVM, VALETE, ET NOSTRA SCRIPTA VESTRIS PONDERIBVS BENEVOLE EXAMINATE AVRELIAE.1550"</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Jacques Androuet du Cerceau to his readers:
+There is nothing else for me, who is always thinking and planning, than to fulfill the promises to which our previous labors sufficiently testify, which you, dear readers, have already been allowed to enjoy before, it seemed proper that this book, recently written by me, on that kind of painting which the Italians call Grotesques, should be published according to your favor: the invention part of which antiquity itself can assume for itself, and part I can justly claim in a certain way; and kindly examine our writings according to your weight. Orleans, 1550.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628e7df50e54c36bfb169b2c"><label>Petites Arabesques (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/169b/628e7df50e54c36bfb169b2c/files/2011EY4168.jpg" /></surface></facsimile></TEI>

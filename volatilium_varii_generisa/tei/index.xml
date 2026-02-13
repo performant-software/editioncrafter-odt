@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b01db575bda8eeb30e5f"><titleStmt><title>Volatilium varii generis.A</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e8d4b575bda8eeb30f2a"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e900b575bda8eeb30f2c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835b1c8b575bda8eeb30e61" ref="http://vocab.getty.edu/page/ulan/500084301">Beusekom, Frans van</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1594?</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f3400b575bda8eeb3132d">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b01db575bda8eeb30e5f"><titleStmt><title>Volatilium varii generis.A</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e8d4b575bda8eeb30f2a"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e900b575bda8eeb30f2c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e8cfb575bda8eeb30f29" ref="http://vocab.getty.edu/page/ulan/500013601">Bruyn, Nicolaes de</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835b1c8b575bda8eeb30e61" ref="http://vocab.getty.edu/page/ulan/500084301">Beusekom, Frans van</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1594?</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f3400b575bda8eeb3132d">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">https://id.rijksmuseum.nl/200167471</idno>
@@ -697,21 +696,12 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f3407b575bda8eeb3132e">
-			<label>Volatilium varii ge… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f3407b575bda8eeb3132e/files/image/RP-P-1893-A-17764A.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<div/>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>VOLATILIVM
+VARII GENERIS 
+effigies, in tyronum, 
+praecipuè verò aurifa
+brorum gratiam aeri
+incisa 
+a 
+Francoÿs van Beusecom exc. Amstr. 
+NB</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f3407b575bda8eeb3132e"><label>Volatilium varii ge… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f3407b575bda8eeb3132e/files/image/RP-P-1893-A-17764A.jpg" /></surface></facsimile></TEI>

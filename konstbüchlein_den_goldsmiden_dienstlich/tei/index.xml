@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628d2cbbb2f9bed728e8763d"><titleStmt><title>Konstbüchlein den Goldsmiden dienstlich</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d2bdce18a0a798d499655" ref="http://vocab.getty.edu/page/ulan/500001140">Sichem, Christoffel van, I (1546-1624)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d2c7ee18a0a798d499656">Amsterdam</pubPlace><date>1608</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d3044e8e045569ddf40b0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628d2cbbb2f9bed728e8763d"><titleStmt><title>Konstbüchlein den Goldsmiden dienstlich</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d2bdce18a0a798d499655" ref="http://vocab.getty.edu/page/ulan/500001140">Sichem, Christoffel van, I (1546-1624)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d2c7ee18a0a798d499656">Amsterdam</pubPlace><date>1608</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d3044e8e045569ddf40b0">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O716467/konstbüchlein-den-goldsmiden-dienstlich-print-abraham-van-den/</idno>
@@ -775,43 +774,8 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d305fe8e045569ddf40b1">
-			<label>Konstbüchlein den G… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/df40/628d305fe8e045569ddf40b1/files/2011FC7592.jpg"/>
-		</surface>
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55ec2">
-			<label>Konstbüchlein den G… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/lfgNJ"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55ec4">
-			<label>Konstbüchlein den G… (2)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/xcQBu"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55ec7">
-			<label>Konstbüchlein den G… (3)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/TNScT"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55eca">
-			<label>Konstbüchlein den G… (4)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/HfbwZ"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Konstbuechlein den Goldschmiden dienstlich. Christoffel von Sichem excudit. 1608.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Little art book, useful to the goldsmith. Published by Christoffel von Sichem. 1608.</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Konstbuechlein den Goldschmiden dienstlich.
+
+Christoffel von Sichem excudit. 1608.</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Little art book, useful to the goldsmith.
+
+Published by Christoffel von Sichem. 1608.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d305fe8e045569ddf40b1"><label>Konstbüchlein den G… (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/lfgNJ" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55ec4"><label>Konstbüchlein den G… (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/xcQBu" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55ec7"><label>Konstbüchlein den G… (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/TNScT" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b27a3da12d491d55eca"><label>Konstbüchlein den G… (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/HfbwZ" /></surface></facsimile></TEI>

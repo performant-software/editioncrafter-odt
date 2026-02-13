@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c86acb8287373cdb5d0932"><titleStmt><title>Nouveau Livre Ornemens d’Orfevrerie</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c86a8ddf63f3484362c86c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7d0d1dbdf14e1b9d1682" ref="http://vocab.getty.edu/page/ulan/500008202">Du Cerceau, Jacques Androuet, the elder (ca.1515-after  1584)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c868c3df63f3484362c86b" ref="http://vocab.getty.edu/page/ulan/500011823">Langlois, Nicolas, the elder (1640-1703)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c869ad4fcee0875717dfae">Paris</pubPlace><date>between 1660 and 1710?</date></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d4d86ec44106814725c83">French</term></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c86acb8287373cdb5d0932"><titleStmt><title>Nouveau Livre Ornemens d’Orfevrerie</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c86a8ddf63f3484362c86c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7d0d1dbdf14e1b9d1682" ref="http://vocab.getty.edu/page/ulan/500008202">Du Cerceau, Jacques Androuet, the elder (ca.1515-after  1584)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c868c3df63f3484362c86b" ref="http://vocab.getty.edu/page/ulan/500011823">Langlois, Nicolas, the elder (1640-1703)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c869ad4fcee0875717dfae">Paris</pubPlace><date>between 1660 and 1710?</date></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d4d86ec44106814725c83">French</term></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Ornamental Motifs</bibl>
@@ -690,16 +689,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints"/>
-	<text xml:id="transcription">
-		<body>
-			<div/>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><div></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"></facsimile></TEI>

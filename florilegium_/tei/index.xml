@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b376b575bda8eeb30e66"><titleStmt><title>Florilegium </title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6838b0d9b575bda8eeb31134"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d69364632573c9702b9da" ref="http://vocab.getty.edu/page/ulan/500021205">Collaert, Adriaen (ca. 1560-1618)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d6989ec44106814725c89" ref="http://vocab.getty.edu/page/ulan/500016136">Galle, Philip (1537-1612)</publisher><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62d064915b7d92d455631be0">Galle, Theodor (1571 (baptized)-1633 (buried))</publisher><date>1570 - before 1618</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f1ea4b575bda8eeb31321">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b376b575bda8eeb30e66"><titleStmt><title>Florilegium </title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6838b0d9b575bda8eeb31134"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d69364632573c9702b9da" ref="http://vocab.getty.edu/page/ulan/500021205">Collaert, Adriaen (ca. 1560-1618)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d6989ec44106814725c89" ref="http://vocab.getty.edu/page/ulan/500016136">Galle, Philip (1537-1612)</publisher><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62d064915b7d92d455631be0">Galle, Theodor (1571 (baptized)-1633 (buried))</publisher><date>1570 - before 1618</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f1ea4b575bda8eeb31321">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">https://id.rijksmuseum.nl/200484257</idno>
@@ -697,21 +696,15 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f1eccb575bda8eeb31322">
-			<label>Florilegium  (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f1eccb575bda8eeb31322/files/image/RP-P-BI-5990.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<div/>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>FLORILEGIVM
+Ab Hadriano Collaert caelatum, et a Theod. Galleo editum. 
+
+ILLVSTRISS. ECCELENTISSIMOQVE
+DNO D. IOANNI MEDICI. OMNIS 
+GENERIS ELEGANTIARVM AD
+MIRATORI ET PATRONO, 
+PHILIP, GALLAEVS D D. 
+
+Favete, adeste, qui favetis hortulis,  Facti tamen sunt tam polita dextra
+Pictosque ocellis flosculos depascite: Vt si quis illis forte vivos conferat, 
+Queis nullus eft quidem vigor, nullus viror;  Naturam ab arte penè victam censeat. </p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f1eccb575bda8eeb31322"><label>Florilegium  (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f1eccb575bda8eeb31322/files/image/RP-P-BI-5990.jpg" /></surface></facsimile></TEI>

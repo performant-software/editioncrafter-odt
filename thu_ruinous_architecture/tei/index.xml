@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62bf62e66b5b4f1fa977791b"><titleStmt><title>THU_Ruinous Architecture</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62be57ebaa79b4baa9fcbd1d">Nuremberg</pubPlace><date>1550 - 1562</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62bf6394db8228d374a9c511" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62bf62e66b5b4f1fa977791b"><titleStmt><title>THU_Ruinous Architecture</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62be57ebaa79b4baa9fcbd1d">Nuremberg</pubPlace><date>1550 - 1562</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62bf6394db8228d374a9c511" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">http://hdl.handle.net/10934/RM0001.COLLECT.177465</idno>
@@ -840,68 +839,6 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62bf63b4232701a653cee2ac">
-			<label>Ruinous Architecture (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/cee2/62bf63b4232701a653cee2ac/files/RP-P-OB-8662.jpg"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9f4">
-			<label>Ruinous Architecture (2)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4773"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9f6">
-			<label>Ruinous Architecture (3)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4771"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9f8">
-			<label>Ruinous Architecture (4)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD477"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9fa">
-			<label>Ruinous Architecture (5)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4769"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9fc">
-			<label>Ruinous Architecture (6)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4768"/>
-		</surface>
-		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9fe">
-			<label>Ruinous Architecture (7)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4779"/>
-		</surface>
-		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa00">
-			<label>Ruinous Architecture (8)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4767"/>
-		</surface>
-		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa02">
-			<label>Ruinous Architecture (9)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4766"/>
-		</surface>
-		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa04">
-			<label>Ruinous Architecture (10)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9761"/>
-		</surface>
-		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa06">
-			<label>Ruinous Architecture (11)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9762"/>
-		</surface>
-		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa08">
-			<label>Ruinous Architecture (12)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9763"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>VIRGILLIVS SOLLIS VO NVRNBERG WVNSCH DEM FREVNTILILCHE LESER HAIL. NACH DEM MIR DIS BVCHLIN VON DEN ALTEN GEBEVEN FVRKVME IST VND ICHALLENTHALB KLAG VERME RCKT DAS MAN KEIN ABDRVCKDISER EXEMPLARBEI VNS HAT BEKOMEN KONEN HABICH VERMEINT DAS ICH MICH NIT VBEL VMB DEN GEMEINEN NVSZ VN ALLE KUNST LIEBEND VERSCHVLD WNRDT WENICHSAVCH IN DRYVK KOME LIES WIEDER IACBVS GETHAN HAT DAMIT IN VNSER LAND WIERS EBEN SO WOLHET ALS DIE WALLEN VND FRANCZOSEN DVR CHDES IACOBI VORSICHETIGKEIT BEKOM HABEN DAS BVECHABER KOMPT HERVO EINEM KVNSTREICHEN MAN LEONHAR DOTHEODORICO SOLICHS ZAIGICH DARVMBAN DAS DER SELB SEIN EHRVND VERDIENTS LOBAVCH DAR BEI HAB VN BIT EINE IEDEN ER WOLDISEN MEINE FLEIS MVHE VND DIENST VOR LIEBANNEMEN VND SICH DESEN BESSERN KAN ICH DEM GEMEINEN NVCZON ANDERER SCHADEN MER DIENENN WILICH MICH ALZEIT BEREIT FINDE LASSEN.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>VIRGILLIVS SOLLIS VO NVRNBERG WVNSCH DEM FREVNTILILCHE LESER HAIL.
+
+NACH DEM MIR DIS BVCHLIN VON DEN ALTEN GEBEVEN FVRKVME IST VND ICHALLENTHALB KLAG VERME RCKT DAS MAN KEIN ABDRVCKDISER EXEMPLARBEI VNS HAT BEKOMEN KONEN HABICH VERMEINT DAS ICH MICH NIT VBEL VMB DEN GEMEINEN NVSZ VN ALLE KUNST LIEBEND VERSCHVLD WNRDT WENICHSAVCH IN DRYVK KOME LIES WIEDER IACBVS GETHAN HAT DAMIT IN VNSER LAND WIERS EBEN SO WOLHET ALS DIE WALLEN VND FRANCZOSEN DVR CHDES IACOBI VORSICHETIGKEIT BEKOM HABEN DAS BVECHABER KOMPT HERVO EINEM KVNSTREICHEN MAN LEONHAR DOTHEODORICO SOLICHS ZAIGICH DARVMBAN DAS DER SELB SEIN EHRVND VERDIENTS LOBAVCH DAR BEI HAB VN BIT EINE IEDEN ER WOLDISEN MEINE FLEIS MVHE VND DIENST VOR LIEBANNEMEN VND SICH DESEN BESSERN KAN ICH DEM GEMEINEN NVCZON ANDERER SCHADEN MER DIENENN WILICH MICH ALZEIT BEREIT FINDE LASSEN.</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62bf63b4232701a653cee2ac"><label>Ruinous Architecture (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/cee2/62bf63b4232701a653cee2ac/files/RP-P-OB-8662.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9f4"><label>Ruinous Architecture (2)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4773" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9f6"><label>Ruinous Architecture (3)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4771" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9f8"><label>Ruinous Architecture (4)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD477" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9fa"><label>Ruinous Architecture (5)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4769" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9fc"><label>Ruinous Architecture (6)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4768" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fada9fe"><label>Ruinous Architecture (7)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4779" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa00"><label>Ruinous Architecture (8)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4767" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa02"><label>Ruinous Architecture (9)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FD4766" /></surface><surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa04"><label>Ruinous Architecture (10)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9761" /></surface><surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa06"><label>Ruinous Architecture (11)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9762" /></surface><surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10802d63806345fadaa08"><label>Ruinous Architecture (12)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9763" /></surface></facsimile></TEI>

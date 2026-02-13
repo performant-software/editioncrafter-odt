@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c70dca1457464989a9cd9f"><titleStmt><title>Scenographiae Siue Perspectiuae</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628e71180e54c36bfb169b2b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7076f66fec9e00edcb98" ref="http://vocab.getty.edu/page/ulan/500006358">Vredeman de Vries, Hans (1527-ca.1606)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6838bb5cb575bda8eeb31143"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3e62ec44106814725c81" ref="http://vocab.getty.edu/page/ulan/500055788">Doetechum, Lucas van (active 1554-before 1584)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3ec8e8e045569ddf40b5" ref="http://vocab.getty.edu/page/ulan/500005618">Cock, Hieronymus (ca. 1510-1570)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1560</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c70f6fdf978e1dafdca63e">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c70dca1457464989a9cd9f"><titleStmt><title>Scenographiae Siue Perspectiuae</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628e71180e54c36bfb169b2b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7076f66fec9e00edcb98" ref="http://vocab.getty.edu/page/ulan/500006358">Vredeman de Vries, Hans (1527-ca.1606)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6838bb5cb575bda8eeb31143"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3e62ec44106814725c81" ref="http://vocab.getty.edu/page/ulan/500055788">Doetechum, Lucas van (active 1554-before 1584)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3ec8e8e045569ddf40b5" ref="http://vocab.getty.edu/page/ulan/500005618">Cock, Hieronymus (ca. 1510-1570)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1560</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c70f6fdf978e1dafdca63e">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O631731/scenographiae-siue-perspectiuae-print-hans-vredeman-de/</idno>
@@ -704,32 +703,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c70f8f1e1b2d76ae056ca2">
-			<label>Scenographiae Siue … (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62c70f8f1e1b2d76ae056ca2/files/2013GA6593.jpg"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c716e01457464989a9cda0">
-			<label>Scenographiae Siue … (2)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/a9cd/62c716e01457464989a9cda0/files/2013GA6592.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>'SCENOGRAPHIAE, / SVIE . PERSPECTIVAE / .... / em la maison de Hieronymous Cock. / Auec Priuilege du Roy pour six ans. / 1560.'</p>
-			</div>
-			<pb facs="#f0002"/>
-			<div facs="#f0002">
-				<p>'MAGNO AC VENERABILI HEROI, D: / D. ANTONIO PERRENOTO: / .... / HIERONYMOUS COCK, PICTOR, DEVOTISSIME DEDICABAT.'</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>'SCENOGRAPHIAE, / SVIE . PERSPECTIVAE / .... / em la maison de Hieronymous Cock. / Auec Priuilege du Roy pour six ans. / 1560.'</p></div><pb facs="#f0002" /><div facs="#f0002"><p>'MAGNO AC VENERABILI HEROI, D: / D. ANTONIO PERRENOTO: / .... / HIERONYMOUS COCK, PICTOR, DEVOTISSIME DEDICABAT.'</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c70f8f1e1b2d76ae056ca2"><label>Scenographiae Siue … (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62c70f8f1e1b2d76ae056ca2/files/2013GA6593.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c716e01457464989a9cda0"><label>Scenographiae Siue … (2)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/a9cd/62c716e01457464989a9cda0/files/2013GA6592.jpg" /></surface></facsimile></TEI>

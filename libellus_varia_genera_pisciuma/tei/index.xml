@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b229b575bda8eeb30e64"><titleStmt><title>Libellus varia genera piscium.A</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3917c932a51b480a830a" ref="http://vocab.getty.edu/page/ulan/500018647">Visscher, Claes Jansz (ca. 1550-ca. 1612)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d2c7ee18a0a798d499656">Amsterdam</pubPlace><date>1581-1652</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f364eb575bda8eeb31333">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b229b575bda8eeb30e64"><titleStmt><title>Libellus varia genera piscium.A</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3917c932a51b480a830a" ref="http://vocab.getty.edu/page/ulan/500018647">Visscher, Claes Jansz (ca. 1550-ca. 1612)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d2c7ee18a0a798d499656">Amsterdam</pubPlace><date>1581-1652</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f364eb575bda8eeb31333">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">https://id.rijksmuseum.nl/200167515</idno>
@@ -697,21 +696,12 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f3659b575bda8eeb31334">
-			<label>Libellus varia gene… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f3659b575bda8eeb31334/files/image/RP-P-OB-6253.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<div/>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Libellus varia 
+GENERA PISCIUM
+COMPLECTENS 
+Pictoribus, Sculptoribus, 
+celatoribus, aurifaris etc
+mire utilis et necessarius. 
+
+NIcolaes de Bruyn inventor. 
+Claes IanB. BiBcher excudit. </p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f3659b575bda8eeb31334"><label>Libellus varia gene… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f3659b575bda8eeb31334/files/image/RP-P-OB-6253.jpg" /></surface></facsimile></TEI>

@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62d062927888d53e2d61e8f1"><titleStmt><title>Pictores, statuarii, architecti, latomi et quicunque principum magnificorum</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628e71180e54c36bfb169b2b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7076f66fec9e00edcb98" ref="http://vocab.getty.edu/page/ulan/500006358">Vredeman de Vries, Hans (1527-ca.1606)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d6989ec44106814725c89" ref="http://vocab.getty.edu/page/ulan/500016136">Galle, Philip (1537-1612)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1563 or later</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62d062eab60d4d838949a73f">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62d062927888d53e2d61e8f1"><titleStmt><title>Pictores, statuarii, architecti, latomi et quicunque principum magnificorum</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628e71180e54c36bfb169b2b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7076f66fec9e00edcb98" ref="http://vocab.getty.edu/page/ulan/500006358">Vredeman de Vries, Hans (1527-ca.1606)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d6989ec44106814725c89" ref="http://vocab.getty.edu/page/ulan/500016136">Galle, Philip (1537-1612)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1563 or later</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62d062eab60d4d838949a73f">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855df999dbcdc74b40b639">The British Museum</institution>
                         <idno type="URI">https://www.britishmuseum.org/collection/object/P_1933-0614-33-127</idno>
@@ -703,24 +702,6 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62d062f73eaeb7518519e630">
-			<label>Pictores, statuarii… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/19e6/62d062f73eaeb7518519e630/files/BM_044.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>"Pictores, statuarii, architecti, latomi et quicunque principum magnificorum (...) uarias Coenotaphiorum, tumulorum &amp; mortuorum monumentorum formas (...)."</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>"Pictores, statuarii, architecti, latomi et quicunque principum magnificorum (...) uarias Coenotaphiorum, tumulorum &amp; mortuorum monumentorum formas (...)." 
+
+</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62d062f73eaeb7518519e630"><label>Pictores, statuarii… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/19e6/62d062f73eaeb7518519e630/files/BM_044.jpg" /></surface></facsimile></TEI>

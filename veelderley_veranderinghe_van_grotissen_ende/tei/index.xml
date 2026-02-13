@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628d60aee18a0a798d49965d"><titleStmt><title>Veelderley Veranderinghe van grotissen ende</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d31764afc6c8cf96e212b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628557f674d5f7a229b60522" ref="http://vocab.getty.edu/page/ulan/500011287">Floris, Cornelis, II (ca. 1513-1514-1575)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1556</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d6233c932a51b480a8314">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628d60aee18a0a798d49965d"><titleStmt><title>Veelderley Veranderinghe van grotissen ende</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d31764afc6c8cf96e212b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628557f674d5f7a229b60522" ref="http://vocab.getty.edu/page/ulan/500011287">Floris, Cornelis, II (ca. 1513-1514-1575)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1556</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d6233c932a51b480a8314">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O977190/veelderley-veranderinghe-van-grotissen-ende-print-floris-cornelis-ii/</idno>
@@ -952,75 +951,16 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d627be18a0a798d49965e">
-			<label>Veelderley Verander… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/4996/628d627be18a0a798d49965e/files/2011FB1568.jpg"/>
-		</surface>
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b14a3da12d491d55bfb">
-			<label>Veelderley Verander… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/FtaCh"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55bfe">
-			<label>Veelderley Verander… (2)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/XMtku"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c00">
-			<label>Veelderley Verander… (3)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/vQIqH"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c03">
-			<label>Veelderley Verander… (4)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/xQYuj"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c06">
-			<label>Veelderley Verander… (5)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/nctRk"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c09">
-			<label>Veelderley Verander… (6)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/UOWva"/>
-		</surface>
-		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0b">
-			<label>Veelderley Verander… (7)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/PSzKA"/>
-		</surface>
-		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0e">
-			<label>Veelderley Verander… (8)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/trvOT"/>
-		</surface>
-		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c10">
-			<label>Veelderley Verander… (9)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/haRAg"/>
-		</surface>
-		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c13">
-			<label>Veelderley Verander… (10)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/frOog"/>
-		</surface>
-		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c15">
-			<label>Veelderley Verander… (11)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/sxQgB"/>
-		</surface>
-		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c17">
-			<label>Veelderley Verander… (12)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/CoaMB"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Veelderley Veranderinghe van grotissen ende Compertimenten ghemaeckt tot dienste ban alle die de conste beminne ende ghebruiken ghedruckt by Hieronimus Cock. 1556. Cornelis Floris Inuetor. Libro primo. Cum. G. Et privilegio.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Many variations of grotesques and compartments made for the use of all those who love and use art. Printed by Hieronymus Cock 1556. Cornelis Floris invented. First book. With grace and privilege</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Veelderley Veranderinghe van grotissen ende Compertimenten ghemaeckt tot dienste ban alle die de conste beminne ende ghebruiken ghedruckt by Hieronimus Cock. 1556. Cornelis Floris Inuetor. Libro primo. 
+
+Cum. G. Et privilegio. 
+
+</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Many variations of grotesques and compartments made for the use of all those who love and use art. Printed by Hieronymus Cock
+
+1556. 
+
+Cornelis Floris invented. 
+
+First book.
+
+With grace and privilege</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d627be18a0a798d49965e"><label>Veelderley Verander… (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/FtaCh" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55bfe"><label>Veelderley Verander… (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/XMtku" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c00"><label>Veelderley Verander… (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/vQIqH" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c03"><label>Veelderley Verander… (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/xQYuj" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c06"><label>Veelderley Verander… (5)</label><graphic mimeType="application/json" url="https://iiif.micr.io/nctRk" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c09"><label>Veelderley Verander… (6)</label><graphic mimeType="application/json" url="https://iiif.micr.io/UOWva" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0b"><label>Veelderley Verander… (7)</label><graphic mimeType="application/json" url="https://iiif.micr.io/PSzKA" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c0e"><label>Veelderley Verander… (8)</label><graphic mimeType="application/json" url="https://iiif.micr.io/trvOT" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c10"><label>Veelderley Verander… (9)</label><graphic mimeType="application/json" url="https://iiif.micr.io/haRAg" /></surface><surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c13"><label>Veelderley Verander… (10)</label><graphic mimeType="application/json" url="https://iiif.micr.io/frOog" /></surface><surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c15"><label>Veelderley Verander… (11)</label><graphic mimeType="application/json" url="https://iiif.micr.io/sxQgB" /></surface><surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b15a3da12d491d55c17"><label>Veelderley Verander… (12)</label><graphic mimeType="application/json" url="https://iiif.micr.io/CoaMB" /></surface></facsimile></TEI>

@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c7411a4fcee0875717dfa7"><titleStmt><title>THU_Das New Thierbüchlein</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c740a71457464989a9cda8">Herman, Stephan (active 1568-1596)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c740f7df63f3484362c865">Ansbach</pubPlace><date>1594</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c741701e1b2d76ae056caa">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c7411a4fcee0875717dfa7"><titleStmt><title>THU_Das New Thierbüchlein</title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c740a71457464989a9cda8">Herman, Stephan (active 1568-1596)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c740f7df63f3484362c865">Ansbach</pubPlace><date>1594</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c741701e1b2d76ae056caa">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O783054/das-new-thierb%C3%BCchlein-print-martin-pleginck/das-new-thierb%C3%BCchlein-print-martin-pleginck/</idno>
@@ -860,52 +859,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c741a4e1bf230a69270e20">
-			<label>Das New Thierbüchle… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/270e/62c741a4e1bf230a69270e20/files/2013GL3545.jpg"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaab2">
-			<label>Das New Thierbüchle… (2)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3840"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaab5">
-			<label>Das New Thierbüchle… (3)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3841"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaab8">
-			<label>Das New Thierbüchle… (4)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3842"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaaba">
-			<label>Das New Thierbüchle… (5)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3843"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaabd">
-			<label>Das New Thierbüchle… (6)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3844"/>
-		</surface>
-		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaac0">
-			<label>Das New Thierbüchle… (7)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3845"/>
-		</surface>
-		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaac3">
-			<label>Das New Thierbüchle… (8)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3846"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>NEU THIERBÜECHLEIN GEMACHT UND GEDRUCKT IN DER FURSTLICHEN STATT ONNOTBACH BEY STEPHANN HERMANN BURGER UND GOLDSCHMIDT DASELBSTEN Martḡ Pleginck fecit 1594 MP</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>NEU THIERBÜECHLEIN GEMACHT UND GEDRUCKT IN DER FURSTLICHEN STATT ONNOTBACH BEY STEPHANN HERMANN BURGER UND GOLDSCHMIDT DASELBSTEN Martḡ Pleginck fecit 1594 MP</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c741a4e1bf230a69270e20"><label>Das New Thierbüchle… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/270e/62c741a4e1bf230a69270e20/files/2013GL3545.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaab2"><label>Das New Thierbüchle… (2)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3840" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaab5"><label>Das New Thierbüchle… (3)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3841" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaab8"><label>Das New Thierbüchle… (4)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3842" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaaba"><label>Das New Thierbüchle… (5)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3843" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaabd"><label>Das New Thierbüchle… (6)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3844" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaac0"><label>Das New Thierbüchle… (7)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3845" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10806d63806345fadaac3"><label>Das New Thierbüchle… (8)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC3846" /></surface></facsimile></TEI>

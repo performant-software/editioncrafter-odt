@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68236729b0d2dfe1b80c9e77"><titleStmt><title>Kunstbüchlein (1572 edition)</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c87d7fdf978e1dafdca64a"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c87d411e1b2d76ae056cb3" ref="http://vocab.getty.edu/page/ulan/500029686">Vogtherr, Heinrich, the elder (1490-1556)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/682366d7b0d2dfe1b80c9e75">Müller, Christian </publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c881351457464989a9cdb2">Strasbourg</pubPlace><date>1572</date></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/62855b05678b183c0ce47c4f">German</term></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/68236729b0d2dfe1b80c9e77"><titleStmt><title>Kunstbüchlein (1572 edition)</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c87d7fdf978e1dafdca64a"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c87d411e1b2d76ae056cb3" ref="http://vocab.getty.edu/page/ulan/500029686">Vogtherr, Heinrich, the elder (1490-1556)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/682366d7b0d2dfe1b80c9e75">Müller, Christian </publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c881351457464989a9cdb2">Strasbourg</pubPlace><date>1572</date></publicationStmt><sourceDesc></sourceDesc></fileDesc><profileDesc><textClass><keywords><term type="school" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/62855b05678b183c0ce47c4f">German</term></keywords></textClass><langUsage></langUsage></profileDesc><encodingDesc>
 <classDecl>
 <taxonomy xml:id="motifs">
 <bibl>Ornamental Motifs</bibl>
@@ -690,16 +689,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints"/>
-	<text xml:id="transcription">
-		<body>
-			<div/>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><div></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"></facsimile></TEI>

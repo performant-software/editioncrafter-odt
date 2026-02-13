@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cd90f74fcee0875717dfbe"><titleStmt><title>THU_Designs for Box Lids</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62be57ebaa79b4baa9fcbd1d">Nuremberg</pubPlace><date>1602</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cd91601e1b2d76ae056cc4">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cd90f74fcee0875717dfbe"><titleStmt><title>THU_Designs for Box Lids</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62be57ebaa79b4baa9fcbd1d">Nuremberg</pubPlace><date>1602</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cd91601e1b2d76ae056cc4">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O976779/engraving-heinrich-ulrich/</idno>
@@ -775,48 +774,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cd91a51e1b2d76ae056cc5">
-			<label>Designs for Box Lids (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62cd91a51e1b2d76ae056cc5/files/2011FC8135.jpg"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9aa">
-			<label>Designs for Box Lids (2)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9740"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9ac">
-			<label>Designs for Box Lids (3)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8136"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9ae">
-			<label>Designs for Box Lids (4)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8138"/>
-		</surface>
-		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9b0">
-			<label>Designs for Box Lids (5)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8137"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9b2">
-			<label>Designs for Box Lids (6)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8139"/>
-		</surface>
-		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9b4">
-			<label>Designs for Box Lids (9)</label>
-			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9739"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>'HEINRICH / VLRICH / Normbergae / Sculp: &amp; / excubit / 1 . 6 . 0 . 2 .'</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>'HEINRICH / VLRICH / Normbergae / Sculp: &amp; / excubit / 1 . 6 . 0 . 2 .'</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cd91a51e1b2d76ae056cc5"><label>Designs for Box Lids (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62cd91a51e1b2d76ae056cc5/files/2011FC8135.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9aa"><label>Designs for Box Lids (2)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9740" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9ac"><label>Designs for Box Lids (3)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8136" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9ae"><label>Designs for Box Lids (4)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8138" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9b0"><label>Designs for Box Lids (5)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8137" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9b2"><label>Designs for Box Lids (6)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC8139" /></surface><surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10800d63806345fada9b4"><label>Designs for Box Lids (9)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FC9739" /></surface></facsimile></TEI>

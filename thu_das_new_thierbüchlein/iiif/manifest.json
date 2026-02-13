@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,50 +47,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -107,7 +107,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -123,21 +123,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:2",
-				"Link": "https://collections.vam.ac.uk/item/O976638",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976638"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -154,7 +153,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -170,21 +169,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:3",
-				"Link": "https://collections.vam.ac.uk/item/O976637",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976637"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -201,7 +199,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -217,21 +215,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:4",
-				"Link": "https://collections.vam.ac.uk/item/O976636",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976636"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -248,7 +245,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -264,21 +261,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:5",
-				"Link": "https://collections.vam.ac.uk/item/O976635",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976635"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -295,7 +291,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -311,21 +307,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:6",
-				"Link": "https://collections.vam.ac.uk/item/O976634",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976634"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -342,7 +337,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -358,21 +353,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:7",
-				"Link": "https://collections.vam.ac.uk/item/O976633",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976633"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -389,7 +383,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_das_new_thierbüchlein/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_das_new_thierbüchlein/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -405,8 +399,7 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "29234:8",
-				"Link": "https://collections.vam.ac.uk/item/O976632",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O976632"
 			}
 		}
 	],

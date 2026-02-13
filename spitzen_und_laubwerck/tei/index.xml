@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628561dc6fe7cd3d2468e045"><titleStmt><title>Spitzen und Laubwerck</title></titleStmt><publicationStmt><date>1589</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628562c36e6e14a1c81bf9cc" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628561dc6fe7cd3d2468e045"><titleStmt><title>Spitzen und Laubwerck</title></titleStmt><publicationStmt><date>1589</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628562c36e6e14a1c81bf9cc" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O837233/print-theodor-de-bry/</idno>
@@ -736,27 +735,14 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628562d96fe7cd3d2468e046">
-			<label>Spitzen und Laubwer… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/68e0/628562d96fe7cd3d2468e046/files/2011FA7650.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>SPITZĒ UND LAUBWERCK, FUR DIE GOLTSCHMIT Grotis et point pour graver Bassin aeigir tass et sallir pour les orfevre et aultre artissien 1589 Theodore de Brÿ. fecit et excu</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Lace and foliage, for the goldsmith Grotesques and stitches for engraving basins, working cups and raising for goldsmiths and other artisans 1589 Made and published by Theodore de Brÿ</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>SPITZĒ UND LAUBWERCK, FUR DIE GOLTSCHMIT
+
+Grotis et point pour graver Bassin aeigir tass et sallir pour les orfevre et aultre artissien
+
+1589
+
+Theodore de Brÿ. fecit et excu</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Lace and foliage, for the goldsmith
+Grotesques and stitches for engraving basins, working cups and raising for goldsmiths and other artisans 
+1589
+
+Made and published by Theodore de Brÿ</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628562d96fe7cd3d2468e046"><label>Spitzen und Laubwer… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/68e0/628562d96fe7cd3d2468e046/files/2011FA7650.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10801d63806345fada9d4"><label>Spitzen und Laubwer… (2)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FA7649" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10801d63806345fada9d6"><label>Spitzen und Laubwer… (3)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FA7648" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10801d63806345fada9d8"><label>Spitzen und Laubwer… (4)</label><graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FA7647" /></surface></facsimile></TEI>

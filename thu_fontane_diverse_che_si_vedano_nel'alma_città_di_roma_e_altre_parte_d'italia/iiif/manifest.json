@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,34 +47,34 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -82,20 +82,20 @@
 			"metadata": {
 				"Institution": "The British Museum",
 				"Identifier": "1941,1213.677.1",
-				"Link": "https://www.britishmuseum.org/collection/object/P_1941-1213-677-1"
+				"URI": "https://www.britishmuseum.org/collection/object/P_1941-1213-677-1"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -112,7 +112,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -128,21 +128,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:5",
-				"Link": "https://collections.vam.ac.uk/item/O675288",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675288"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -159,7 +158,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -175,21 +174,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:21",
-				"Link": "https://collections.vam.ac.uk/item/O675272",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675272"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -206,7 +204,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -222,21 +220,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:16",
-				"Link": "https://collections.vam.ac.uk/item/O675277",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675277"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -253,7 +250,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -269,21 +266,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:6",
-				"Link": "https://collections.vam.ac.uk/item/O675287",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675287"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -300,7 +296,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -316,21 +312,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:2",
-				"Link": "https://collections.vam.ac.uk/item/O675291",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675291"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -347,7 +342,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -363,21 +358,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:20",
-				"Link": "https://collections.vam.ac.uk/item/O675273",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675273"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -394,7 +388,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -410,21 +404,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "28278:9",
-				"Link": "https://collections.vam.ac.uk/item/O619193",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O619193"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -441,7 +434,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -457,21 +450,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "17393",
-				"Link": "https://collections.vam.ac.uk/item/O655860",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O655860"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -488,7 +480,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -504,21 +496,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:19",
-				"Link": "https://collections.vam.ac.uk/item/O675274",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675274"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -535,7 +526,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -551,21 +542,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:13",
-				"Link": "https://collections.vam.ac.uk/item/O675280",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675280"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -582,7 +572,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -598,21 +588,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "28278:8",
-				"Link": "https://collections.vam.ac.uk/item/O619194",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O619194"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -629,7 +618,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -645,21 +634,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:17",
-				"Link": "https://collections.vam.ac.uk/item/O675276",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675276"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -676,7 +664,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -692,21 +680,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:11",
-				"Link": "https://collections.vam.ac.uk/item/O675282",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675282"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -723,7 +710,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -739,21 +726,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:8",
-				"Link": "https://collections.vam.ac.uk/item/O675285",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675285"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -770,7 +756,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -786,21 +772,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:1",
-				"Link": "https://collections.vam.ac.uk/item/O675292",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675292"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -817,7 +802,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -833,21 +818,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:14",
-				"Link": "https://collections.vam.ac.uk/item/O675279",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675279"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -864,7 +848,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -880,21 +864,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:12",
-				"Link": "https://collections.vam.ac.uk/item/O675281",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675281"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -911,7 +894,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0027"
 						}
 					]
 				}
@@ -927,21 +910,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:9",
-				"Link": "https://collections.vam.ac.uk/item/O675284",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675284"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -958,7 +940,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0028"
 						}
 					]
 				}
@@ -974,21 +956,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:4",
-				"Link": "https://collections.vam.ac.uk/item/O675289",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675289"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1005,7 +986,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0029"
 						}
 					]
 				}
@@ -1021,21 +1002,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:15",
-				"Link": "https://collections.vam.ac.uk/item/O675278",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675278"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1052,7 +1032,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_fontane_diverse_che_si_vedano_nel'alma_città_di_roma_e_altre_parte_d'italia/iiif/canvas/f0030"
 						}
 					]
 				}
@@ -1068,8 +1048,7 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "13256:10",
-				"Link": "https://collections.vam.ac.uk/item/O675283",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O675283"
 			}
 		}
 	],

@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62be51d655d3f58e54594844"><titleStmt><title>THU_Livre de taille d'épargne et d'orfeverie</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e9a7b575bda8eeb30f2f"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e9a3b575bda8eeb30f2e">Anonymous </name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62bf39885e4f5846848f8c55">Anonymous</publisher><date>ca.1600 - ca.1699</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62be52b155d3f58e54594845" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62be51d655d3f58e54594844"><titleStmt><title>THU_Livre de taille d'épargne et d'orfeverie</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6835e9a7b575bda8eeb30f2f"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835e9a3b575bda8eeb30f2e">Anonymous </name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62bf39885e4f5846848f8c55">Anonymous</publisher><date>ca.1600 - ca.1699</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62be52b155d3f58e54594845" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">https://id.rijksmuseum.nl/200477066</idno>
@@ -736,39 +735,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62be52c22d38b026ba057e5b">
-			<label>Livre de taille d'é… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/OsRKH"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab6d142edaff5f08938">
-			<label>Livre de taille d'é… (2)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/x"/>
-		</surface>
-		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab6d142edaff5f0893a">
-			<label>Livre de taille d'é… (3)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/QmCiF"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab6d142edaff5f0893c">
-			<label>Livre de taille d'é… (4)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/UzliE"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Livre de taille depargne et d'orfeverie ou sont enseignee les principes de la taille d'epargne. Inventee et gravee par.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Book of taille d'épargne and goldsmithing, in which the principles of taille d'épargne are taught. Invented and engraved by</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Livre de taille depargne et d'orfeverie ou sont enseignee les principes de la taille d'epargne. Inventee et gravee par.</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Book of taille d'épargne and goldsmithing, in which the principles of taille d'épargne are taught. Invented and engraved by</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62be52c22d38b026ba057e5b"><label>Livre de taille d&#x27;é… (Title Page)</label><graphic mimeType="application/json" url="https://iiif.micr.io/OsRKH" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab6d142edaff5f08938"><label>Livre de taille d&#x27;é… (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/x" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab6d142edaff5f0893a"><label>Livre de taille d&#x27;é… (3)</label><graphic mimeType="application/json" url="https://iiif.micr.io/QmCiF" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68b75ab6d142edaff5f0893c"><label>Livre de taille d&#x27;é… (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/UzliE" /></surface></facsimile></TEI>
