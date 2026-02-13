@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,60 +47,60 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -108,21 +108,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1907-5314",
-				"Link": "https://id.rijksmuseum.nl/200485181",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200485181"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -139,7 +138,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//ars_his_myronis_nobilis_effingitur_pagellulis/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -155,8 +154,7 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1906-359",
-				"Link": "https://id.rijksmuseum.nl/200434624",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200434624"
 			}
 		}
 	],

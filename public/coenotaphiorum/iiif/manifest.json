@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,60 +47,60 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -108,21 +108,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-1",
-				"Link": "https://id.rijksmuseum.nl/200623659",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623659"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -139,7 +138,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -155,21 +154,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-2",
-				"Link": "https://id.rijksmuseum.nl/200623666",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623666"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -186,7 +184,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -202,21 +200,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-3",
-				"Link": "https://id.rijksmuseum.nl/200623795",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623795"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -233,7 +230,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -249,21 +246,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-4",
-				"Link": "https://id.rijksmuseum.nl/200623798",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623798"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -280,7 +276,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -296,21 +292,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-5",
-				"Link": "https://id.rijksmuseum.nl/200623800",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623800"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -327,7 +322,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -343,21 +338,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-6",
-				"Link": "https://id.rijksmuseum.nl/200623801",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623801"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -374,7 +368,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -390,21 +384,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-7",
-				"Link": "https://id.rijksmuseum.nl/200623810",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623810"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -421,7 +414,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -437,21 +430,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-8",
-				"Link": "https://id.rijksmuseum.nl/200623813",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623813"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -468,7 +460,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -484,21 +476,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-9",
-				"Link": "https://id.rijksmuseum.nl/200623815",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623815"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -515,7 +506,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -531,21 +522,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-10",
-				"Link": "https://id.rijksmuseum.nl/200623820",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623820"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -562,7 +552,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -578,21 +568,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-11",
-				"Link": "https://id.rijksmuseum.nl/200623823",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623823"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -609,7 +598,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -625,21 +614,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-12",
-				"Link": "https://id.rijksmuseum.nl/200623845",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623845"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -656,7 +644,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -672,21 +660,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-13",
-				"Link": "https://id.rijksmuseum.nl/200623855",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623855"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -703,7 +690,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -719,21 +706,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-14",
-				"Link": "https://id.rijksmuseum.nl/200623857",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623857"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -750,7 +736,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -766,21 +752,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-15",
-				"Link": "https://id.rijksmuseum.nl/200623859",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623859"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -797,7 +782,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -813,21 +798,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-16",
-				"Link": "https://id.rijksmuseum.nl/200623864",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623864"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -844,7 +828,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -860,21 +844,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-17",
-				"Link": "https://id.rijksmuseum.nl/200623865",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623865"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -891,7 +874,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -907,21 +890,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-18",
-				"Link": "https://id.rijksmuseum.nl/200623867",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623867"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -938,7 +920,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -954,21 +936,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-19",
-				"Link": "https://id.rijksmuseum.nl/200623869",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623869"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -985,7 +966,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -1001,21 +982,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-20",
-				"Link": "https://id.rijksmuseum.nl/200623873",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623873"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1032,7 +1012,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -1048,21 +1028,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-21",
-				"Link": "https://id.rijksmuseum.nl/200623876",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623876"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0022",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0022/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1079,7 +1058,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0022"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -1095,21 +1074,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-22",
-				"Link": "https://id.rijksmuseum.nl/200623882",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623882"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1126,7 +1104,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -1142,21 +1120,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-23",
-				"Link": "https://id.rijksmuseum.nl/200623884",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623884"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1173,7 +1150,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -1189,21 +1166,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-24",
-				"Link": "https://id.rijksmuseum.nl/200623888",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623888"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1220,7 +1196,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -1236,21 +1212,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-25",
-				"Link": "https://id.rijksmuseum.nl/200623890",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623890"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1267,7 +1242,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/coenotaphiorum/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt//coenotaphiorum/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -1283,8 +1258,7 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "BI-1897-969-26",
-				"Link": "https://id.rijksmuseum.nl/200623894",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200623894"
 			}
 		}
 	],

@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -1361,60 +1361,60 @@
 					}
 				},
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -1422,21 +1422,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6159",
-				"Link": "https://id.rijksmuseum.nl/200484586",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484586"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1453,7 +1452,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -2422,21 +2421,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12624",
-				"Link": "https://id.rijksmuseum.nl/200430154",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430154"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2453,7 +2451,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -6124,21 +6122,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12626",
-				"Link": "https://id.rijksmuseum.nl/200430156",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430156"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -6155,7 +6152,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -7719,21 +7716,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12623",
-				"Link": "https://id.rijksmuseum.nl/200430153",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430153"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -7750,7 +7746,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -9419,21 +9415,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12627",
-				"Link": "https://id.rijksmuseum.nl/200430157",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430157"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -9450,7 +9445,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -11432,21 +11427,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12615",
-				"Link": "https://id.rijksmuseum.nl/200430145",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430145"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -11463,7 +11457,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -13322,21 +13316,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6160",
-				"Link": "https://id.rijksmuseum.nl/200484617",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484617"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -13353,7 +13346,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -13769,21 +13762,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12629",
-				"Link": "https://id.rijksmuseum.nl/200430159",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430159"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -13800,7 +13792,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -16875,21 +16867,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6161",
-				"Link": "https://id.rijksmuseum.nl/200484619",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484619"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -16906,7 +16897,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -18830,21 +18821,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6162",
-				"Link": "https://id.rijksmuseum.nl/200484620",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484620"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -18861,7 +18851,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -20198,21 +20188,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6163",
-				"Link": "https://id.rijksmuseum.nl/200484621",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484621"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -20229,7 +20218,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -22104,21 +22093,20 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-OB-6164",
-				"Link": "https://id.rijksmuseum.nl/200484623",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200484623"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -22135,7 +22123,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -24364,8 +24352,7 @@
 			"metadata": {
 				"Institution": "Rijksmuseum",
 				"Identifier": "RP-P-1888-A-12628",
-				"Link": "https://id.rijksmuseum.nl/200430158",
-				"Permissions": "(PDM 1.0)"
+				"URI": "https://id.rijksmuseum.nl/200430158"
 			}
 		}
 	],

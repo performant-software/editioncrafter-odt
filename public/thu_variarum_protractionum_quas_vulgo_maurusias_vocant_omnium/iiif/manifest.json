@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,76 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/translation/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/translation/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +133,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -149,21 +149,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3365-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755171",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755171"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -180,7 +179,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -196,21 +195,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3366-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755170",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755170"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -227,7 +225,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -243,21 +241,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3368-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755169",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755169"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -274,7 +271,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -290,21 +287,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3369-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755168",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755168"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -321,7 +317,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -337,21 +333,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3370-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755167",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755167"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -368,7 +363,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -384,21 +379,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3371-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755166",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755166"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -415,7 +409,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -431,21 +425,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3372-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755165",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755165"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -462,7 +455,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -478,21 +471,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3373-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755164",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755164"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -509,7 +501,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -525,21 +517,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3374-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755163",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755163"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -556,7 +547,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -572,21 +563,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3375-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755162",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755162"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -603,7 +593,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -619,21 +609,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3376-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755161",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755161"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -650,7 +639,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -666,21 +655,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3377-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755160",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755160"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -697,7 +685,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -713,21 +701,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3371-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755166",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755166"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -744,7 +731,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -760,21 +747,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3372-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755165",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755165"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -791,7 +777,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -807,21 +793,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3373-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755164",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755164"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -838,7 +823,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -854,21 +839,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3374-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755163",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755163"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -885,7 +869,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -901,21 +885,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3375-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755162",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755162"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -932,7 +915,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -948,21 +931,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3376-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755161",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755161"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -979,7 +961,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -995,8 +977,7 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.3377-1928",
-				"Link": "https://collections.vam.ac.uk/item/O755160",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O755160"
 			}
 		}
 	],

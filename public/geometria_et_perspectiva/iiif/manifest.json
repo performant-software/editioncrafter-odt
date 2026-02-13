@@ -3,37 +3,37 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/c10b/62cde009d239c61723c10b27/files/G363II001.jpg",
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/718394/1674517/main-image",
 								"format": "image/jpeg",
 								"type": "Image",
 								"height": 800,
 								"width": 1000,
 								"service": [
 									{
-										"id": "https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/c10b/62cde009d239c61723c10b27/files/G363II001.jpg",
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/718394/1674517/main-image",
 										"type": "ImageService2",
 										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -45,62 +45,108 @@
 					"Geometria et Perspe… (Title Page)"
 				]
 			},
-			"annotations": [
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.1",
+				"URI": "https://www.metmuseum.org/art/collection/search/718394"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002",
+			"type": "Canvas",
+			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (2)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/tei/transcription/f0002.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/tei/transcription/f0002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/tei/translation/f0002.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/tei/translation/f0002.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/html/transcription/f0002.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/html/transcription/f0002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/html/translation/f0002.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/html/translation/f0002.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/geometria_et_perspectiva/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -108,8 +154,513 @@
 			"metadata": {
 				"Institution": "The Metropolitan Museum of Art",
 				"Identifier": "1984.1085.2",
-				"Link": "https://www.metmuseum.org/art/collection/search/718398",
-				"Permissions": "CC0 1.0 Universal"
+				"URI": "https://www.metmuseum.org/art/collection/search/718398"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0003"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (3)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.3",
+				"URI": "https://www.metmuseum.org/art/collection/search/718399"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0004"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (4)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.4",
+				"URI": "https://www.metmuseum.org/art/collection/search/718400"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0005"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (5)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.5",
+				"URI": "https://www.metmuseum.org/art/collection/search/339011"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0006"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (6)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.6",
+				"URI": "https://www.metmuseum.org/art/collection/search/718401"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0007"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (7)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.7",
+				"URI": "https://www.metmuseum.org/art/collection/search/718402"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0008"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (8)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.8",
+				"URI": "https://www.metmuseum.org/art/collection/search/718403"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0009"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (9)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.9",
+				"URI": "https://www.metmuseum.org/art/collection/search/718404"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0010"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (10)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.10",
+				"URI": "https://www.metmuseum.org/art/collection/search/718405"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0011"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (11)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.11",
+				"URI": "https://www.metmuseum.org/art/collection/search/718406"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0012",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0012/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0012"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (12)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.12",
+				"URI": "https://www.metmuseum.org/art/collection/search/718407"
+			}
+		},
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0013",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0013/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt//geometria_et_perspectiva/iiif/canvas/f0013"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Geometria et Perspe… (13)"
+				]
+			},
+			"annotations": [],
+			"metadata": {
+				"Institution": "The Metropolitan Museum of Art",
+				"Identifier": "1984.1085.1–.13",
+				"URI": "https://www.metmuseum.org/art/collection/search/433659"
 			}
 		}
 	],

@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000"
 						}
 					]
 				}
@@ -3444,76 +3444,76 @@
 					}
 				},
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/tei/transcription/f000.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/tei/transcription/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/tei/translation/f000.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/tei/translation/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationPage/1/annotation/2",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/html/transcription/f000.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/html/transcription/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000/annotationPage/1/annotation/3",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/html/translation/f000.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/html/translation/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f000"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f000"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -3530,7 +3530,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f001"
 						}
 					]
 				}
@@ -5868,16 +5868,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -5894,7 +5894,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f002"
 						}
 					]
 				}
@@ -7804,16 +7804,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -7830,7 +7830,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f003"
 						}
 					]
 				}
@@ -10172,16 +10172,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -10198,7 +10198,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f004"
 						}
 					]
 				}
@@ -13487,16 +13487,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -13513,7 +13513,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f005"
 						}
 					]
 				}
@@ -16109,16 +16109,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -16135,7 +16135,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f006"
 						}
 					]
 				}
@@ -19080,16 +19080,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -19106,7 +19106,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f007"
 						}
 					]
 				}
@@ -21194,16 +21194,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -21220,7 +21220,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f008"
 						}
 					]
 				}
@@ -24448,16 +24448,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -24474,7 +24474,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f009"
 						}
 					]
 				}
@@ -27346,16 +27346,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -27372,7 +27372,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f010"
 						}
 					]
 				}
@@ -30754,16 +30754,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -30780,7 +30780,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f011"
 						}
 					]
 				}
@@ -34054,16 +34054,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f012",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -34080,7 +34080,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f012"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f012"
 						}
 					]
 				}
@@ -35907,16 +35907,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f013",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -35933,7 +35933,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f013"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f013"
 						}
 					]
 				}
@@ -39148,16 +39148,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -39174,7 +39174,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f014"
 						}
 					]
 				}
@@ -42653,16 +42653,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f015",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -42679,7 +42679,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f015"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f015"
 						}
 					]
 				}
@@ -46062,16 +46062,16 @@
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f016",
+			"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -46088,7 +46088,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/caryatidum/iiif/canvas/f016"
+							"target": "https://performant-software.github.io/editioncrafter-odt//caryatidum/iiif/canvas/f016"
 						}
 					]
 				}

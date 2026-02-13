@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,50 +47,50 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -107,7 +107,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -123,21 +123,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:2-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920795",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920795"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -154,7 +153,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -170,21 +169,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:3-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920794",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920794"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -201,7 +199,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -217,21 +215,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:4-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920793",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920793"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -248,7 +245,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -264,21 +261,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:5-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920792",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920792"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -295,7 +291,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -311,21 +307,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:6-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920791",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920791"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -342,7 +337,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -358,21 +353,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:7-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920790",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920790"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -389,7 +383,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -405,21 +399,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:8-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920789",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920789"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -436,7 +429,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -452,21 +445,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:9-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920788",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920788"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -483,7 +475,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -499,21 +491,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:10-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920787",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920787"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -530,7 +521,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -546,21 +537,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:11-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920786",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920786"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -577,7 +567,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -593,21 +583,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:12-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920785",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920785"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -624,7 +613,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -640,21 +629,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:13-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920784",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920784"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -671,7 +659,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -687,21 +675,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:14-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920783",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920783"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -718,7 +705,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -734,21 +721,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:15-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920782",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920782"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -765,7 +751,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -781,21 +767,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:16-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920781",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920781"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -812,7 +797,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -828,21 +813,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:17-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920780",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920780"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -859,7 +843,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -875,21 +859,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:18-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920779",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920779"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -906,7 +889,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -922,21 +905,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:19-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920778",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920778"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -953,7 +935,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -969,21 +951,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:20-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920777",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920777"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1000,7 +981,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -1016,21 +997,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:21-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920776",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920776"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1047,7 +1027,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -1063,21 +1043,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:23-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920774",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920774"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1094,7 +1073,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -1110,21 +1089,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:24-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920773",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920773"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1141,7 +1119,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -1157,21 +1135,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:25-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920772",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920772"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1188,7 +1165,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -1204,21 +1181,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:26-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920771",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920771"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0027",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0027",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0027/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0027/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0027/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0027/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1235,7 +1211,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0027"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0027"
 						}
 					]
 				}
@@ -1251,21 +1227,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:27-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920770",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920770"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0028",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0028",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0028/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0028/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0028/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0028/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1282,7 +1257,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0028"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0028"
 						}
 					]
 				}
@@ -1298,21 +1273,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:28-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920769",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920769"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0029",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0029",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0029/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0029/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0029/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0029/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1329,7 +1303,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0029"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0029"
 						}
 					]
 				}
@@ -1345,21 +1319,20 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:29-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920768",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920768"
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0030",
+			"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0030",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0030/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0030/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0030/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0030/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1376,7 +1349,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt/thu_architectur/iiif/canvas/f0030"
+							"target": "https://performant-software.github.io/editioncrafter-odt//thu_architectur/iiif/canvas/f0030"
 						}
 					]
 				}
@@ -1392,8 +1365,7 @@
 			"metadata": {
 				"Institution": "The Victoria and Albert Museum",
 				"Identifier": "E.251:30-1893",
-				"Link": "https://collections.vam.ac.uk/item/O920767",
-				"Permissions": "© Victoria and Albert Museum, London"
+				"URI": "https://collections.vam.ac.uk/item/O920767"
 			}
 		}
 	],
