@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/manifest.json",
+	"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -1361,60 +1361,60 @@
 					}
 				},
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/tei/transcription/f0001.xml",
+								"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/tei/translation/f0001.xml",
+								"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/html/transcription/f0001.html",
+								"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/html/translation/f0001.html",
+								"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -1426,16 +1426,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1452,7 +1452,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -2425,16 +2425,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2451,7 +2451,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -6126,16 +6126,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -6152,7 +6152,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -7720,16 +7720,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -7746,7 +7746,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -9419,16 +9419,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -9445,7 +9445,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -11431,16 +11431,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -11457,7 +11457,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -13320,16 +13320,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -13346,7 +13346,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -13766,16 +13766,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -13792,7 +13792,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -16871,16 +16871,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -16897,7 +16897,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -18825,16 +18825,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -18851,7 +18851,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -20192,16 +20192,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -20218,7 +20218,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -22097,16 +22097,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014",
+			"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0",
+					"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -22123,7 +22123,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014"
+							"target": "http://localhost:8080/compertimenta_pictoriis_flosculis_manubiisque/iiif/canvas/f0014"
 						}
 					]
 				}

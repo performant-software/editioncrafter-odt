@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/manifest.json",
+	"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,76 +47,76 @@
 			},
 			"annotations": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/transcription/f0001.xml",
+								"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/translation/f0001.xml",
+								"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/tei/translation/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/2",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/2",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/transcription/f0001.html",
+								"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/3",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/translation/f0001.html",
+								"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/html/translation/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0001"
 						}
 					]
 				}
 			]
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -133,7 +133,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -153,16 +153,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -179,7 +179,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -199,16 +199,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -225,7 +225,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -245,16 +245,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -271,7 +271,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -291,16 +291,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -317,7 +317,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -337,16 +337,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -363,7 +363,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -383,16 +383,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -409,7 +409,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -429,16 +429,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -455,7 +455,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -475,16 +475,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -501,7 +501,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -521,16 +521,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -547,7 +547,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -567,16 +567,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -593,7 +593,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -613,16 +613,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -639,7 +639,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -659,16 +659,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -685,7 +685,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -705,16 +705,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -731,7 +731,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -751,16 +751,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -777,7 +777,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -797,16 +797,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -823,7 +823,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -843,16 +843,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -869,7 +869,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -889,16 +889,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -915,7 +915,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -935,16 +935,16 @@
 			}
 		},
 		{
-			"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024",
+			"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0",
+					"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -961,7 +961,7 @@
 									}
 								]
 							},
-							"target": "https://performant-software.github.io/editioncrafter-odt//thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024"
+							"target": "http://localhost:8080/thu_variarum_protractionum_quas_vulgo_maurusias_vocant_omnium/iiif/canvas/f0024"
 						}
 					]
 				}
