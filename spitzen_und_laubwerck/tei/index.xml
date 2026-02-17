@@ -742,6 +742,18 @@
 			<label>Spitzen und Laubwer… (Title Page)</label>
 			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/68e0/628562d96fe7cd3d2468e046/files/2011FA7650.jpg"/>
 		</surface>
+		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10801d63806345fada9d4">
+			<label>Spitzen und Laubwer… (2)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FA7649"/>
+		</surface>
+		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10801d63806345fada9d6">
+			<label>Spitzen und Laubwer… (3)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FA7648"/>
+		</surface>
+		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68f10801d63806345fada9d8">
+			<label>Spitzen und Laubwer… (4)</label>
+			<graphic mimeType="application/json" url="https://framemark.vam.ac.uk/collections/2011FA7647"/>
+		</surface>
 	</facsimile>
 	<text xml:id="transcription">
 		<body>
