@@ -78,12 +78,7 @@
 						}
 					]
 				}
-			],
-			"metadata": {
-				"Institution": "Rijksmuseum",
-				"Identifier": "RP-P-OB-8662",
-				"URI": "http://hdl.handle.net/10934/RM0001.COLLECT.177465"
-			}
+			]
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0002",
@@ -124,12 +119,7 @@
 					"Ruinous Architecture (2)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2854-1910",
-				"URI": "https://collections.vam.ac.uk/item/O782560"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0003",
@@ -170,12 +160,7 @@
 					"Ruinous Architecture (3)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2855-1910",
-				"URI": "https://collections.vam.ac.uk/item/O782559"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0004",
@@ -216,12 +201,7 @@
 					"Ruinous Architecture (4)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2856-1910",
-				"URI": "https://collections.vam.ac.uk/item/O782558"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0005",
@@ -262,12 +242,7 @@
 					"Ruinous Architecture (5)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2857-1910",
-				"URI": "https://collections.vam.ac.uk/item/O782557"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0006",
@@ -308,12 +283,7 @@
 					"Ruinous Architecture (6)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2858-1910",
-				"URI": "https://collections.vam.ac.uk/item/O39827"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0007",
@@ -354,12 +324,7 @@
 					"Ruinous Architecture (7)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2859-1910",
-				"URI": "https://collections.vam.ac.uk/item/O39823"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0008",
@@ -400,12 +365,7 @@
 					"Ruinous Architecture (8)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2860-1910",
-				"URI": "https://collections.vam.ac.uk/item/O782556"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0009",
@@ -446,12 +406,7 @@
 					"Ruinous Architecture (9)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2861-1910",
-				"URI": "https://collections.vam.ac.uk/item/O782555"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0010",
@@ -492,12 +447,7 @@
 					"Ruinous Architecture (10)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2862-1910",
-				"URI": "https://collections.vam.ac.uk/item/O112094"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0011",
@@ -538,12 +488,7 @@
 					"Ruinous Architecture (11)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2863-1910",
-				"URI": "https://collections.vam.ac.uk/item/O112096"
-			}
+			"annotations": []
 		},
 		{
 			"id": "http://localhost:8080/ruinous_architecture/iiif/canvas/f0012",
@@ -584,12 +529,7 @@
 					"Ruinous Architecture (12)"
 				]
 			},
-			"annotations": [],
-			"metadata": {
-				"Institution": "The Victoria and Albert Museum",
-				"Identifier": "E.2864-1910",
-				"URI": "https://collections.vam.ac.uk/item/O112070"
-			}
+			"annotations": []
 		}
 	],
 	"label": {

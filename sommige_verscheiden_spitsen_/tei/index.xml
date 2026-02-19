@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c63aa87fefb97c92ccc324"><titleStmt><title>Sommige verscheiden Spitsen </title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c63cca31243769dfa0a881">Sterterus, Joannes</publisher><date>ca. 1610</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c63b301457464989a9cd9a">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c63aa87fefb97c92ccc324"><titleStmt><title>Sommige verscheiden Spitsen </title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c63cca31243769dfa0a881">Sterterus, Joannes</publisher><date>ca. 1610</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c63b301457464989a9cd9a">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855df999dbcdc74b40b639">The British Museum</institution>
                         <idno type="URI">https://www.britishmuseum.org/collection/object/P_1928-1212-82</idno>
@@ -756,43 +755,9 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c63b457fefb97c92ccc325">
-			<label>Sommige verscheiden… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/ccc3/62c63b457fefb97c92ccc325/files/229558001.jpg"/>
-		</surface>
-		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55edc">
-			<label>Sommige verscheiden… (2)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/fJZcY"/>
-		</surface>
-		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55ede">
-			<label>Sommige verscheiden… (4)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/okEda"/>
-		</surface>
-		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55ee0">
-			<label>Sommige verscheiden… (6)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/TClqI"/>
-		</surface>
-		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55ee2">
-			<label>Sommige verscheiden… (8)</label>
-			<graphic mimeType="application/json" url="https://iiif.micr.io/DHEzf"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Sommige Verscheiden Spitsen dienstelick voor D'Ancomende Goudtsmits jeught Loūwe Ja m fe Ioannes Sterterus Excudit WDG. EXCU</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Some diverse lace patterns, useful for budding young goldsmiths. Leeuwarden. Engraved by Laurent Jansz Micker Published by Jan Jansz Starter Published by Wybrand de Geest</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Sommige Verscheiden Spitsen dienstelick voor D'Ancomende Goudtsmits jeught Loūwe Ja m fe
+Ioannes Sterterus Excudit 
+WDG. EXCU</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Some diverse lace patterns, useful for budding young goldsmiths. 
+Leeuwarden. Engraved by Laurent Jansz Micker
+Published by Jan Jansz Starter
+Published by Wybrand de Geest</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c63b457fefb97c92ccc325"><label>Sommige verscheiden… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/ccc3/62c63b457fefb97c92ccc325/files/229558001.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55edc"><label>Sommige verscheiden… (2)</label><graphic mimeType="application/json" url="https://iiif.micr.io/fJZcY" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55ede"><label>Sommige verscheiden… (4)</label><graphic mimeType="application/json" url="https://iiif.micr.io/okEda" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55ee0"><label>Sommige verscheiden… (6)</label><graphic mimeType="application/json" url="https://iiif.micr.io/TClqI" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b28a3da12d491d55ee2"><label>Sommige verscheiden… (8)</label><graphic mimeType="application/json" url="https://iiif.micr.io/DHEzf" /></surface></facsimile></TEI>
