@@ -913,6 +913,10 @@
 </classDecl>
 </encodingDesc></teiHeader>
 	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdc962044d75c41abe6d60">
+			<label>Differents Pourtrai… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/be6d/62cdc962044d75c41abe6d60/files/BM_032.jpg"/>
+		</surface>
 		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b1fa3da12d491d55d86">
 			<label>Differents Pourtrai… (Title Page)</label>
 			<graphic mimeType="application/json" url="https://iiif.micr.io/TEJas"/>

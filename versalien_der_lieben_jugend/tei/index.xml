@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c8658a1457464989a9cdb1"><titleStmt><title>Versalien der lieben Jugend</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c8631e4fcee0875717dfab"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c86255e1bf230a69270e25" ref="http://vocab.getty.edu/page/ulan/500323150">Neudörfer, Johann (1497-1563)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c8641631243769dfa0a89a" ref="https://www.britishmuseum.org/collection/term/BIOG142707">Hoffman, Johann (1629-1698)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62be57ebaa79b4baa9fcbd1d">Nuremberg</pubPlace><date>1550s</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c866301e1b2d76ae056cb1" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c8658a1457464989a9cdb1"><titleStmt><title>Versalien der lieben Jugend</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c8631e4fcee0875717dfab"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c86255e1bf230a69270e25" ref="http://vocab.getty.edu/page/ulan/500323150">Neudörfer, Johann (1497-1563)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c8641631243769dfa0a89a" ref="https://www.britishmuseum.org/collection/term/BIOG142707">Hoffman, Johann (1629-1698)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62be57ebaa79b4baa9fcbd1d">Nuremberg</pubPlace><date>1550s</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c866301e1b2d76ae056cb1" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">undefined</idno>
@@ -697,24 +696,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c866471e1b2d76ae056cb2">
-			<label>Versalien der liebe… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62c866471e1b2d76ae056cb2/files/VandA_031.png"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Johann Neudörffers des Eltern Gründliche Fundamental: und Circularische Austheillung und Aufreissung der alten Romanischen Versalien : der lieben Jugend zum besten: sonderlichen aber denen Schreibern, Mahlern, Bildhauern, Schreinern, Steinmetzen und allen andern Künstlern, so sich solcher Buchstaben bedienen und mit nutz gebrauchen können: zu sonderm Vortheil und belieben, ins Kupffer bringen lassen.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Johann Neudörffers des Eltern Gründliche Fundamental: und Circularische Austheillung und Aufreissung der alten Romanischen Versalien : der lieben Jugend zum besten: sonderlichen aber denen Schreibern, Mahlern, Bildhauern, Schreinern, Steinmetzen und allen andern Künstlern, so sich solcher Buchstaben bedienen und mit nutz gebrauchen können: zu sonderm Vortheil und belieben, ins Kupffer bringen lassen. </p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c866471e1b2d76ae056cb2"><label>Versalien der liebe… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/056c/62c866471e1b2d76ae056cb2/files/VandA_031.png" /></surface></facsimile></TEI>

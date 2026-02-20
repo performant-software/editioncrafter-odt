@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cdd9e39d85a8c6831c5edc"><titleStmt><title>Landscape with Animals</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62cdd8bdf63e83e4d370b0b4"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62cdd8822c166d81c960dca4">Hermann, Georg (1579-ca. 1603)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c740f7df63f3484362c865">Ansbach</pubPlace><date>1595</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cdda62044d75c41abe6d68" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62cdd9e39d85a8c6831c5edc"><titleStmt><title>Landscape with Animals</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62cdd8bdf63e83e4d370b0b4"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62cdd8822c166d81c960dca4">Hermann, Georg (1579-ca. 1603)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c740f7df63f3484362c865">Ansbach</pubPlace><date>1595</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62cdda62044d75c41abe6d68" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
                         <idno type="URI">https://www.metmuseum.org/art/collection/search/787783</idno>
@@ -794,24 +793,6 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdda6c9d85a8c6831c5edd">
-			<label>Landscape with Anim… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/1c5e/62cdda6c9d85a8c6831c5edd/files/IMG_5012__1_.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>"Georgius Herman Stephani filius / Anno Ætatis suæ 16 faciebat Onoltzbachij / Excudebat ·1·5·9·5"</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>"Georgius Herman Stephani filius / Anno Ætatis suæ 16 faciebat Onoltzbachij / Excudebat ·1·5·9·5"
+
+</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cdda6c9d85a8c6831c5edd"><label>Landscape with Anim… (Title Page)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09810e603ef6474540c6e"><label>Landscape with Anim… (2)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09810e603ef6474540c70"><label>Landscape with Anim… (3)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09810e603ef6474540c72"><label>Landscape with Anim… (4)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09810e603ef6474540c74"><label>Landscape with Anim… (5)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09810e603ef6474540c76"><label>Landscape with Anim… (6)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09811e603ef6474540c78"><label>Landscape with Anim… (7)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09811e603ef6474540c7a"><label>Landscape with Anim… (8)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface></facsimile></TEI>
