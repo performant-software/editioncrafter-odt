@@ -1,0 +1,1371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>Livre de Moresques</title>
+				<respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62855a44b4fd97c18436e3c9">
+					<resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp>
+					<name ref="http://vocab.getty.edu/page/ulan/500028261" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62855a2f8f583942539a5b68">Bos, Cornelis (ca. 1510-before 1566)</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62855d47678b183c0ce47c50">Gormont, Hiérosme de</publisher>
+				<date>1546</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62855ebaa61a15c29a26fe04">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665042</idno>
+						<idno>26.71.8(1)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art+ (26.71.8(1))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f93500d6762beafb3b61a">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665063</idno>
+						<idno>26.71.8(2)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(2))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f8a7d228b298d06cec7e1">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665066</idno>
+						<idno>26.71.8(3)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(3))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f99841d7d543a3e8e26c6">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665068</idno>
+						<idno>26.71.8(4)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(4))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f9ad0d333a59e1bb55a34">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665070</idno>
+						<idno>26.71.8(5)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(5))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f9c3c57a0e849137e6f52">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665078</idno>
+						<idno>26.71.8(6)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(6))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f9d6c0d6762beafb3b61e">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665079</idno>
+						<idno>26.71.8(7)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(7))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/629f9f02392e06dfae6f3171">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665073</idno>
+						<idno>26.71.8(8)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(8))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0db7f392e06dfae6f3172">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665075</idno>
+						<idno>26.71.8(9)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(9))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0dc930d6762beafb3b61f">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665076</idno>
+						<idno>26.71.8(10)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(10))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0dd9257a0e849137e6f56">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665113</idno>
+						<idno>26.71.8(11)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(11))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0de71228b298d06cec7e7">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665114</idno>
+						<idno>26.71.8(12)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(12))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0df73d333a59e1bb55a36">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665116</idno>
+						<idno>26.71.8(13)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(13))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0e0630d6762beafb3b623">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665123</idno>
+						<idno>26.71.8(14)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(14))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0e166bc08dcdb9db7623c">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665129</idno>
+						<idno>26.71.8(15)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(15))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0e241228b298d06cec7ea">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665130</idno>
+						<idno>26.71.8(16)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(16))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0e3fe57a0e849137e6f57">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665152</idno>
+						<idno>26.71.8(17)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(17))</p>
+				</msDesc>
+				<msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62a0e4dd392e06dfae6f3177">
+					<msIdentifier>
+						<institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
+						<idno type="URI">https://www.metmuseum.org/art/collection/search/665037</idno>
+						<idno>26.71.8(18)</idno>
+					</msIdentifier>
+					<p>The Metropolitan Museum of Art (26.71.8(18))</p>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<list>
+						<item><term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a27539228b298d06cec7f0" type="Addressee">Tailor</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a2750a7befa317ac606b6f" type="Addressee">Embroiderer</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a275131d7d543a3e8e26cf" type="Addressee">Engraver</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a275a00d6762beafb3b62b" type="Addressee">Painter</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62a2751d0d6762beafb3b62a" type="Addressee">Goldsmith</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62ce08e1ab65e5063d6559dc" type="Addressee">Tapisser</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/63c0b242cd149785f75720d5" type="Addressee">Women who work with needles</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/686cb5499f7c9926faf53190" type="Addressee">Seamstress</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Medium/62855adf9e7834fca2cf95c7" type="media">Woodcut</term> <term sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/School/628d2d2e1dbdf14e1b9d1675" type="school">Netherlandish</term></item>
+					</list>
+				</keywords>
+			</textClass>
+			<langUsage>
+				<language ident="FR">French</language>
+			</langUsage>
+		</profileDesc>
+		<encodingDesc>
+			<classDecl>
+				<taxonomy xml:id="motifs">
+					<bibl>Tags</bibl>
+					<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942b">
+						<catDesc>organic</catDesc>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942c">
+							<catDesc>animal</catDesc>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942d">
+								<catDesc>mammal</catDesc>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6942e">
+									<catDesc>human</catDesc>
+									<category n="nude_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6c717f659532e55c033" xml:id="nude_man">
+										<catDesc>nude_man</catDesc>
+									</category>
+									<category n="clothed_man" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6d317f659532e55c034" xml:id="clothed_man">
+										<catDesc>clothed_man</catDesc>
+									</category>
+									<category n="nude_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6df17f659532e55c035" xml:id="nude_woman">
+										<catDesc>nude_woman</catDesc>
+									</category>
+									<category n="clothed_woman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add6ea17f659532e55c036" xml:id="clothed_woman">
+										<catDesc>clothed_woman</catDesc>
+									</category>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69433">
+									<catDesc>putto</catDesc>
+									<category n="putto_head" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69434" xml:id="putto_head">
+										<catDesc>putto_head</catDesc>
+									</category>
+									<category n="putto_full_body" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69435" xml:id="putto_full_body">
+										<catDesc>putto_full_body</catDesc>
+									</category>
+								</category>
+								<category n="monkey" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69437" xml:id="monkey">
+									<catDesc>monkey</catDesc>
+								</category>
+								<category n="squirrel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69438" xml:id="squirrel">
+									<catDesc>squirrel</catDesc>
+								</category>
+								<category n="rabbit" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca69439" xml:id="rabbit">
+									<catDesc>rabbit</catDesc>
+								</category>
+								<category n="dolphin" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65d6010f90c3ca6943a" xml:id="dolphin">
+									<catDesc>dolphin</catDesc>
+								</category>
+								<category n="dog" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6943b" xml:id="dog">
+									<catDesc>dog</catDesc>
+								</category>
+								<category n="horse" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3be9df9aa20e9eb3ab1" xml:id="horse">
+									<catDesc>horse</catDesc>
+								</category>
+								<category n="lion" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3c89df9aa20e9eb3ab2" xml:id="lion">
+									<catDesc>lion</catDesc>
+								</category>
+								<category n="camel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3e19df9aa20e9eb3ab4" xml:id="camel">
+									<catDesc>camel</catDesc>
+								</category>
+								<category n="elephant" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4579df9aa20e9eb3aba" xml:id="elephant">
+									<catDesc>elephant</catDesc>
+								</category>
+								<category n="cattle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4679df9aa20e9eb3abb" xml:id="cattle">
+									<catDesc>cattle</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6943c">
+								<catDesc>aquatic</catDesc>
+								<category n="fish" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6943d" xml:id="fish">
+									<catDesc>fish</catDesc>
+								</category>
+								<category n="squid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6943e" xml:id="squid">
+									<catDesc>squid</catDesc>
+								</category>
+								<category n="crustacean" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6943f" xml:id="crustacean">
+									<catDesc>crustacean</catDesc>
+								</category>
+								<category n="frog" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4279df9aa20e9eb3ab7" xml:id="frog">
+									<catDesc>frog</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69440">
+								<catDesc>bird</catDesc>
+								<category n="eagle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69441" xml:id="eagle">
+									<catDesc>eagle</catDesc>
+								</category>
+								<category n="owl" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69442" xml:id="owl">
+									<catDesc>owl</catDesc>
+								</category>
+								<category n="eagle_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694be" xml:id="eagle_mask">
+									<catDesc>eagle_mask</catDesc>
+								</category>
+								<category n="bird" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adce6017f659532e55c00b" xml:id="bird">
+									<catDesc>bird</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69443">
+								<catDesc>insect</catDesc>
+								<category n="butterfly" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69444" xml:id="butterfly">
+									<catDesc>butterfly</catDesc>
+								</category>
+								<category n="dragonfly" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69445" xml:id="dragonfly">
+									<catDesc>dragonfly</catDesc>
+								</category>
+								<category n="caterpillar" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69446" xml:id="caterpillar">
+									<catDesc>caterpillar</catDesc>
+								</category>
+								<category n="snail" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69447" xml:id="snail">
+									<catDesc>snail</catDesc>
+								</category>
+								<category n="insect" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add8d017f659532e55c03e" xml:id="insect">
+									<catDesc>insect</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69448">
+								<catDesc>reptile</catDesc>
+								<category n="snake" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69449" xml:id="snake">
+									<catDesc>snake</catDesc>
+								</category>
+								<category n="turtle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6944a" xml:id="turtle">
+									<catDesc>turtle</catDesc>
+								</category>
+								<category n="lizard" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4339df9aa20e9eb3ab8" xml:id="lizard">
+									<catDesc>lizard</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6944b">
+								<catDesc>skeleton</catDesc>
+								<category n="human_skeleton" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6944c" xml:id="human_skeleton">
+									<catDesc>human_skeleton</catDesc>
+								</category>
+								<category n="animal_skeleton" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6944d" xml:id="animal_skeleton">
+									<catDesc>animal_skeleton</catDesc>
+								</category>
+								<category n="hybrid_skeleton" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6944e" xml:id="hybrid_skeleton">
+									<catDesc>hybrid_skeleton</catDesc>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6944f">
+									<catDesc>skull</catDesc>
+									<category n="human_skull" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69450" xml:id="human_skull">
+										<catDesc>human_skull</catDesc>
+									</category>
+									<category n="animal_skull" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69451" xml:id="animal_skull">
+										<catDesc>animal_skull</catDesc>
+									</category>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69452">
+								<catDesc>part</catDesc>
+								<category n="scale" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69453" xml:id="scale">
+									<catDesc>scale</catDesc>
+								</category>
+								<category n="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69454" xml:id="horn">
+									<catDesc>horn</catDesc>
+								</category>
+								<category n="wing" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69455" xml:id="wing">
+									<catDesc>wing</catDesc>
+								</category>
+								<category n="paw" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69456" xml:id="paw">
+									<catDesc>paw</catDesc>
+								</category>
+								<category n="hoof" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69457" xml:id="hoof">
+									<catDesc>hoof</catDesc>
+								</category>
+								<category n="talon" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69458" xml:id="talon">
+									<catDesc>talon</catDesc>
+								</category>
+								<category n="shell" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945a" xml:id="shell">
+									<catDesc>shell</catDesc>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945b">
+									<catDesc>tail</catDesc>
+									<category n="lion_tail" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945c" xml:id="lion_tail">
+										<catDesc>lion_tail</catDesc>
+									</category>
+									<category n="tail" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcea017f659532e55c00c" xml:id="tail">
+										<catDesc>tail</catDesc>
+									</category>
+								</category>
+								<category n="feather" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945d" xml:id="feather">
+									<catDesc>feather</catDesc>
+								</category>
+								<category n="ear" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945e" xml:id="ear">
+									<catDesc>ear</catDesc>
+								</category>
+							</category>
+						</category>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6945f">
+							<catDesc>supernatural</catDesc>
+							<category n="sphynx" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69460" xml:id="sphynx">
+								<catDesc>sphynx</catDesc>
+							</category>
+							<category n="demon" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69461" xml:id="demon">
+								<catDesc>demon</catDesc>
+							</category>
+							<category n="griffin" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69462" xml:id="griffin">
+								<catDesc>griffin</catDesc>
+							</category>
+							<category n="gryllus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69463" xml:id="gryllus">
+								<catDesc>gryllus</catDesc>
+							</category>
+							<category n="harpy" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69464" xml:id="harpy">
+								<catDesc>harpy</catDesc>
+							</category>
+							<category n="hellmouth" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69465" xml:id="hellmouth">
+								<catDesc>hellmouth</catDesc>
+							</category>
+							<category n="merman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69466" xml:id="merman">
+								<catDesc>merman</catDesc>
+							</category>
+							<category n="merwoman" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69467" xml:id="merwoman">
+								<catDesc>merwoman</catDesc>
+							</category>
+							<category n="merperson" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69468" xml:id="merperson">
+								<catDesc>merperson</catDesc>
+							</category>
+							<category n="satyr" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69469" xml:id="satyr">
+								<catDesc>satyr</catDesc>
+							</category>
+							<category n="sea_swine" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6946a" xml:id="sea_swine">
+								<catDesc>sea_swine</catDesc>
+							</category>
+							<category n="hippocampus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6946b" xml:id="hippocampus">
+								<catDesc>hippocampus</catDesc>
+							</category>
+							<category n="tarasque" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6946c" xml:id="tarasque">
+								<catDesc>tarasque</catDesc>
+							</category>
+							<category n="basilisk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca6946d" xml:id="basilisk">
+								<catDesc>basilisk</catDesc>
+							</category>
+							<category n="hybrid_unknown" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69470" xml:id="hybrid_unknown">
+								<catDesc>hybrid_unknown</catDesc>
+							</category>
+							<category n="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add91c17f659532e55c03f" xml:id="angel">
+								<catDesc>angel</catDesc>
+							</category>
+							<category n="pegasus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f41b9df9aa20e9eb3ab6" xml:id="pegasus">
+								<catDesc>pegasus</catDesc>
+							</category>
+							<category n="angel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4709df9aa20e9eb3abc" xml:id="angel_01">
+								<catDesc>angel</catDesc>
+							</category>
+						</category>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69471">
+							<catDesc>vegetal</catDesc>
+							<category n="tree" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69472" xml:id="tree">
+								<catDesc>tree</catDesc>
+							</category>
+							<category n="branchwork" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69473" xml:id="branchwork">
+								<catDesc>branchwork</catDesc>
+							</category>
+							<category n="cut_wood" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69474" xml:id="cut_wood">
+								<catDesc>cut_wood</catDesc>
+							</category>
+							<category n="festoon" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69475" xml:id="festoon">
+								<catDesc>festoon</catDesc>
+							</category>
+							<category n="cornucopia" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69476" xml:id="cornucopia">
+								<catDesc>cornucopia</catDesc>
+							</category>
+							<category n="cluster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69477" xml:id="cluster">
+								<catDesc>cluster</catDesc>
+							</category>
+							<category n="flower" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65e6010f90c3ca69479" xml:id="flower">
+								<catDesc>flower</catDesc>
+							</category>
+							<category n="fruit" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6947b" xml:id="fruit">
+								<catDesc>fruit</catDesc>
+							</category>
+							<category n="nut" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6947c" xml:id="nut">
+								<catDesc>nut</catDesc>
+							</category>
+							<category n="vine" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6947d" xml:id="vine">
+								<catDesc>vine</catDesc>
+							</category>
+							<category n="foliage" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6947e" xml:id="foliage">
+								<catDesc>foliage</catDesc>
+							</category>
+							<category n="palm_frond" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6947f" xml:id="palm_frond">
+								<catDesc>palm_frond</catDesc>
+							</category>
+							<category n="reed" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69480" xml:id="reed">
+								<catDesc>reed</catDesc>
+							</category>
+							<category n="garland" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69481" xml:id="garland">
+								<catDesc>garland</catDesc>
+							</category>
+							<category n="furled_frond" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd960f5b2e05341c26f351" xml:id="furled_frond">
+								<catDesc>furled_frond</catDesc>
+							</category>
+						</category>
+					</category>
+					<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69482">
+						<catDesc>inorganic</catDesc>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69483">
+							<catDesc>architectural</catDesc>
+							<category n="pedestal" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69484" xml:id="pedestal">
+								<catDesc>pedestal</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69485">
+								<catDesc>column</catDesc>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69486">
+									<catDesc>square_column</catDesc>
+									<category n="doric_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92005b2e05341c26f348" xml:id="doric_square_column">
+										<catDesc>doric_square_column</catDesc>
+									</category>
+									<category n="ionic_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92095b2e05341c26f349" xml:id="ionic_square_column">
+										<catDesc>ionic_square_column</catDesc>
+									</category>
+									<category n="corinthian_square_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92175b2e05341c26f34a" xml:id="corinthian_square_column">
+										<catDesc>corinthian_square_column</catDesc>
+									</category>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949a">
+									<catDesc>pilaster</catDesc>
+									<category n="doric_pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92f25b2e05341c26f34e" xml:id="doric_pilaster">
+										<catDesc>doric_pilaster</catDesc>
+									</category>
+									<category n="ionic_pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd93005b2e05341c26f34f" xml:id="ionic_pilaster">
+										<catDesc>ionic_pilaster</catDesc>
+									</category>
+									<category n="corinthian_pilaster" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd930a5b2e05341c26f350" xml:id="corinthian_pilaster">
+										<catDesc>corinthian_pilaster</catDesc>
+									</category>
+								</category>
+								<category n="doric_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcebf17f659532e55c00d" xml:id="doric_column">
+									<catDesc>doric_column</catDesc>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd66765b2e05341c26f328">
+									<catDesc>engaged_column</catDesc>
+									<category n="doric_engaged_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92465b2e05341c26f34b" xml:id="doric_engaged_column">
+										<catDesc>doric_engaged_column</catDesc>
+									</category>
+									<category n="ionic_engaged_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92555b2e05341c26f34c" xml:id="ionic_engaged_column">
+										<catDesc>ionic_engaged_column</catDesc>
+									</category>
+									<category n="corinthian_engaged_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd92625b2e05341c26f34d" xml:id="corinthian_engaged_column">
+										<catDesc>corinthian_engaged_column</catDesc>
+									</category>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd6f725b2e05341c26f32e">
+									<catDesc>figural</catDesc>
+									<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd6f8e5b2e05341c26f32f">
+										<catDesc>full_body</catDesc>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7d965b2e05341c26f333">
+											<catDesc>anthropomorphic</catDesc>
+											<category n="caryatid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7e3d5b2e05341c26f336" xml:id="caryatid">
+												<catDesc>caryatid</catDesc>
+											</category>
+											<category n="atlantid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7e4a5b2e05341c26f337" xml:id="atlantid">
+												<catDesc>atlantid</catDesc>
+											</category>
+										</category>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7ecc5b2e05341c26f33b">
+											<catDesc>animal</catDesc>
+											<category n="lion_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f1e5b2e05341c26f33d" xml:id="lion_column">
+												<catDesc>lion_column</catDesc>
+											</category>
+										</category>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f4d5b2e05341c26f33e">
+											<catDesc>monster</catDesc>
+											<category n="satyr_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948b" xml:id="satyr_column">
+												<catDesc>satyr_column</catDesc>
+											</category>
+											<category n="monster_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd69385b2e05341c26f32c" xml:id="monster_column">
+												<catDesc>monster_column</catDesc>
+											</category>
+											<category n="sphynx_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd695b5b2e05341c26f32d" xml:id="sphynx_column">
+												<catDesc>sphynx_column</catDesc>
+											</category>
+										</category>
+									</category>
+									<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd6fc75b2e05341c26f330">
+										<catDesc>term</catDesc>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948c">
+											<catDesc>monster</catDesc>
+											<category n="monster_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69491" xml:id="monster_term">
+												<catDesc>monster_term</catDesc>
+											</category>
+											<category n="satyr_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69492" xml:id="satyr_term">
+												<catDesc>satyr_term</catDesc>
+											</category>
+											<category n="harpy_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69493" xml:id="harpy_term">
+												<catDesc>harpy_term</catDesc>
+											</category>
+										</category>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd8e4e5b2e05341c26f33f">
+											<catDesc>anthropomorphic</catDesc>
+											<category n="female_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948d" xml:id="female_term">
+												<catDesc>female_term</catDesc>
+											</category>
+											<category n="male_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6948e" xml:id="male_term">
+												<catDesc>male_term</catDesc>
+											</category>
+											<category n="putto_term" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add3a517f659532e55c02b" xml:id="putto_term">
+												<catDesc>putto_term</catDesc>
+											</category>
+										</category>
+									</category>
+									<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd70375b2e05341c26f331">
+										<catDesc>herm</catDesc>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69494">
+											<catDesc>anthropomorphic</catDesc>
+											<category n="male_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69495" xml:id="male_herm">
+												<catDesc>male_herm</catDesc>
+											</category>
+											<category n="female_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69496" xml:id="female_herm">
+												<catDesc>female_herm</catDesc>
+											</category>
+											<category n="putto_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add38f17f659532e55c02a" xml:id="putto_herm">
+												<catDesc>putto_herm</catDesc>
+											</category>
+										</category>
+										<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd8fef5b2e05341c26f340">
+											<catDesc>monster</catDesc>
+											<category n="monster_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69498" xml:id="monster_herm">
+												<catDesc>monster_herm</catDesc>
+											</category>
+											<category n="griffin_herm" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca69499" xml:id="griffin_herm">
+												<catDesc>griffin_herm</catDesc>
+											</category>
+										</category>
+									</category>
+								</category>
+								<category n="ionic_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91495b2e05341c26f342" xml:id="ionic_column">
+									<catDesc>ionic_column</catDesc>
+								</category>
+								<category n="corinthian_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91575b2e05341c26f343" xml:id="corinthian_column">
+									<catDesc>corinthian_column</catDesc>
+								</category>
+							</category>
+							<category n="console" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949b" xml:id="console">
+								<catDesc>console</catDesc>
+							</category>
+							<category n="entablature" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949c" xml:id="entablature">
+								<catDesc>entablature</catDesc>
+							</category>
+							<category n="triglyph" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949d" xml:id="triglyph">
+								<catDesc>triglyph</catDesc>
+							</category>
+							<category n="pediment" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949e" xml:id="pediment">
+								<catDesc>pediment</catDesc>
+							</category>
+							<category n="arch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca6949f" xml:id="arch">
+								<catDesc>arch</catDesc>
+							</category>
+							<category n="niche" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a0" xml:id="niche">
+								<catDesc>niche</catDesc>
+							</category>
+							<category n="semidome" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a1" xml:id="semidome">
+								<catDesc>semidome</catDesc>
+							</category>
+							<category n="arbor" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a2" xml:id="arbor">
+								<catDesc>arbor</catDesc>
+							</category>
+							<category n="pergola" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a3" xml:id="pergola">
+								<catDesc>pergola</catDesc>
+							</category>
+							<category n="obelisk" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a4" xml:id="obelisk">
+								<catDesc>obelisk</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a5">
+								<catDesc>stud</catDesc>
+								<category n="pyramid_stud" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a6" xml:id="pyramid_stud">
+									<catDesc>pyramid_stud</catDesc>
+								</category>
+								<category n="round_stud" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694a8" xml:id="round_stud">
+									<catDesc>round_stud</catDesc>
+								</category>
+								<category n="flower_stud" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694aa" xml:id="flower_stud">
+									<catDesc>flower_stud</catDesc>
+								</category>
+								<category n="spike_stud" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf5317f659532e55c011" xml:id="spike_stud">
+									<catDesc>spike_stud</catDesc>
+								</category>
+							</category>
+							<category n="rivet_hole" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694ac" xml:id="rivet_hole">
+								<catDesc>rivet_hole</catDesc>
+							</category>
+							<category n="platform" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694af" xml:id="platform">
+								<catDesc>platform</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91915b2e05341c26f344">
+								<catDesc>capital</catDesc>
+								<category n="doric_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91a25b2e05341c26f345" xml:id="doric_capital">
+									<catDesc>doric_capital</catDesc>
+								</category>
+								<category n="ionic_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91aa5b2e05341c26f346" xml:id="ionic_capital">
+									<catDesc>ionic_capital</catDesc>
+								</category>
+								<category n="corinthian_capital" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd91b85b2e05341c26f347" xml:id="corinthian_capital">
+									<catDesc>corinthian_capital</catDesc>
+								</category>
+							</category>
+						</category>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b0">
+							<catDesc>mask</catDesc>
+							<category n="human_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b1" xml:id="human_mask">
+								<catDesc>human_mask</catDesc>
+							</category>
+							<category n="putto_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b2" xml:id="putto_mask">
+								<catDesc>putto_mask</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b3">
+								<catDesc>animal_mask</catDesc>
+								<category n="ram_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b4" xml:id="ram_mask">
+									<catDesc>ram_mask</catDesc>
+								</category>
+								<category n="goat_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b6" xml:id="goat_mask">
+									<catDesc>goat_mask</catDesc>
+								</category>
+								<category n="lamb_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694b8" xml:id="lamb_mask">
+									<catDesc>lamb_mask</catDesc>
+								</category>
+								<category n="ox_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694ba" xml:id="ox_mask">
+									<catDesc>ox_mask</catDesc>
+								</category>
+								<category n="lion_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694bb" xml:id="lion_mask">
+									<catDesc>lion_mask</catDesc>
+								</category>
+								<category n="bird_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df65f6010f90c3ca694bd" xml:id="bird_mask">
+									<catDesc>bird_mask</catDesc>
+								</category>
+							</category>
+							<category n="monster_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c0" xml:id="monster_mask">
+								<catDesc>monster_mask</catDesc>
+							</category>
+							<category n="satyr_mask" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c1" xml:id="satyr_mask">
+								<catDesc>satyr_mask</catDesc>
+							</category>
+						</category>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c2">
+							<catDesc>pattern</catDesc>
+							<category n="scrollwork" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c3" xml:id="scrollwork">
+								<catDesc>scrollwork</catDesc>
+							</category>
+							<category n="strapwork" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c4" xml:id="strapwork">
+								<catDesc>strapwork</catDesc>
+							</category>
+							<category n="geometric_pattern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c5" xml:id="geometric_pattern">
+								<catDesc>geometric_pattern</catDesc>
+							</category>
+							<category n="meander" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c6" xml:id="meander">
+								<catDesc>meander</catDesc>
+							</category>
+							<category n="brickwork" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c7" xml:id="brickwork">
+								<catDesc>brickwork</catDesc>
+							</category>
+							<category n="marbling" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694c8" xml:id="marbling">
+								<catDesc>marbling</catDesc>
+							</category>
+							<category n="fluted" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ca" xml:id="fluted">
+								<catDesc>fluted</catDesc>
+							</category>
+							<category n="braidwork" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694cb" xml:id="braidwork">
+								<catDesc>braidwork</catDesc>
+							</category>
+							<category n="twisting" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694cd" xml:id="twisting">
+								<catDesc>twisting</catDesc>
+							</category>
+							<category n="stippling" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ce" xml:id="stippling">
+								<catDesc>stippling</catDesc>
+							</category>
+							<category n="interlace" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd98105b2e05341c26f352" xml:id="interlace">
+								<catDesc>interlace</catDesc>
+							</category>
+						</category>
+						<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d0">
+							<catDesc>object</catDesc>
+							<category n="cartouche" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d1" xml:id="cartouche">
+								<catDesc>cartouche</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d2">
+								<catDesc>trophy</catDesc>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d3">
+									<catDesc>military</catDesc>
+									<category n="quiver" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d4" xml:id="quiver">
+										<catDesc>quiver</catDesc>
+									</category>
+									<category n="arrow" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d5" xml:id="arrow">
+										<catDesc>arrow</catDesc>
+									</category>
+									<category n="spear" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d6" xml:id="spear">
+										<catDesc>spear</catDesc>
+									</category>
+									<category n="bident" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d7" xml:id="bident">
+										<catDesc>bident</catDesc>
+									</category>
+									<category n="trident" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d8" xml:id="trident">
+										<catDesc>trident</catDesc>
+									</category>
+									<category n="sword" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694d9" xml:id="sword">
+										<catDesc>sword</catDesc>
+									</category>
+									<category n="knife" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694db" xml:id="knife">
+										<catDesc>knife</catDesc>
+									</category>
+									<category n="gun" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694dc" xml:id="gun">
+										<catDesc>gun</catDesc>
+									</category>
+									<category n="shield" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694dd" xml:id="shield">
+										<catDesc>shield</catDesc>
+									</category>
+									<category n="gauntlet" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694de" xml:id="gauntlet">
+										<catDesc>gauntlet</catDesc>
+									</category>
+									<category n="breastplate" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694df" xml:id="breastplate">
+										<catDesc>breastplate</catDesc>
+									</category>
+									<category n="pauldron" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e0" xml:id="pauldron">
+										<catDesc>pauldron</catDesc>
+									</category>
+									<category n="spaulder" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e1" xml:id="spaulder">
+										<catDesc>spaulder</catDesc>
+									</category>
+									<category n="helmet" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e2" xml:id="helmet">
+										<catDesc>helmet</catDesc>
+									</category>
+									<category n="armor" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e3" xml:id="armor">
+										<catDesc>armor</catDesc>
+									</category>
+								</category>
+								<category n="tool" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e4" xml:id="tool">
+									<catDesc>tool</catDesc>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e6">
+									<catDesc>instrument</catDesc>
+									<category n="stringed" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f4" xml:id="stringed">
+										<catDesc>stringed</catDesc>
+									</category>
+								</category>
+								<category n="fruit_vegetable" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e7" xml:id="fruit_vegetable">
+									<catDesc>fruit_vegetable</catDesc>
+								</category>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e8">
+								<catDesc>clothing</catDesc>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694e9">
+									<catDesc>hat</catDesc>
+									<category n="crown" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ea" xml:id="crown">
+										<catDesc>crown</catDesc>
+									</category>
+								</category>
+								<category n="clothing" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcfed17f659532e55c013" xml:id="clothing">
+									<catDesc>clothing</catDesc>
+								</category>
+							</category>
+							<category n="candelabra" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694eb" xml:id="candelabra">
+								<catDesc>candelabra</catDesc>
+							</category>
+							<category n="lamp" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ec" xml:id="lamp">
+								<catDesc>lamp</catDesc>
+							</category>
+							<category n="vase" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ed" xml:id="vase">
+								<catDesc>vase</catDesc>
+							</category>
+							<category n="candle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ee" xml:id="candle">
+								<catDesc>candle</catDesc>
+							</category>
+							<category n="plate" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694ef" xml:id="plate">
+								<catDesc>plate</catDesc>
+							</category>
+							<category n="pelt" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f0" xml:id="pelt">
+								<catDesc>pelt</catDesc>
+							</category>
+							<category n="pitcher" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f1" xml:id="pitcher">
+								<catDesc>pitcher</catDesc>
+							</category>
+							<category n="sarcophagus" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f2" xml:id="sarcophagus">
+								<catDesc>sarcophagus</catDesc>
+							</category>
+							<category n="torch" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6606010f90c3ca694f3" xml:id="torch">
+								<catDesc>torch</catDesc>
+							</category>
+							<category n="ring" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f5" xml:id="ring">
+								<catDesc>ring</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f6">
+								<catDesc>fabric</catDesc>
+								<category n="swag" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694f7" xml:id="swag">
+									<catDesc>swag</catDesc>
+								</category>
+								<category n="ribbon" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694fa" xml:id="ribbon">
+									<catDesc>ribbon</catDesc>
+								</category>
+								<category n="tassel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694fb" xml:id="tassel">
+									<catDesc>tassel</catDesc>
+								</category>
+								<category n="ruffle" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694fd" xml:id="ruffle">
+									<catDesc>ruffle</catDesc>
+								</category>
+								<category n="rope" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca694ff" xml:id="rope">
+									<catDesc>rope</catDesc>
+								</category>
+								<category n="pillow" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69500" xml:id="pillow">
+									<catDesc>pillow</catDesc>
+								</category>
+								<category n="drapery" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69503" xml:id="drapery">
+									<catDesc>drapery</catDesc>
+								</category>
+								<category n="canopy" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69504" xml:id="canopy">
+									<catDesc>canopy</catDesc>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69505">
+									<catDesc>string</catDesc>
+									<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add08717f659532e55c015">
+										<catDesc>string</catDesc>
+										<category n="string_of_beads" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adddd617f659532e55c040" xml:id="string_of_beads">
+											<catDesc>string_of_beads</catDesc>
+										</category>
+									</category>
+								</category>
+								<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add3fd17f659532e55c02e">
+									<catDesc>banner</catDesc>
+									<category n="horizontal_banner" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add40217f659532e55c02f" xml:id="horizontal_banner">
+										<catDesc>horizontal_banner</catDesc>
+									</category>
+									<category n="vertical_banner" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add40f17f659532e55c030" xml:id="vertical_banner">
+										<catDesc>vertical_banner</catDesc>
+									</category>
+								</category>
+							</category>
+							<category n="smoke" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69509" xml:id="smoke">
+								<catDesc>smoke</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca6950a">
+								<catDesc>gem</catDesc>
+								<category n="cut_gem" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca6950b" xml:id="cut_gem">
+									<catDesc>cut_gem</catDesc>
+								</category>
+								<category n="pearl" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca6950c" xml:id="pearl">
+									<catDesc>pearl</catDesc>
+								</category>
+							</category>
+							<category n="chain" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca6950d" xml:id="chain">
+								<catDesc>chain</catDesc>
+							</category>
+							<category n="scroll" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca6950e" xml:id="scroll">
+								<catDesc>scroll</catDesc>
+							</category>
+							<category n="lantern" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca6950f" xml:id="lantern">
+								<catDesc>lantern</catDesc>
+							</category>
+							<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcf8e17f659532e55c012">
+								<catDesc>instrument</catDesc>
+								<category n="horn" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68add04117f659532e55c014" xml:id="horn_01">
+									<catDesc>horn</catDesc>
+								</category>
+							</category>
+							<category n="drinking_vessel" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3ac9df9aa20e9eb3ab0" xml:id="drinking_vessel">
+								<catDesc>drinking_vessel</catDesc>
+							</category>
+							<category n="boat" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3d49df9aa20e9eb3ab3" xml:id="boat">
+								<catDesc>boat</catDesc>
+							</category>
+							<category n="axe" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f3eb9df9aa20e9eb3ab5" xml:id="axe">
+								<catDesc>axe</catDesc>
+							</category>
+							<category n="coat_of_arms" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68b6f4499df9aa20e9eb3ab9" xml:id="coat_of_arms">
+								<catDesc>coat_of_arms</catDesc>
+							</category>
+						</category>
+					</category>
+					<category sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69510">
+						<catDesc>problem</catDesc>
+						<category n="ponyo" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/686df6616010f90c3ca69511" xml:id="ponyo">
+							<catDesc>ponyo</catDesc>
+						</category>
+					</category>
+					<category n="atlantid" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68adcee017f659532e55c00f" xml:id="atlantid_01">
+						<catDesc>atlantid</catDesc>
+					</category>
+					<category n="dog_column" sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Motif/68cd7f0c5b2e05341c26f33c" xml:id="dog_column">
+						<catDesc>dog_column</catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62855fcf6fe7cd3d2468e044">
+			<label>Livre de Moresques (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/68e0/62855fcf6fe7cd3d2468e044/files/DP345185.jpeg"/>
+		</surface>
+		<surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f935e87e3c90b317148fc">
+			<label>Livre de Moresques (2)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7148/629f935e87e3c90b317148fc/files/page_2_real.jpg"/>
+		</surface>
+		<surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9566d333a59e1bb55a33">
+			<label>Livre de Moresques (3)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b55a/629f9566d333a59e1bb55a33/files/number_3.jpg"/>
+		</surface>
+		<surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9731bc08dcdb9db76236">
+			<label>Livre de Moresques (4)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b762/629f9731bc08dcdb9db76236/files/number_4.jpg"/>
+		</surface>
+		<surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9814e749524638467a03">
+			<label>Livre de Moresques (5)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/467a/629f9814e749524638467a03/files/number_5.jpg"/>
+		</surface>
+		<surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9993392e06dfae6f3170">
+			<label>Livre de Moresques (6)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/6f31/629f9993392e06dfae6f3170/files/number_6.jpg"/>
+		</surface>
+		<surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9a2b87e3c90b317148fd">
+			<label>Livre de Moresques (7)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7148/629f9a2b87e3c90b317148fd/files/number_7.jpg"/>
+		</surface>
+		<surface xml:id="f0008" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9adf57a0e849137e6f51">
+			<label>Livre de Moresques (8)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7e6f/629f9adf57a0e849137e6f51/files/number_8.jpg"/>
+		</surface>
+		<surface xml:id="f0009" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9b5b228b298d06cec7e2">
+			<label>Livre de Moresques (9)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/cec7/629f9b5b228b298d06cec7e2/files/number_9.jpg"/>
+		</surface>
+		<surface xml:id="f0010" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9c4987e3c90b317148fe">
+			<label>Livre de Moresques (10)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7148/629f9c4987e3c90b317148fe/files/number_10.jpg"/>
+		</surface>
+		<surface xml:id="f0011" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9cae57a0e849137e6f53">
+			<label>Livre de Moresques (11)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7e6f/629f9cae57a0e849137e6f53/files/number_11.jpg"/>
+		</surface>
+		<surface xml:id="f0012" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9d7787e3c90b317148ff">
+			<label>Livre de Moresques (12)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7148/629f9d7787e3c90b317148ff/files/number_12.jpg"/>
+		</surface>
+		<surface xml:id="f0013" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9ddf228b298d06cec7e4">
+			<label>Livre de Moresques (13)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/cec7/629f9ddf228b298d06cec7e4/files/number_13.jpg"/>
+		</surface>
+		<surface xml:id="f0014" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9f11e749524638467a04">
+			<label>Livre de Moresques (14)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/467a/629f9f11e749524638467a04/files/number_14.jpg"/>
+		</surface>
+		<surface xml:id="f0015" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/629f9fa187e3c90b31714900">
+			<label>Livre de Moresques (15)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7149/629f9fa187e3c90b31714900/files/number_15.jpg"/>
+		</surface>
+		<surface xml:id="f0016" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0db8e228b298d06cec7e5">
+			<label>Livre de Moresques (16)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/cec7/62a0db8e228b298d06cec7e5/files/number_16.jpg"/>
+		</surface>
+		<surface xml:id="f0017" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0dbef392e06dfae6f3173">
+			<label>Livre de Moresques (17)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/6f31/62a0dbef392e06dfae6f3173/files/number_17.jpg"/>
+		</surface>
+		<surface xml:id="f0018" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0dca71d7d543a3e8e26c8">
+			<label>Livre de Moresques (18)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/8e26/62a0dca71d7d543a3e8e26c8/files/number_18.jpg"/>
+		</surface>
+		<surface xml:id="f0019" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0dd080d6762beafb3b620">
+			<label>Livre de Moresques (19)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b3b6/62a0dd080d6762beafb3b620/files/number_19.jpg"/>
+		</surface>
+		<surface xml:id="f0020" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0dda0bc08dcdb9db76239">
+			<label>Livre de Moresques (20)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b762/62a0dda0bc08dcdb9db76239/files/number_20.jpg"/>
+		</surface>
+		<surface xml:id="f0021" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0dde60d6762beafb3b621">
+			<label>Livre de Moresques (21)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b3b6/62a0dde60d6762beafb3b621/files/number_21.jpg"/>
+		</surface>
+		<surface xml:id="f0022" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0de7d0d6762beafb3b622">
+			<label>Livre de Moresques (22)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b3b6/62a0de7d0d6762beafb3b622/files/number_22.jpg"/>
+		</surface>
+		<surface xml:id="f0023" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0ded8bc08dcdb9db7623a">
+			<label>Livre de Moresques (23)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b762/62a0ded8bc08dcdb9db7623a/files/number_23.jpg"/>
+		</surface>
+		<surface xml:id="f0024" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0df7f1d7d543a3e8e26cb">
+			<label>Livre de Moresques (24)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/8e26/62a0df7f1d7d543a3e8e26cb/files/number_24.jpg"/>
+		</surface>
+		<surface xml:id="f0025" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0dfd187e3c90b31714902">
+			<label>Livre de Moresques (25)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7149/62a0dfd187e3c90b31714902/files/number_25.jpg"/>
+		</surface>
+		<surface xml:id="f0026" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e07287e3c90b31714903">
+			<label>Livre de Moresques (26)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7149/62a0e07287e3c90b31714903/files/number_26.jpg"/>
+		</surface>
+		<surface xml:id="f0027" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e0c61d7d543a3e8e26cd">
+			<label>Livre de Moresques (27)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/8e26/62a0e0c61d7d543a3e8e26cd/files/number_27.jpg"/>
+		</surface>
+		<surface xml:id="f0028" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e1700d6762beafb3b624">
+			<label>Livre de Moresques (28)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b3b6/62a0e1700d6762beafb3b624/files/number_28.jpg"/>
+		</surface>
+		<surface xml:id="f0029" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e1bb87e3c90b31714904">
+			<label>Livre de Moresques (29)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7149/62a0e1bb87e3c90b31714904/files/number_29.jpg"/>
+		</surface>
+		<surface xml:id="f0030" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e24e87e3c90b31714905">
+			<label>Livre de Moresques (30)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7149/62a0e24e87e3c90b31714905/files/number_30.jpg"/>
+		</surface>
+		<surface xml:id="f0031" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e2af7befa317ac606b6b">
+			<label>Livre de Moresques (31)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/606b/62a0e2af7befa317ac606b6b/files/number_31.jpg"/>
+		</surface>
+		<surface xml:id="f0032" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e40757a0e849137e6f58">
+			<label>Livre de Moresques (32)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7e6f/62a0e40757a0e849137e6f58/files/number_32.jpg"/>
+		</surface>
+		<surface xml:id="f0033" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e45ae749524638467a08">
+			<label>Livre de Moresques (33)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/467a/62a0e45ae749524638467a08/files/number_33.jpg"/>
+		</surface>
+		<surface xml:id="f0034" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62a0e4e957a0e849137e6f59">
+			<label>Livre de Moresques (34)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/7e6f/62a0e4e957a0e849137e6f59/files/number_34.jpg"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>Livre de moresques Tres utile &amp; necessaire a tous Orfevres, Tailleurs, Graveurs, Painctres, Tapissiers, Brodeurs, Lingieres, &amp; femmes, qui besongnent de lesguille. Imprimé a Paris chez Hierosme de Gormont, rue Sainct Iacques, a l'enseigne des trois Couronnes d'argent. 1546. In brown ink at bottom of page: "Francois Rassi Des Neux chirurgain à Paris 1551.</p>
+			</div>
+			<pb facs="#f0002"/>
+			<div facs="#f0002">
+				<p>Hierosme De Gourmont, A Tous ouvriers, Orfeurs, Tailleurs, Graveurs, Painctres, Brodeurs, Tapistiers, &amp; aultres hommes de bon esprit, studieux, de l’antiquite vraye, &amp; parfaicte pourtraicture. S. IAY Tousjours iusques icy travillé, &amp; travaille encore (mes amys) de vous representer en papier ou Charte, ce que i’ay peu retirer de la vraye &amp; parfaicte pourtraicture, tant de l’antique, que moderne, Itallye, France, Allemaigne, &amp; pays du levant: ie dis non seulemente ce qui appartient a l’architecture, qui doibt estre con duicte avecq’ raison, extraicte des meilleurs autheurs, tant Grecz que Latins &amp; vulgaires. Mais aussi entrant que touche la graveure, sculpture &amp; pourtraicture pour les Orefevres ioyaulliers, co[n]partimentz, extraictz de l’antique, conduictz toutefois &amp; ordon[n]ez, plus pour co[n]tenteme[n]t de loeil q[ue] par reigle qui s’en sceust don[n]er a instruyre: voulant en cedict endroict aussi bie[n] vous satisfairem co[m]me ie pe[n]se avoir faict &amp; faire, de iour en iour a tous vrays amatheurs des scie[n]ces Mathematiques. Et mesme de la Cosmographie: en laq[ue]lle avecques l’ayde &amp; faveur du treschrestien &amp; magnanime Roy Francoys, premier de ce nom. Avons do[n]ne quelque lustre a l’occasion des carthes particulieres, que i’ay avecques grandz frais, faict venir des pays d’Italye, &amp; Allemaigne, Et exposer en vente en ceste ville de Paris. Or pour vous donner plus grande occasion de contentement, Voicy ung livre de Moresques qui s’offre pour vous estre presenté: mais entendez que tout ainsi comme elles sont, autant naifues &amp; vrayes qu’il est possible les avoir peu trouver, Aussi ont esté taillees par l’ung des excellens d’entendement de cest art. Recevez le done d’aussi bonnne part comme de bon cueur le vouse presente: &amp; vous affeurez qu’il ne s’en trouvera sorte qui se puisse offrir a estre mys en oeuvre que n’ayez exemple en iceluy livre, Que si ie congnois qu’il soit de vous prins en gre, ie prendray peine de vous mettre en lumiere oeuvre que avrez plus agreeable d’autre qui sera de plus grande marque &amp; estoffe plus enrichie, &amp; myeulx relevee. A Paris le premier iour de May, mil cinq cens quarante six.</p>
+			</div>
+			<pb facs="#f0003"/>
+			<div facs="#f0003">
+				<p>Moresques de diverses sortes tant pour menviserie, co[m]me paincture &amp; taille despargne a fleurons entiers demys brisez, bastons rompus &amp; fleurettes.</p>
+			</div>
+			<pb facs="#f0004"/>
+			<div facs="#f0004">
+				<p>Moresques en fleurons rompuz, demys entiers, &amp; fleurettes a bastons brisez pour frizes, ornements de painctures, bordures &amp; aultres enrichissemens.</p>
+			</div>
+			<pb facs="#f0005"/>
+			<div facs="#f0005">
+				<p>Moresques a fleurettes entieres pour iect de Broderie, sur accoustremens ou tappis. Autre. Moresques a bastons rompus, pour tailler sur bronze ou pierre, &amp; massonnerie. Moresques a demys grandz fleurons.</p>
+			</div>
+			<pb facs="#f0006"/>
+			<div facs="#f0006">
+				<p>Moresques pour pentes de ciel ou colletz de chemises en broderie a fleurettes perdues. Moresque pour couverture ou iecter sur draps de lin ou soye &amp; laine en broderie. Aultre. Moresque pour frizes en vases d'or ou d'argent a fleurons entiers.</p>
+			</div>
+			<pb facs="#f0007"/>
+			<div facs="#f0007">
+				<p>Moresque a gros fleurons partant se fuellaige coffine pour tapis velluz &amp; couvertures.</p>
+			</div>
+			<pb facs="#f0008"/>
+			<div facs="#f0008">
+				<p>Autres moresques pour graver ou tailler en espargne menuiserie &amp; iect, &amp; en brodderies ou platte paincture a battons lassez &amp; fleurons perdus.</p>
+			</div>
+			<pb facs="#f0009"/>
+			<div facs="#f0009">
+				<p>Moresques de fleurons entiers &amp; fleurrettes &amp; demyee entrelassees en feulliage.</p>
+			</div>
+			<pb facs="#f0010"/>
+			<div facs="#f0010">
+				<p>Moresques a gros fleurons entiers, fleurettes perdues, languettes entrelassees pour ouvrages des chemises &amp; broderie.</p>
+			</div>
+			<pb facs="#f0011"/>
+			<div facs="#f0011">
+				<p>Moresque a battons rompus &amp; fleurons enttiers Pour fondz de Lambricz ou de Couppes en Cul de Lamppe.</p>
+			</div>
+			<pb facs="#f0012"/>
+			<div facs="#f0012">
+				<p>Moresque pour tappis vellus a fleurons doubles avecques iecttons.</p>
+			</div>
+			<pb facs="#f0013"/>
+			<div facs="#f0013">
+				<p>Moresque pour tapisserie vellue ou de broderie a lozenges brisees sur fleurettes entieres.</p>
+			</div>
+			<pb facs="#f0014"/>
+			<div facs="#f0014">
+				<p>Moresques differentes pour ouvrages de chemises &amp; broderies d'acoustrementz &amp; enrichissementz de painctures, le tout a demy fleurons escartellez, lozenges brisees &amp; demyes fleurettes, fleurons perdus &amp; entrelassures brisees.</p>
+			</div>
+			<pb facs="#f0015"/>
+			<div facs="#f0015">
+				<p>Moresque a demys fleurons propre a bordures d'accoustremens ou couvertures, que lon dict autrement liziere. autre. Moresque a quarre fleuronne propre pour couverture de lict de Camp. Moresque en petit quarre fleuronne propre pour enrichir acoustrementz ou linge en colletz ou iectz.</p>
+			</div>
+			<pb facs="#f0016"/>
+			<div facs="#f0016">
+				<p>Moresque pour tapisserie a double fleurons &amp; bastons brisez avec sa liziere ou bordure.</p>
+			</div>
+			<pb facs="#f0017"/>
+			<div facs="#f0017">
+				<p>Moresque pour le taille despargne sur or argent broche ou acciet &amp; broderie a telles fleurs que les precedentes mais avecque ordonnanee de entretaillissemens differente.</p>
+			</div>
+			<pb facs="#f0018"/>
+			<div facs="#f0018">
+				<p>Moresque a Lorenges brisees a grands fleurons doubles &amp; entier pour Couvertures &amp; painctures.</p>
+			</div>
+			<pb facs="#f0019"/>
+			<div facs="#f0019">
+				<p>Moresques pour colletz &amp; manches de chemises a demis fleurons. aultre. Moresque pour tappis ou couverture de broderie avecques le liziere de entrellacs a demis fleurons Moresque a languettes fleuronnees pour bordures ou collets.</p>
+			</div>
+			<pb facs="#f0020"/>
+			<div facs="#f0020">
+				<p>Moresque pour fondz &amp; penttes de ciel de lict a fleurons a languettes troucconnes.</p>
+			</div>
+			<pb facs="#f0021"/>
+			<div facs="#f0021">
+				<p>Moresque pour broderie sur soye ou linge, ou laine pour tapisseries a bastone brisez, retenuz &amp; enrichis de fleurettes entieres &amp; fleurons perduz.</p>
+			</div>
+			<pb facs="#f0022"/>
+			<div facs="#f0022">
+				<p>Moresque a fleurons entiers doubles pour lizieres &amp; iectz. autre. Moresque pour espargne menuiserie &amp; broderie a bastons rompus &amp; demys fleurons perdus soubz le quarre. Moresques d'entrelas a fleurettes brisees pour bordure &amp; ornementz de pain ctures &amp; massonnerie.</p>
+			</div>
+			<pb facs="#f0023"/>
+			<div facs="#f0023">
+				<p>Moresques pour colletz &amp; manches de chemises, lizieres &amp; bordures d'acoustrementz en broderie ou ornementz de vaisselle d'or ou d'argent.</p>
+			</div>
+			<pb facs="#f0024"/>
+			<div facs="#f0024">
+				<p>Moresque pour couvertures de lictz ou coffres a mulletz a fleurons entiers par tatz &amp; coffins rompus.</p>
+			</div>
+			<pb facs="#f0025"/>
+			<div facs="#f0025">
+				<p>Moresque a fleurrons grandz doubles &amp; entiers releves &amp; enrichis de fleurettes languettes entieres pour couvertures de coffresou cultres tappisserie.</p>
+			</div>
+			<pb facs="#f0026"/>
+			<div facs="#f0026">
+				<p>Moresque pour tailler despargne sur couppes &amp; aultres vases enseignes &amp; bagues a battons rompus en forme dominalles croisees fleurettes demys &amp; fleurrons entiers.</p>
+			</div>
+			<pb facs="#f0027"/>
+			<div facs="#f0027">
+				<p>Moresques pour enseignes ou bagues mises despargne a fleurrons differentz.</p>
+			</div>
+			<pb facs="#f0028"/>
+			<div facs="#f0028">
+				<p>Moresque pour fons &amp; pentets de lict a fleurons entiers, &amp; fleurettes enttieres parties des demys &amp; enttiers &amp; feullaiges autres quae les precede[nt]s.</p>
+			</div>
+			<pb facs="#f0029"/>
+			<div facs="#f0029">
+				<p>Moresque pour paincture, taille de spargne ou broderie a fleurettes perdues &amp; demys fleurons.</p>
+			</div>
+			<pb facs="#f0030"/>
+			<div facs="#f0030">
+				<p>Autre garniture de penttes &amp; fonds de ciel faicte en broderie de moresque en bastons brizes a fleurettes entieres, fleurons perduz &amp; fleurons entiers.</p>
+			</div>
+			<pb facs="#f0031"/>
+			<div facs="#f0031">
+				<p>Moresque pour iecter sur compartimentz en solliers ou menuzerie &amp; painture platte ou de bosse &amp; demy taille le tout a demy fleurons portant de la fleurette entiere &amp; fleuron rompu.</p>
+			</div>
+			<pb facs="#f0032"/>
+			<div facs="#f0032">
+				<p>Moresque pour tappis &amp; couvertures en lozenges rompues &amp; fleurons demys.</p>
+			</div>
+			<pb facs="#f0033"/>
+			<div facs="#f0033">
+				<p>Moresques pour iecter sur linges, draps de soyes en forme de lizieres &amp; pour servir de frizes en besongnes d'or ou d'argent, relevees.</p>
+			</div>
+			<pb facs="#f0034"/>
+			<div facs="#f0034">
+				<p>Moresques pour couppes, a bastons brisez, tant pour le coffin que pour le couvert.</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>Book of Moresques Very useful &amp; necessary for all Goldsmiths, Tailors, Engravers, Painters, Tapissers, Embroiderers, Lineners, &amp; women, who work the needle. Printed in Paris at the home of Hierosme de Gormont, Saint Jacques street, at the sign of the Three Silver Crowns. 1546.</p>
+			</div>
+			<pb facs="#f0002"/>
+			<div facs="#f0002">
+				<p>Hierosme De Gourmont, To All Workers, Goldsmiths, Tailors, Engravers, Painters, Embroiderers, Upholsterers, &amp; other men of good spirit, studious, of true antiquity, &amp; perfect design. Every day here laboring, &amp; still working (my friends) to represent to you in paper or by charter, from which I have little to gain, the true and perfect patterns, from antique as well as modern Italy, France, Germany, &amp; lands of the Middle East: I do not say what belongs to architecture, which must be designed with reason, and extracted from the best authors, both Greek and Latin and vulgar. But I enter as [does] the engraver who touches sculpture and design for the goldsmith metalworkers, apportioning and extracting from antique [designs], however constructing and organizing more for happiness of the eye by those who know to provide instruction: wanting in said place to also satisfy you well as I believe I have done and do, from day to day for all true enthusiasts of these artistic techniques and even of the description of the world: in which with the aid &amp; favor of the Very Christian &amp; Magnanimous King Francis, first of this name. We have given some light though the provision of these specific patterns, which I have taken from ones very freshly brought from the countries of Italy, &amp; Germany and exhibited for sale in this city of Paris. Now to give you the greatest opportunity for contentment, here is a book of Moorish designs which is presented as an offering to you but understand that everything thus as they [the designs] are as simple and true as it is possible to have them portrayed also [the plates] have been cut by an highly skilled understanding of this art. Review the gift as soon as it is presented to you and you will find that there will be nothing that can be offered for embellishment that cannot have an example in it. With the knowledge you have, take my effort to brighten your work so that it will prove more agreeable to others, notable, enriching the fabric, and impressive. In Paris on the first day of May, one thousand five hundred and forty six.</p>
+			</div>
+			<pb facs="#f0003"/>
+			<div facs="#f0003">
+				<p>Various kinds of Moorish designs as much for carpentry as painting with size savings of halved flowers, geometric lines &amp; small flowers.</p>
+			</div>
+			<pb facs="#f0004"/>
+			<div facs="#f0004">
+				<p>Moorish designs of small geometric jewels, whole half-flowers, &amp; geometric flowers for friezes, small repeating patterns, borders &amp; other enrichments.</p>
+			</div>
+			<pb facs="#f0005"/>
+			<div facs="#f0005">
+				<p>Moorish designs with whole flowers for embroidering on clothing or rugs. Other. Moorish designs of geometric patterns for carving on bronze or stone, and masonry. Moorish designs of semi-large flowers.</p>
+			</div>
+			<pb facs="#f0006"/>
+			<div facs="#f0006">
+				<p>Moorish designs of flowering vine embroidery for sun shade panels or shirt collars. Moorish designs for embroidery on blankets or throws or on linen or silk &amp; wool sheets. Other. Moorish designs with whole flowers for gold or silver friezes on vases.</p>
+			</div>
+			<pb facs="#f0007"/>
+			<div facs="#f0007">
+				<p>Moorish design of a leaf filled rectangle with large flowers in for wool rugs &amp; blankets.</p>
+			</div>
+			<pb facs="#f0008"/>
+			<div facs="#f0008">
+				<p>Other Moorish designs of rounded geometrics &amp; flowering vines for engraving or carving in carpentry &amp; using in embroidery or flat painting.</p>
+			</div>
+			<pb facs="#f0009"/>
+			<div facs="#f0009">
+				<p>Moorish designs of whole flowers, flowerets, and buds interlaced in foliage.</p>
+			</div>
+			<pb facs="#f0010"/>
+			<div facs="#f0010">
+				<p>Moorish designs of interlacing large whole flowers, flowering vines, and tabs for shirting &amp; embroidery work.</p>
+			</div>
+			<pb facs="#f0011"/>
+			<div facs="#f0011">
+				<p>Moorish geometric design with whole florets for bottom of paneling or lamp cover cups.</p>
+			</div>
+			<pb facs="#f0012"/>
+			<div facs="#f0012">
+				<p>Moorish design of double flowers vines for wool rugs.</p>
+			</div>
+			<pb facs="#f0013"/>
+			<div facs="#f0013">
+				<p>Moorish design of whole flowers in geometric lozenges for wool tapestry or embroidery.</p>
+			</div>
+			<pb facs="#f0014"/>
+			<div facs="#f0014">
+				<p>Different Moorish designs of flowers with pouches, geometric lozenges &amp; half flowers, flowering vines &amp; geometric interlacing. for embroidery work on shirts &amp; clothing &amp; to enrich by painting.</p>
+			</div>
+			<pb facs="#f0015"/>
+			<div facs="#f0015">
+				<p>Moorish design of flower halves for accent or blanket edging, which is otherwise said to be trim. other. Moorish four-sided design of flowers for outdoor bed cover. Moorish four-sided flower design enrich clothing or linen collars or throws</p>
+			</div>
+			<pb facs="#f0016"/>
+			<div facs="#f0016">
+				<p>Moorish design of double flowers in a geometric pattern for tapestry trim or border.</p>
+			</div>
+			<pb facs="#f0017"/>
+			<div facs="#f0017">
+				<p>Moorish design of size saving with flowers similar to the previous ones but with a different order of interleaving for gold silver brooch or accent &amp; embroidery.</p>
+			</div>
+			<pb facs="#f0018"/>
+			<div facs="#f0018">
+				<p>Moorish design of whole and large double flowers in geometric lozenges for covers and painting.</p>
+			</div>
+			<pb facs="#f0019"/>
+			<div facs="#f0019">
+				<p>Moorish designs of half flowers for collars and shirt sleeves. other. Moorish design of trim of half flower tracery for rugs or blanket embroidery Moorish design of flowered tabs for borders or collars.</p>
+			</div>
+			<pb facs="#f0020"/>
+			<div facs="#f0020">
+				<p>Moorish design of flowers and tentrils for bed curtains..</p>
+			</div>
+			<pb facs="#f0021"/>
+			<div facs="#f0021">
+				<p>Moorish design of a geometric pattern enriched with whole flowers and flowering vines for embroidery on silk or linen, or wool for tapestries.</p>
+			</div>
+			<pb facs="#f0022"/>
+			<div facs="#f0022">
+				<p>Moorish design with full double flowers for trim &amp; throws. other. Moorish geometric four-sided design of half flowers with geometric patter and &amp; half florets weaving under the square - for quick carpentry &amp; embroidery. Moorish geometric design of interlacing flowers for edging and bread ornaments and masonry.</p>
+			</div>
+			<pb facs="#f0023"/>
+			<div facs="#f0023">
+				<p>Moorish design for embroidering collars and shirt sleeves, or trim &amp; clothing borders or to adorn gold or silver tableware.</p>
+			</div>
+			<pb facs="#f0024"/>
+			<div facs="#f0024">
+				<p>Moorish fame design of whole flowers for light blankets or mullet chests.</p>
+			</div>
+			<pb facs="#f0025"/>
+			<div facs="#f0025">
+				<p>Moorish design of large whole double florets and enriched with thin flowers - for covers of chests or prayer rugs.</p>
+			</div>
+			<pb facs="#f0026"/>
+			<div facs="#f0026">
+				<p>Moorish size saving braided ring design with half and whole florets medallions of in the shape of interwoven flowers to carve on cups &amp; other vases.</p>
+			</div>
+			<pb facs="#f0027"/>
+			<div facs="#f0027">
+				<p>Different Moorish flowers designs for signs or rings.</p>
+			</div>
+			<pb facs="#f0028"/>
+			<div facs="#f0028">
+				<p>Moorish design for fons &amp; light pentets of whole flowers &amp; whole flower groups, half &amp; whole &amp; leaves other than the preceding ones.</p>
+			</div>
+			<pb facs="#f0029"/>
+			<div facs="#f0029">
+				<p>Moorish size sparing design of flowering vines and half flowers for painting or embroidery.</p>
+			</div>
+			<pb facs="#f0030"/>
+			<div facs="#f0030">
+				<p>Another garnish for shade &amp; sun screen backgrounds made in Moorish embroidery of a geometric pattern of whole flowers with flowering vines &amp; whole flowers.</p>
+			</div>
+			<pb facs="#f0031"/>
+			<div facs="#f0031">
+				<p>Moorish design of half sized whole flowers and half flowers able to carry the whole &amp; geometric flower patterns to throw on loft compartments or woodworking &amp; flat painting or bump.</p>
+			</div>
+			<pb facs="#f0032"/>
+			<div facs="#f0032">
+				<p>Moorish design of geometric lozenges and half flowers for rugs &amp; blankets.</p>
+			</div>
+			<pb facs="#f0033"/>
+			<div facs="#f0033">
+				<p>Moorish design as trim linen and silk sheets &amp; to form raised friezes in gold or silver pieces.</p>
+			</div>
+			<pb facs="#f0034"/>
+			<div facs="#f0034">
+				<p>Moorish geometric design for cups and both for a box and its cover.</p>
+			</div>
+		</body>
+	</text>
+</TEI>
