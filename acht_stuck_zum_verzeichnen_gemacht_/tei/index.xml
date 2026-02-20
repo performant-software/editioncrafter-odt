@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62bf1d2faa79b4baa9fcbd22"><titleStmt><title>Acht stuck zum verzeichnen gemacht </title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62bf253caa79b4baa9fcbd24">Luning, Andre</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62bf24602d38b026ba057e5e">Vienna</pubPlace><date>1592</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62bf1eed70ee7fcb4fa65ee1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62bf1d2faa79b4baa9fcbd22"><titleStmt><title>Acht stuck zum verzeichnen gemacht </title></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62bf253caa79b4baa9fcbd24">Luning, Andre</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62bf24602d38b026ba057e5e">Vienna</pubPlace><date>1592</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62bf1eed70ee7fcb4fa65ee1">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI"> https://collections.vam.ac.uk/item/O194042/print-flindt/</idno>
@@ -703,4 +704,27 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Acht stuck zum verzeichnen gemacht durch Paulus Flynten von Nornberg bey Andre Luning gedruckt und verfertigt. Wien. 1592.</p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Eight pieces for the record. Made by Paul Flyndt from Nuremberg. Printed and fabricated by Andre Luning. Vienna, 1592.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62bf1f090eb647a6289e121e"><label>Acht stuck zum verz… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/9e12/62bf1f090eb647a6289e121e/files/2011FB1644.jpg" /></surface></facsimile></TEI>
+</encodingDesc></teiHeader>
+	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62bf1f090eb647a6289e121e">
+			<label>Acht stuck zum verz… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/9e12/62bf1f090eb647a6289e121e/files/2011FB1644.jpg"/>
+		</surface>
+	</facsimile>
+	<text xml:id="transcription">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>Acht stuck zum verzeichnen gemacht durch Paulus Flynten von Nornberg bey Andre Luning gedruckt und verfertigt. Wien. 1592.</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="translation">
+		<body>
+			<pb facs="#f0001"/>
+			<div facs="#f0001">
+				<p>Eight pieces for the record. Made by Paul Flyndt from Nuremberg. Printed and fabricated by Andre Luning. Vienna, 1592.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

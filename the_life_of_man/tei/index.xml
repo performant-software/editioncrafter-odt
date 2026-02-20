@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62d05001ae2442b53e09f02e"><titleStmt><title>The Life of Man</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628e71180e54c36bfb169b2b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7076f66fec9e00edcb98" ref="http://vocab.getty.edu/page/ulan/500006358">Vredeman de Vries, Hans (1527-ca.1606)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62d04fc75b7d92d455631bdd">Baltens, Peeter (ca. 1526/1528-before 1584)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1577</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68c09814e603ef6474540d29" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62d05001ae2442b53e09f02e"><titleStmt><title>The Life of Man</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628e71180e54c36bfb169b2b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628e7076f66fec9e00edcb98" ref="http://vocab.getty.edu/page/ulan/500006358">Vredeman de Vries, Hans (1527-ca.1606)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62d04fc75b7d92d455631bdd">Baltens, Peeter (ca. 1526/1528-before 1584)</publisher><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d22dfe18a0a798d499653">Antwerp</pubPlace><date>1577</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/68c09814e603ef6474540d29" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/62855f4a6fe7cd3d2468e043">The Metropolitan Museum of Art</institution>
                         <idno type="URI">https://www.metmuseum.org/art/collection/search/435133</idno>
@@ -781,24 +780,8 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62d050863eaeb7518519e62c">
-			<label>The Life of Man (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/19e6/62d050863eaeb7518519e62c/files/IMG_5197.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>on plaque at center: THEATRVM VITÆ / HUMANE. / ÆNEISTABVLIS PER IOA PHRYS. / EXARATVM // Ter binos deciesq[ue] nouem Superexit in annos. / Justa senescentum quos implet vita virorum; on plaque at bottom center: Excude Petrus Balt Antwerp / 1577; at top left: Hemerobius</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>on plaque at center: THEATRVM VITÆ / HUMANE. / ÆNEISTABVLIS PER IOA PHRYS. / EXARATVM // Ter binos deciesq[ue] nouem Superexit in annos. / Justa senescentum quos implet vita virorum;
+on plaque at bottom center: Excude Petrus Balt Antwerp / 1577;
+at top left: Hemerobius
+
+</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62d050863eaeb7518519e62c"><label>The Life of Man (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/19e6/62d050863eaeb7518519e62c/files/IMG_5197.jpg" /></surface><surface xml:id="f0002" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09814e603ef6474540d2c"><label>The Life of Man (2)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0003" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09814e603ef6474540d2e"><label>The Life of Man (3)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0004" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09815e603ef6474540d30"><label>The Life of Man (4)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0005" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09815e603ef6474540d32"><label>The Life of Man (5)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0006" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09815e603ef6474540d34"><label>The Life of Man (6)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface><surface xml:id="f0007" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/68c09815e603ef6474540d36"><label>The Life of Man (7)</label><graphic mimeType="application/json" url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/x/main-image" /></surface></facsimile></TEI>

@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c722354fcee0875717df9f"><titleStmt><title>Quinque Sensuum Figurae</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d655c0e54c36bfb169b2a">Cologne</pubPlace><date>1590-1612</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c722a04fcee0875717dfa0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c722354fcee0875717df9f"><titleStmt><title>Quinque Sensuum Figurae</title></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/628d655c0e54c36bfb169b2a">Cologne</pubPlace><date>1590-1612</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c722a04fcee0875717dfa0">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O770811/quinque-sensuum-figurae-print-crispijn-de-passe/</idno>
@@ -697,24 +696,4 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c722f97fefb97c92ccc32d">
-			<label>Quinque Sensuum Fig… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/ccc3/62c722f97fefb97c92ccc32d/files/2011FC8170.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>'QVINQVE / SENSVVM ..... / Crisp. d = Pass exc. colonie'</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p> 'QVINQVE / SENSVVM ..... / Crisp. d = Pass exc. colonie'</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c722f97fefb97c92ccc32d"><label>Quinque Sensuum Fig… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/ccc3/62c722f97fefb97c92ccc32d/files/2011FC8170.jpg" /></surface></facsimile></TEI>

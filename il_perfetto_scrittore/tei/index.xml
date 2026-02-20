@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c893998287373cdb5d0937"><titleStmt><title>Il perfetto scrittore</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c891e6e1bf230a69270e28"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c891cc31243769dfa0a89b" ref="http://vocab.getty.edu/page/ulan/500059251">Cresci, Giovanni Francesco (active 1560-1570)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c712fc31243769dfa0a888">Rome</pubPlace><date>1570</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c89432df63f3484362c86f" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/62c893998287373cdb5d0937"><titleStmt><title>Il perfetto scrittore</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62c891e6e1bf230a69270e28"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62c891cc31243769dfa0a89b" ref="http://vocab.getty.edu/page/ulan/500059251">Cresci, Giovanni Francesco (active 1560-1570)</name></respStmt></titleStmt><publicationStmt><pubPlace sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/City/62c712fc31243769dfa0a888">Rome</pubPlace><date>1570</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/62c89432df63f3484362c86f" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">undefined</idno>
@@ -704,32 +703,12 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c8944e4fcee0875717dfaf">
-			<label>Il perfetto scritto… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/17df/62c8944e4fcee0875717dfaf/files/VandA_016.png"/>
-		</surface>
-		<surface xml:id="f0103" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c895011457464989a9cdb4">
-			<label>Il perfetto scritto… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/a9cd/62c895011457464989a9cdb4/files/VandA_017.png"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>IL PERFETTO SCRITTORE Di M. Gio. Francesco Cresci Cittadino Melanese. Doue si veggonoi veri Caratteri, &amp; le natural forme di tutte quelle sorti di lettere, che a vero scrittor si appartengono. Con alcun' altre da lui nuonamente ritrouate. Et i modi, che deue tenere il mastro per ben insegnare.</p>
-			</div>
-			<pb facs="#f0103"/>
-			<div facs="#f0103">
-				<p>IL PERFETTO SCRITTORE DI M. GIO. FRANCESCO CRESCI CITTADINO MELANESE. Doue fi contengono le vere forme delle Maiufcole antiche Romane, necessarie all' arte del perfetto scriuere. Co'lfuo difcorso. Con un vaghissuno capriccio di molti groppi accommodati sopra la forma d'un Alfabeto maiuscolo cancellaresco, da lui vivouato, Et insieme l'auiso di quello, che deue oberuare lo scrittore nel far capricci alle forti di lettere. Opera nuouamente, a commune utilita data in luce. Part feconda.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>IL PERFETTO SCRITTORE 
+
+Di M. Gio. Francesco Cresci Cittadino Melanese. Doue si veggonoi veri Caratteri, &amp; le natural forme di tutte quelle sorti di lettere, che a vero scrittor si appartengono. Con alcun' altre da lui nuonamente ritrouate. Et i modi, che deue tenere il mastro per ben insegnare. </p></div><pb facs="#f0103" /><div facs="#f0103"><p>IL PERFETTO SCRITTORE DI M. GIO. FRANCESCO CRESCI CITTADINO MELANESE. 
+
+Doue fi contengono le vere forme delle Maiufcole antiche Romane, necessarie all' arte del perfetto scriuere. Co'lfuo difcorso. 
+
+Con un vaghissuno capriccio di molti groppi accommodati sopra la forma d'un Alfabeto maiuscolo cancellaresco, da lui vivouato, Et insieme l'auiso di quello, che deue oberuare lo scrittore nel far capricci alle forti di lettere. Opera nuouamente, a commune utilita data in luce. 
+
+Part feconda.</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c8944e4fcee0875717dfaf"><label>Il perfetto scritto… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/17df/62c8944e4fcee0875717dfaf/files/VandA_016.png" /></surface><surface xml:id="f0103" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62c895011457464989a9cdb4"><label>Il perfetto scritto… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/a9cd/62c895011457464989a9cdb4/files/VandA_017.png" /></surface></facsimile></TEI>

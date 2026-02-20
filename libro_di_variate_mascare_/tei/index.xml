@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628d333a4afc6c8cf96e212d"><titleStmt><title>Libro di variate mascare </title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d31764afc6c8cf96e212b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628557f674d5f7a229b60522" ref="http://vocab.getty.edu/page/ulan/500011287">Floris, Cornelis, II (ca. 1513-1514-1575)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d322a4afc6c8cf96e212c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3213e8e045569ddf40b2" ref="http://vocab.getty.edu/page/ulan/500115304">Romano, Giulio (Probably 1499-1546)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d32914632573c9702b9d1" ref="http://vocab.getty.edu/page/ulan/500001492">Boyvin, René (ca. 1525-ca. 1626)</publisher><date>1560</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d35fd1dbdf14e1b9d1676" ref="#f0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/628d333a4afc6c8cf96e212d"><titleStmt><title>Libro di variate mascare </title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d31764afc6c8cf96e212b"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628557f674d5f7a229b60522" ref="http://vocab.getty.edu/page/ulan/500011287">Floris, Cornelis, II (ca. 1513-1514-1575)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d322a4afc6c8cf96e212c"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d3213e8e045569ddf40b2" ref="http://vocab.getty.edu/page/ulan/500115304">Romano, Giulio (Probably 1499-1546)</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d32914632573c9702b9d1" ref="http://vocab.getty.edu/page/ulan/500001492">Boyvin, René (ca. 1525-ca. 1626)</publisher><date>1560</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/628d35fd1dbdf14e1b9d1676" ref="#f0001">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285627699dbcdc74b40b63b">The Victoria and Albert Museum</institution>
                         <idno type="URI">https://collections.vam.ac.uk/item/O916796/print-monogrammist-ihs/</idno>
@@ -697,27 +696,12 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d3611c932a51b480a8309">
-			<label>Libro di variate ma… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/0a83/628d3611c932a51b480a8309/files/2012FF7935.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Libro di variate mascare quale servono a pittori scultori et a huomini ingeniosi. MDLX Renatus. B. L. fecit.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<pb facs="#f0001"/>
-			<div facs="#f0001">
-				<p>Book of various masks that are useful for painters, sculptors, and ingenious men. MDLX Renatus. B. L. fecit.</p>
-			</div>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>Libro di variate mascare quale servono a pittori scultori et a huomini ingeniosi.
+
+MDLX
+
+Renatus. B. L. fecit. </p></div></body></text><text xml:id="translation"><body><pb facs="#f0001" /><div facs="#f0001"><p>Book of various masks that are useful for painters, sculptors, and ingenious men.
+
+MDLX
+
+Renatus. B. L. fecit.</p></div></body></text><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/628d3611c932a51b480a8309"><label>Libro di variate ma… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/0a83/628d3611c932a51b480a8309/files/2012FF7935.jpg" /></surface></facsimile></TEI>

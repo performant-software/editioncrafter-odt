@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b68db575bda8eeb30e6e"><titleStmt><title>Viel und mancherley Gefogel</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d68ad4632573c9702b9d9"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d68774afc6c8cf96e2130" ref="http://vocab.getty.edu/page/ulan/500000822">Collaert, Hans, the elder (ca. 1530-1581)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62bf4769f5b9dd8058df21cf"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62bf473a264417b1394de678" ref="http://vocab.getty.edu/page/ulan/500020030">Gheeraerts, Marcus, the elder (ca.1520-ca.1590)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6838625eb575bda8eeb30fa6"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835b67cb575bda8eeb30e6c" ref="http://vocab.getty.edu/page/ulan/500013507">Serwouters, Pieter</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6838621ab575bda8eeb30fa4" ref="http://vocab.getty.edu/page/ulan/500044399">Widt, Frederick de</publisher><date>c. 1607</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f3a14b575bda8eeb31339">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:id="header"><fileDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Series/6835b68db575bda8eeb30e6e"><titleStmt><title>Viel und mancherley Gefogel</title><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/628d68ad4632573c9702b9d9"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/628d68774afc6c8cf96e2130" ref="http://vocab.getty.edu/page/ulan/500000822">Collaert, Hans, the elder (ca. 1530-1581)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/62bf4769f5b9dd8058df21cf"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6285598a74d5f7a229b60523">Designer</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/62bf473a264417b1394de678" ref="http://vocab.getty.edu/page/ulan/500020030">Gheeraerts, Marcus, the elder (ca.1520-ca.1590)</name></respStmt><respStmt sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Agent/6838625eb575bda8eeb30fa6"><resp sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Role/6835e8ffb575bda8eeb30f2b">Printmaker</resp><name sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6835b67cb575bda8eeb30e6c" ref="http://vocab.getty.edu/page/ulan/500013507">Serwouters, Pieter</name></respStmt></titleStmt><publicationStmt><publisher sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Person/6838621ab575bda8eeb30fa4" ref="http://vocab.getty.edu/page/ulan/500044399">Widt, Frederick de</publisher><date>c. 1607</date></publicationStmt><sourceDesc><msDesc sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Holding/683f3a14b575bda8eeb31339">
                     <msIdentifier>
                         <institution sameAs="https://corpora.dh.tamu.edu/corpus/6285564874d5f7a229b60520/Institution/6285630cb4fd97c18436e3cd">Rijksmuseum</institution>
                         <idno type="URI">https://id.rijksmuseum.nl/200429287</idno>
@@ -697,21 +696,7 @@
 </category>
 </taxonomy>
 </classDecl>
-</encodingDesc></teiHeader>
-	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f3a1ab575bda8eeb3133a">
-			<label>Viel und mancherley… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f3a1ab575bda8eeb3133a/files/image/RP-P-1885-A-9728.jpg"/>
-		</surface>
-	</facsimile>
-	<text xml:id="transcription">
-		<body>
-			<div/>
-		</body>
-	</text>
-	<text xml:id="translation">
-		<body>
-			<div/>
-		</body>
-	</text>
-</TEI>
+</encodingDesc></teiHeader><text xml:id="transcription"><body><pb facs="#f0001" /><div facs="#f0001"><p>P.S.
+VIEL VND MANCHERLEY GEFOGEL DEN MALERN VND GOLTSMIDERN DIENLICH. 
+
+N.VISSCHER EXCUDIT. Frederick de Widt excudit</p></div></body></text><text xml:id="translation"><body></body></text><div></div><facsimile xml:id="prints"><surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/683f3a1ab575bda8eeb3133a"><label>Viel und mancherley… (Title Page)</label><graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/b313/683f3a1ab575bda8eeb3133a/files/image/RP-P-1885-A-9728.jpg" /></surface></facsimile></TEI>

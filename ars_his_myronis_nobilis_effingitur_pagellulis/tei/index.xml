@@ -732,6 +732,10 @@
 </classDecl>
 </encodingDesc></teiHeader>
 	<facsimile xml:id="prints">
+		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62be5d9c2d38b026ba057e5c">
+			<label>Ars his myronis nob… (Title Page)</label>
+			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/057e/62be5d9c2d38b026ba057e5c/files/RP-P-1907-5314.jpg"/>
+		</surface>
 		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b20a3da12d491d55da4">
 			<label>Ars his myronis nob… (Title Page)</label>
 			<graphic mimeType="application/json" url="https://iiif.micr.io/zOFMe"/>

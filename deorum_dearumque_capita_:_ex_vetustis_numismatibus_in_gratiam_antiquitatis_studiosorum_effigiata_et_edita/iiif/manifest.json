@@ -3,20 +3,20 @@
 		"http://www.w3.org/ns/anno.jsonld",
 		"http://iiif.io/api/presentation/3/context.json"
 	],
-	"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/manifest.json",
+	"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/manifest.json",
 	"type": "Manifest",
 	"items": [
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -33,7 +33,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -47,34 +47,34 @@
 			},
 			"annotations": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationPage/1",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationPage/1",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationPage/1/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationPage/1/annotation/0",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/tei/transcription/f0001.xml",
+								"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/tei/transcription/f0001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001"
 						},
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationPage/1/annotation/1",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001/annotationPage/1/annotation/1",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/html/transcription/f0001.html",
+								"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/html/transcription/f0001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0001"
 						}
 					]
 				}
@@ -86,16 +86,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -112,7 +112,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0002"
 						}
 					]
 				}
@@ -132,16 +132,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -158,7 +158,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0003"
 						}
 					]
 				}
@@ -178,16 +178,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -204,7 +204,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0004"
 						}
 					]
 				}
@@ -224,16 +224,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -250,7 +250,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0005"
 						}
 					]
 				}
@@ -270,16 +270,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -296,7 +296,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0006"
 						}
 					]
 				}
@@ -316,16 +316,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -342,7 +342,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0007"
 						}
 					]
 				}
@@ -362,16 +362,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -388,7 +388,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0008"
 						}
 					]
 				}
@@ -408,16 +408,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -434,7 +434,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0009"
 						}
 					]
 				}
@@ -454,16 +454,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -480,7 +480,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0010"
 						}
 					]
 				}
@@ -500,16 +500,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -526,7 +526,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0011"
 						}
 					]
 				}
@@ -546,16 +546,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -572,7 +572,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0012"
 						}
 					]
 				}
@@ -592,16 +592,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -618,7 +618,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0013"
 						}
 					]
 				}
@@ -638,16 +638,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -664,7 +664,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0014"
 						}
 					]
 				}
@@ -684,16 +684,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -710,7 +710,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0015"
 						}
 					]
 				}
@@ -730,16 +730,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -756,7 +756,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0016"
 						}
 					]
 				}
@@ -776,16 +776,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -802,7 +802,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0017"
 						}
 					]
 				}
@@ -822,16 +822,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -848,7 +848,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0018"
 						}
 					]
 				}
@@ -868,16 +868,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -894,7 +894,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0019"
 						}
 					]
 				}
@@ -914,16 +914,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -940,7 +940,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0020"
 						}
 					]
 				}
@@ -960,16 +960,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -986,7 +986,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0021"
 						}
 					]
 				}
@@ -1006,16 +1006,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1032,7 +1032,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0022"
 						}
 					]
 				}
@@ -1052,16 +1052,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1078,7 +1078,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0023"
 						}
 					]
 				}
@@ -1098,16 +1098,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1124,7 +1124,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0024"
 						}
 					]
 				}
@@ -1144,16 +1144,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1170,7 +1170,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0025"
 						}
 					]
 				}
@@ -1190,16 +1190,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1216,7 +1216,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0026"
 						}
 					]
 				}
@@ -1236,16 +1236,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1262,7 +1262,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0027"
 						}
 					]
 				}
@@ -1282,16 +1282,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1308,7 +1308,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0028"
 						}
 					]
 				}
@@ -1328,16 +1328,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1354,7 +1354,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0029"
 						}
 					]
 				}
@@ -1374,16 +1374,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1400,7 +1400,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0030"
 						}
 					]
 				}
@@ -1420,16 +1420,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1446,7 +1446,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0031"
 						}
 					]
 				}
@@ -1466,16 +1466,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1492,7 +1492,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0032"
 						}
 					]
 				}
@@ -1512,16 +1512,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1538,7 +1538,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0033"
 						}
 					]
 				}
@@ -1558,16 +1558,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1584,7 +1584,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0034"
 						}
 					]
 				}
@@ -1604,16 +1604,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1630,7 +1630,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0035"
 						}
 					]
 				}
@@ -1650,16 +1650,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1676,7 +1676,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0036"
 						}
 					]
 				}
@@ -1696,16 +1696,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1722,7 +1722,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0037"
 						}
 					]
 				}
@@ -1742,16 +1742,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1768,7 +1768,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0038"
 						}
 					]
 				}
@@ -1788,16 +1788,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1814,7 +1814,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0039"
 						}
 					]
 				}
@@ -1834,16 +1834,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1860,7 +1860,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0040"
 						}
 					]
 				}
@@ -1880,16 +1880,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1906,7 +1906,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0041"
 						}
 					]
 				}
@@ -1926,16 +1926,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1952,7 +1952,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0042"
 						}
 					]
 				}
@@ -1972,16 +1972,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -1998,7 +1998,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0043"
 						}
 					]
 				}
@@ -2018,16 +2018,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2044,7 +2044,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0044"
 						}
 					]
 				}
@@ -2064,16 +2064,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2090,7 +2090,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0045"
 						}
 					]
 				}
@@ -2110,16 +2110,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2136,7 +2136,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0046"
 						}
 					]
 				}
@@ -2156,16 +2156,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2182,7 +2182,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0047"
 						}
 					]
 				}
@@ -2202,16 +2202,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2228,7 +2228,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0048"
 						}
 					]
 				}
@@ -2248,16 +2248,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2274,7 +2274,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0049"
 						}
 					]
 				}
@@ -2294,16 +2294,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2320,7 +2320,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0050"
 						}
 					]
 				}
@@ -2340,16 +2340,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2366,7 +2366,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0051"
 						}
 					]
 				}
@@ -2386,16 +2386,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2412,7 +2412,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0052"
 						}
 					]
 				}
@@ -2432,16 +2432,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2458,7 +2458,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0053"
 						}
 					]
 				}
@@ -2478,16 +2478,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2504,7 +2504,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0054"
 						}
 					]
 				}
@@ -2524,16 +2524,16 @@
 			}
 		},
 		{
-			"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055",
+			"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055",
 			"type": "Canvas",
 			"items": [
 				{
-					"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055/annotationpage/0",
+					"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055/annotationpage/0",
 					"type": "AnnotationPage",
 					"items": [
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055/annotationpage/0/annotation/0",
+							"id": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055/annotationpage/0/annotation/0",
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
@@ -2550,7 +2550,7 @@
 									}
 								]
 							},
-							"target": "http://localhost:8080/deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055"
+							"target": "https://performant-software.github.io/editioncrafter-odt//deorum_dearumque_capita_:_ex_vetustis_numismatibus_in_gratiam_antiquitatis_studiosorum_effigiata_et_edita/iiif/canvas/f0055"
 						}
 					]
 				}
