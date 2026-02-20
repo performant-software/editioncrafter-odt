@@ -764,10 +764,6 @@
 </classDecl>
 </encodingDesc></teiHeader>
 	<facsimile xml:id="prints">
-		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/62cd8ffe4fcee0875717dfbc">
-			<label>Designs for Large P… (Title Page)</label>
-			<graphic mimeType="application/json" url="https://corpora.dh.tamu.edu/iiif/2/corpora/6285564874d5f7a229b60520/Image/17df/62cd8ffe4fcee0875717dfbc/files/2006AN4687.jpg"/>
-		</surface>
 		<surface xml:id="f0001" ulx="0" uly="0" lrx="1000" lry="800" sameAs="/corpus/6285564874d5f7a229b60520/Image/686c6b23a3da12d491d55e2d">
 			<label>Designs for Large P… (Title Page)</label>
 			<graphic mimeType="application/json" url="https://iiif.micr.io/nrOxX"/>
